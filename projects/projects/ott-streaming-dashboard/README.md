@@ -59,7 +59,16 @@ Developed a comprehensive analytics engine capable of extracting strategic busin
 
 ---
 
-## 📂 Project Structure
-To run or inspect this repository, files are organized as follows:
-* `ott-streaming-platform.ipynb` — The primary interactive notebook containing all clean data cells, text processing pipelines, KPI outputs, and visualizations.
-* `streaming_service_data.csv` — The raw structured database containing the observations and features.
+---
+
+## 📊 Project Artifacts & Live Demos
+
+* **Interactive Notebook:** [View full Python Analytics Code](ott-streaming-platform.ipynb)
+* **Visual Dashboards:** [Browse Complete Screenshot Directory](screenshots/)
+* **Dashboard Video Walkthrough:** [Watch Power BI Dashboard Demo on Google Drive 🎥](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)
+
+### 💡 Video Navigation Guide:
+Since this is a silent walkthrough, here is a quick guide to what is being demonstrated in the video link above:
+* **Executive Summary:** Tracking absolute monthly revenue growth, active users, and platform content "Stickiness" rate.
+* **Customer Segmentation:** Utilizing interactive slicers and bookmarks to isolate specific subscriber tiers and geographic revenue.
+* **Content Performance:** Analyzing viewing behavior patterns and top content genres to support data-driven strategy decisions.
