@@ -67,8 +67,16 @@ Developed a comprehensive analytics engine capable of extracting strategic busin
 * **Visual Dashboards:** [Browse Complete Screenshot Directory](projects/projects/ott-streaming-dashboard/screenshots)
 * **Dashboard Video Walkthrough:** [Watch Power BI Dashboard Demo on Google Drive 🎥](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)
 
-### 💡 Video Navigation Guide:
-Since this is a silent walkthrough, here is a quick guide to what is being demonstrated in the video link above:
-* **Executive Summary:** Tracking absolute monthly revenue growth, active users, and platform content "Stickiness" rate.
-* **Customer Segmentation:** Utilizing interactive slicers and bookmarks to isolate specific subscriber tiers and geographic revenue.
-* **Content Performance:** Analyzing viewing behavior patterns and top content genres to support data-driven strategy decisions.
+
+### 💡 Interactive Dashboard Walkthrough Guide
+*Since this video demonstration is a silent walkthrough, the following navigation index outlines the exact Business Intelligence configurations, user experiences (UX), and dynamic operations being demonstrated:*
+
+* **🌐 UI/UX & Navigation Bar Validation (0:00 - Begin):** Demonstrating the seamless execution of the interactive navigation menu. This highlights custom page-routing architecture, confirming that end-users can transition flawlessly across separate reporting layers without breaks or calculation delays.
+
+* **📊 Complete Dashboard Architecture Overview:** A systematic structural review of all reporting canvases. This showcases the comprehensive visual layout, strategic placement of high-level KPI blocks, typography consistency, and overall dashboard aesthetic tailored for C-suite review.
+
+* **🎛️ Dynamic Cross-Filtering & Slicer Evaluation:** A live stress-test of interactive visual slicers. This demonstrates how a single selection trigger instantly updates, recalibrates, and redraws global visualizations simultaneously—proving responsive DAX modeling and clean backend data relationships.
+
+* **🔄 Multi-Page Synchronized Slicer Testing:** Replicating data-slicing operations across multiple distinct sheets. This validates synchronized slicer connections, ensuring that granular filtering states persist seamlessly across separate analytical views for unified data exploration.
+
+* **🔍 Final Visual Quality Audit:** A closing comprehensive sweep of all dashboard sheets to verify rendering stability, accurate data alignment, and production-ready interface aesthetics.
