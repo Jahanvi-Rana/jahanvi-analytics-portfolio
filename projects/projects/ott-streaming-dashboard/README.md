@@ -63,8 +63,8 @@ Developed a comprehensive analytics engine capable of extracting strategic busin
 
 ## 📊 Project Artifacts & Live Demos
 
-* **Interactive Notebook:** [View full Python Analytics Code](ott-streaming-platform.ipynb)
-* **Dataset:** [Browse Structured CSV Database](streaming_service_data.csv)
+* `ott-streaming-platform.ipynb` — Interactive notebook containing all clean data cells, text processing pipelines, KPI outputs, and visualizations (accessible directly in the repository folder above).
+* `streaming_service_data.csv` — The raw structured database containing the observations and features.
 * **Visual Dashboards:** [Browse Complete Screenshot Directory](projects/projects/ott-streaming-dashboard/screenshots)
 * **Dashboard Video Walkthrough:** [Watch Power BI Dashboard Demo on Google Drive 🎥](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)
 
