@@ -3,8 +3,8 @@
   <h1>👋 Hi, I'm Jahanvi Rana</h1>
   <h3>Data Analyst | Power BI Developer | Analytics Engineer</h3>
   <p>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="[https://github.com](https://github.com/Jahanvi-Rana/Jahanvi-Rana)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="[https://linkedin.com](https://www.linkedin.com/in/jahanvirana/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="[[https://github.com](https://github.com/Jahanvi-Rana/Jahanvi-Rana)](https://github.com/Jahanvi-Rana/Jahanvi-Rana)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="mailto:ranajahanvi63@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
   <p>💡 <b>Data Analyst and BI enthusiast</b> skilled in Python, SQL, Power BI, and ensemble machine learning algorithms. I specialize in building end-to-end analytics solutions, transforming raw enterprise data into actionable business strategies, and crafting high-fidelity KPI dashboards to solve complex business puzzles.</p>
@@ -70,7 +70,7 @@
   - Engineered automated Python pipelines utilizing **Pandas** for rigorous raw data extraction, cleaning, structural validation, and exploratory analytics.
   - Modeled a structured multi-page Power BI dashboard incorporating dynamic **DAX formulas** to calculate mission-critical operational metrics like *Monthly Revenue, Active Users, Retention Rates, and Conversion Windows*.
   - Deployed intuitive UI/UX navigation infrastructure including seamless drill-through layers, bookmarks, and parameters for decision-support optimization.
-- ➡️ **[Explore Repository Draft](projects/ott-streaming-dashboard)** | 📊 **[View Dashboard on Google Drive](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)**
+- ➡️ **[Explore Repository Draft](projects/projects/ott-streaming-dashboard)** | 📊 **[View Dashboard on Google Drive](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)**
 
 ---
 
@@ -83,7 +83,7 @@
   - Implemented, tuned, and cross-evaluated state-of-the-art gradient-boosted architectures (**XGBoost, LightGBM, and CatBoost**) to track trend lines.
   - Benchmarked predictive system performance using **MAE, RMSE, and $R^2$ metrics** to find the most optimal configuration.
   - Accompanied the engine with an analytical Power BI control room tracking price vectors, economic variables, correlation heatmaps, and future forecasts.
-- ➡️ **[Explore Repository Draft](projects/gold-price-forecasting)** | 📊 **[View Market Dashboard](https://drive.google.com/file/d/152X6GEbXTDm5v7WR89sKmGtMc5DLDdbl/view?usp=sharing)**
+- ➡️ **[Explore Repository Draft](projects/projects/gold-price-forecasting)** | 📊 **[View Market Dashboard](https://drive.google.com/file/d/152X6GEbXTDm5v7WR89sKmGtMc5DLDdbl/view?usp=sharing)**
 
 <br>
 
