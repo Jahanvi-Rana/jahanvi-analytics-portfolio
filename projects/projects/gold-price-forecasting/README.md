@@ -66,7 +66,7 @@
 
 * `gold-prediction-model.ipynb` — Interactive master notebook containing all automated spreadsheet extraction logic, advanced macroeconomic feature engineering pipelines, machine learning ensemble model validations, and predictive time-series visualizations.
 * `Gold_Industry_Ready_Dataset.xlsx` — The raw, multi-sheet master database hosting the entire structural tracking parameters, macro indicators, and historical exchange rates required to feed the analytics engine.
-* **Visual Dashboards:** [Browse Complete Screenshot Directory]([projects/projects/gold-price-forecasting/screenshots](https://github.com/Jahanvi-Rana/jahanvi-analytics-portfolio/tree/main/projects/projects/gold-price-forecasting/screenshots))
+* **Visual Dashboards:** [Browse Complete Screenshot Directory](https://github.com/Jahanvi-Rana/jahanvi-analyticsportfolio/tree/main/projects/projects/gold-price-forecasting/screenshots)
 * **Dashboard Video Walkthrough:** [Watch Power BI Dashboard Demo on Google Drive 🎥](https://drive.google.com/file/d/152X6GEbXTDm5v7WR89sKmGtMc5DLDdbl/view?usp=sharing)
 
 ---
