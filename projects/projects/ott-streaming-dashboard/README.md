@@ -464,7 +464,7 @@ The Project Overview page introduces the objectives, business use case, dashboar
 It serves as an introduction for users before they begin exploring the analytical dashboards.
 
 <p align="center">
-<img src="projects/projects/ott-streaming-dashboard/screenshots/1_project_overview.png" width="60%">
+<img src="screenshots/1_project_overview.png" width="40%">
 </p>
 
 <p align="center">
@@ -495,7 +495,7 @@ The Executive KPI Dashboard provides a consolidated overview of platform perform
 It enables stakeholders to monitor the overall health of the OTT platform without navigating through multiple reports.
 
 <p align="center">
-<img src="screenshots/2_cards_and_kpi.png" width="100%">
+<img src="screenshots/2_cards_and_kpi.png" width="40%">
 </p>
 
 <p align="center">
@@ -536,7 +536,7 @@ Revenue is one of the most critical business metrics for any subscription-based 
 This dashboard analyzes how subscription revenue is distributed across different countries, membership plans, and time periods.
 
 <p align="center">
-<img src="screenshots/3_revenue_trends.png" width="100%">
+<img src="screenshots/3_revenue_trends.png" width="40%">
 </p>
 
 <p align="center">
@@ -573,7 +573,7 @@ Understanding customer engagement is essential for improving retention and maxim
 This dashboard analyzes user behavior, watch hours, loyalty, and the relationship between platform engagement and customer satisfaction.
 
 <p align="center">
-<img src="screenshots/4_User Engagement & Retention Analytics.png" width="100%">
+<img src="screenshots/4_User Engagement & Retention Analytics.png" width="40%">
 </p>
 
 <p align="center">
