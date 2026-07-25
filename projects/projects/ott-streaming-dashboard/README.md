@@ -464,7 +464,7 @@ The Project Overview page introduces the objectives, business use case, dashboar
 It serves as an introduction for users before they begin exploring the analytical dashboards.
 
 <p align="center">
-<img src="projects/projects/ott-streaming-dashboard/screenshots/1_project_overview.png" width="100%">
+<img src="projects/projects/ott-streaming-dashboard/screenshots/1_project_overview.png" width="60%">
 </p>
 
 <p align="center">
