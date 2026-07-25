@@ -108,7 +108,7 @@ The project was developed over approximately **five weeks** alongside academic c
 
 # 🚀 Project Highlights
 
-### 📊 Business Intelligence
+###  Business Intelligence
 
 - Executive KPI Dashboard
 - Revenue Analytics
@@ -128,7 +128,7 @@ The project was developed over approximately **five weeks** alongside academic c
 - Business Insight Generation
 - Data Visualization
 
-### 📈 Power BI
+###  Power BI
 
 - Interactive Dashboard
 - Dynamic Slicers
@@ -137,12 +137,285 @@ The project was developed over approximately **five weeks** alongside academic c
 - Cross Filtering
 - Executive Reporting
 
-### 📋 Business Deliverables
+###  Business Deliverables
 
 - Business Recommendations
 - Strategic Insights
 - Executive Reporting
 - Decision Support Analytics
+
+---
+
+---
+
+# 🏗️ Project Architecture
+
+The project follows a complete end-to-end Business Intelligence workflow, transforming raw streaming platform data into executive-level insights through multiple analytical stages.
+
+```text
+                          RAW DATASET (CSV)
+                                 │
+                                 ▼
+                 Microsoft Excel (Initial Validation)
+                                 │
+                                 ▼
+              Data Cleaning & Preprocessing (Python)
+                                 │
+                                 ▼
+            Exploratory Data Analysis (EDA)
+                                 │
+                                 ▼
+             Feature Engineering & KPI Creation
+                                 │
+                                 ▼
+          Statistical Analysis & Correlation Study
+                                 │
+                                 ▼
+         Business Insights & Recommendation Engine
+                                 │
+                                 ▼
+            Power BI Dashboard Development
+                                 │
+                                 ▼
+         Executive Business Intelligence Reporting
+```
+
+The workflow was designed to simulate a real-world analytics pipeline, where raw operational data is progressively transformed into strategic business intelligence that supports executive decision-making.
+
+---
+
+# 🛠️ Technology Stack
+
+The project combines multiple analytics tools, each serving a specific role in the Business Intelligence lifecycle.
+
+| Category | Technology | Purpose |
+|----------|------------|---------|
+| Programming Language | Python | Data Analysis & Automation |
+| Spreadsheet Software | Microsoft Excel | Initial Data Validation & Formatting |
+| Business Intelligence | Power BI | Interactive Dashboard Development |
+| Data Manipulation | Pandas | Cleaning, Transformation & Aggregation |
+| Numerical Computing | NumPy | Mathematical Operations |
+| Data Visualization | Matplotlib | Exploratory Visualizations |
+| Statistical Visualization | Seaborn | Correlation & Distribution Analysis |
+| Notebook Environment | Jupyter Notebook | Interactive Development |
+| Version Control | Git & GitHub | Project Management & Portfolio |
+
+---
+# 📂 Repository Structure
+
+```text
+ott-streaming-dashboard/
+│
+├── 📁 notebooks/
+│   ├── Streaming_Platform_Project.xlsx
+│   ├── ott-streaming-platform.ipynb
+│   └── streaming_service_data.csv
+│
+├── 📁 screenshots/
+│   ├── 1_cards_and_KPI.png
+│   ├── 2_revenue_trends.png
+│   ├── 3_User_Engagement_&_Retention.png
+│   ├── 4_Subscriber_trends.png
+│   └── 5_Subscriber_Demographics.png
+│
+├── 📄 README.md
+│
+└── 📄 .gitkeep
+```
+
+### Repository Contents
+
+| Folder/File | Description |
+|-------------|-------------|
+| **notebooks/** | Contains the complete analytics workflow, including the Excel workbook, Python notebook, and source dataset. |
+| **Streaming_Platform_Project.xlsx** | Excel workbook used for initial data validation, formatting, preprocessing, and exploratory preparation. |
+| **ott-streaming-platform.ipynb** | Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), statistical analysis, KPI engineering, business insights, and visualization. |
+| **streaming_service_data.csv** | Primary dataset used throughout the analysis. |
+| **screenshots/** | High-resolution images of the Power BI dashboard pages used in the README and portfolio. |
+| **README.md** | Comprehensive project documentation explaining the complete Business Intelligence workflow. |
+
+---
+
+# 📊 Dataset Overview
+
+The project uses a structured OTT streaming platform dataset representing user activity, subscription behavior, engagement metrics, demographic information, and revenue data.
+
+The dataset was originally inspired by a public Kaggle dataset and further enhanced through additional preprocessing and custom modifications to simulate more realistic business scenarios.
+
+Approximately **60%** of the original dataset structure was retained, while the remaining **40%** was refined through preprocessing, formatting, validation, and custom enhancements to improve analytical quality.
+
+---
+
+## Dataset Characteristics
+
+The dataset contains multiple business entities, including:
+
+- 👤 Customer Information
+- 🎬 Content Consumption
+- 💳 Subscription Details
+- 💰 Revenue Information
+- ⭐ User Ratings
+- 📺 Watch Hours
+- 📅 Subscription Dates
+- 🌍 Geographic Information
+- 📱 Device Usage
+- 🎯 Membership Plans
+- 🎁 Loyalty Points
+- 📈 User Activity
+
+These features enable comprehensive analysis across customer behavior, financial performance, platform engagement, and business growth.
+
+---
+
+## Business Questions Addressed
+
+This project was designed to answer several key business questions frequently encountered in streaming platform analytics.
+
+### Customer Analytics
+
+- Who are the platform's most valuable customers?
+- Which demographic groups contribute the highest engagement?
+- How does customer behavior vary across different age groups?
+
+---
+
+### Content Analytics
+
+- Which genres receive the highest watch hours?
+- Which content categories drive long-term engagement?
+- What type of content should the platform invest in?
+
+---
+
+### Revenue Analytics
+
+- Which subscription plan generates the highest revenue?
+- How does revenue vary across customer segments?
+- What opportunities exist for subscription optimization?
+
+---
+
+### Growth Analytics
+
+- How has subscriber acquisition changed over time?
+- Which months experience the highest customer growth?
+- What trends indicate future platform expansion?
+
+---
+
+### Customer Satisfaction
+
+- Is there a relationship between watch hours and customer ratings?
+- Which users demonstrate the highest platform loyalty?
+- Which factors contribute to stronger customer retention?
+
+---
+
+# 📋 Analytical Workflow
+
+The project follows a structured Business Intelligence methodology consisting of multiple analytical stages.
+
+### Phase 1 — Data Collection
+
+- Dataset acquisition
+- Data validation
+- Structure verification
+
+---
+
+### Phase 2 — Data Preparation
+
+- Missing value handling
+- Duplicate checking
+- Date formatting
+- Data type conversion
+- Feature standardization
+
+---
+
+### Phase 3 — Exploratory Data Analysis
+
+- Descriptive statistics
+- Distribution analysis
+- Trend analysis
+- Category analysis
+- Correlation analysis
+
+---
+
+### Phase 4 — KPI Engineering
+
+Creation of business metrics such as:
+
+- Total Revenue
+- Total Users
+- Total Watch Hours
+- Average Rating
+- Average Monthly Price
+- Average Loyalty Points
+- Average Watch Hours
+- Target Watch Hours
+
+---
+
+### Phase 5 — Dashboard Development
+
+Building interactive Power BI dashboards featuring:
+
+- Executive KPIs
+- Interactive Slicers
+- Drill-down Analysis
+- Cross-filtering
+- Dynamic Visualizations
+- Business Storytelling
+
+---
+
+### Phase 6 — Business Recommendation
+
+The final stage translates analytical findings into strategic recommendations for:
+
+- Content acquisition strategy
+- Revenue optimization
+- Customer engagement
+- Subscription growth
+- User retention
+- Platform expansion
+
+---
+
+# 🎯 Skills Demonstrated
+
+This project demonstrates practical experience across the complete Data Analytics workflow.
+
+### Technical Skills
+
+- Microsoft Excel
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- DAX
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- KPI Engineering
+- Dashboard Development
+
+---
+
+### Business Skills
+
+- Business Intelligence
+- Customer Analytics
+- Revenue Analytics
+- User Segmentation
+- Executive Reporting
+- Data Storytelling
+- Decision Support
+- Strategic Recommendation Development
 
 ---
 
