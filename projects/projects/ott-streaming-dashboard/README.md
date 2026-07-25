@@ -601,6 +601,210 @@ This dashboard helps identify customer engagement patterns, evaluate retention b
 
 ---
 
+---
+
+# 📈 5. Subscriber Trends Dashboard
+
+## 🎯 Business Objective
+
+Sustainable growth is one of the primary objectives of any subscription-based streaming platform.
+
+This dashboard analyzes subscriber acquisition trends, membership distribution, and platform growth over time to help stakeholders understand customer expansion and identify periods of high or low subscriber growth.
+
+<p align="center">
+<img src="screenshots/5_subscriber_trends.png" width="100%">
+</p>
+
+<p align="center">
+<i><b>Figure 5.</b> Subscriber Trends Dashboard highlighting customer acquisition patterns, membership distribution, subscription growth, and user expansion over time.</i>
+</p>
+
+### 📊 Visualizations Included
+
+- 📈 Monthly Subscriber Growth Trend
+- 📊 Membership Plan Distribution
+- 👥 Subscriber Growth Analysis
+- 📅 Monthly Subscription Overview
+
+### 🎛️ Interactive Filters
+
+- Country
+- Age Group
+- Favorite Genre
+- Account Status
+- Payment Method
+- Watch Window
+
+### 💡 Key Business Insights
+
+- Identifies periods of rapid subscriber acquisition.
+- Highlights the most popular subscription plans.
+- Reveals long-term platform growth trends.
+- Supports future customer acquisition planning.
+
+### 🚀 Business Value
+
+Business leaders can use this dashboard to evaluate growth performance, identify successful acquisition periods, and improve future subscription strategies.
+
+---
+
+# 🌍 6. Subscriber Demographics & Portfolio Segmentation
+
+## 🎯 Business Objective
+
+Understanding customer demographics helps organizations personalize user experiences, optimize marketing campaigns, and improve content recommendations.
+
+This dashboard provides a comprehensive view of customer segmentation based on demographic and behavioral attributes.
+
+<p align="center">
+<img src="screenshots/6_subscriber_demographics.png" width="100%">
+</p>
+
+<p align="center">
+<i><b>Figure 6.</b> Subscriber Demographics Dashboard illustrating customer segmentation across age groups, gender, geography, membership plans, and viewing preferences.</i>
+</p>
+
+### 📊 Visualizations Included
+
+- 🌍 Geographic Distribution
+- 👥 Age Group Analysis
+- 🚻 Gender Distribution
+- 📱 Device Preference Analysis
+- 🎬 Favorite Genre Distribution
+- 💳 Membership Segmentation
+
+### 🎛️ Interactive Filters
+
+- Country
+- Gender
+- Favorite Genre
+- Membership Plan
+- Payment Method
+- Watch Window
+
+### 💡 Key Business Insights
+
+- Identifies high-value customer segments.
+- Highlights regional audience differences.
+- Shows demographic viewing preferences.
+- Supports personalized marketing strategies.
+- Improves customer targeting.
+
+### 🚀 Business Value
+
+This dashboard enables businesses to better understand their audience and create more personalized marketing campaigns, content strategies, and customer engagement initiatives.
+
+---
+
+# 🚀 7. Advanced Monetization & Feature Effectiveness Dashboard
+
+## 🎯 Business Objective
+
+Beyond customer acquisition and engagement, long-term platform success depends on effective monetization strategies and feature performance.
+
+This dashboard evaluates revenue optimization opportunities while measuring how platform features contribute to customer engagement and business growth.
+
+<p align="center">
+<img src="screenshots/7_advanced_monetization.png" width="100%">
+</p>
+
+<p align="center">
+<i><b>Figure 7.</b> Advanced Monetization & Feature Effectiveness Dashboard presenting monetization opportunities, feature performance analysis, and strategic business indicators.</i>
+</p>
+
+### 📊 Visualizations Included
+
+- 💰 Revenue Optimization Metrics
+- 📈 Feature Performance Analysis
+- 🎯 Customer Value Indicators
+- 📊 Monetization Comparisons
+- 📉 Strategic Business KPIs
+
+### 🎛️ Interactive Filters
+
+- Country
+- Membership Plan
+- Favorite Genre
+- Payment Method
+- Age Group
+- Account Status
+
+### 💡 Key Business Insights
+
+- Identifies opportunities to increase platform revenue.
+- Evaluates customer value across different subscription segments.
+- Highlights feature effectiveness.
+- Supports long-term monetization planning.
+- Assists executive decision-making.
+
+### 🚀 Business Value
+
+The dashboard provides strategic insights that help businesses maximize profitability while improving customer satisfaction and long-term platform sustainability.
+
+---
+
+# ⚡ Interactive Dashboard Features
+
+The dashboard was designed to provide an intuitive Business Intelligence experience through interactive reporting and dynamic exploration.
+
+### Key Features
+
+- ✅ Interactive Slicers
+- ✅ Dynamic Cross-Filtering
+- ✅ Multi-Page Navigation
+- ✅ Responsive KPI Cards
+- ✅ Drill-Down Visual Analysis
+- ✅ Business-Oriented Layout
+- ✅ Executive Reporting Interface
+
+These interactive capabilities allow stakeholders to explore the data from multiple perspectives without modifying the underlying dataset.
+
+---
+
+# 📖 Dashboard Storytelling Approach
+
+Rather than presenting isolated charts, the dashboard follows a structured storytelling approach.
+
+```text
+Project Overview
+        ↓
+Platform Performance
+        ↓
+Revenue Analysis
+        ↓
+Customer Engagement
+        ↓
+Subscriber Growth
+        ↓
+Customer Segmentation
+        ↓
+Revenue Optimization
+        ↓
+Business Recommendations
+```
+
+Each dashboard page answers a different business question while naturally leading the user toward strategic decision-making.
+
+---
+
+# 🏆 Dashboard Outcome
+
+The final Power BI dashboard successfully transforms raw analytical findings into a complete Business Intelligence reporting solution.
+
+The dashboard enables stakeholders to:
+
+- Monitor overall platform performance.
+- Analyze customer engagement.
+- Track subscription growth.
+- Evaluate revenue trends.
+- Understand audience demographics.
+- Explore monetization opportunities.
+- Support strategic business decisions through interactive reporting.
+
+By combining analytical insights with intuitive visual storytelling, the dashboard demonstrates how Business Intelligence tools can convert complex data into actionable business knowledge.
+
+---
+
 
 # TEMPORARY 
 # TEMPORARY 
