@@ -612,7 +612,7 @@ Sustainable growth is one of the primary objectives of any subscription-based st
 This dashboard analyzes subscriber acquisition trends, membership distribution, and platform growth over time to help stakeholders understand customer expansion and identify periods of high or low subscriber growth.
 
 <p align="center">
-<img src="screenshots/5_subscriber_trends.png" width="100%">
+<img src="screenshots/5_subscriber_trends.png" width="50%">
 </p>
 
 <p align="center">
@@ -657,7 +657,7 @@ Understanding customer demographics helps organizations personalize user experie
 This dashboard provides a comprehensive view of customer segmentation based on demographic and behavioral attributes.
 
 <p align="center">
-<img src="screenshots/6_subscriber_demographics.png" width="100%">
+<img src="screenshots/6_subscriber_demographics.png" width="50%">
 </p>
 
 <p align="center">
@@ -705,7 +705,7 @@ Beyond customer acquisition and engagement, long-term platform success depends o
 This dashboard evaluates revenue optimization opportunities while measuring how platform features contribute to customer engagement and business growth.
 
 <p align="center">
-<img src="screenshots/7_advanced_monetization.png" width="100%">
+<img src="screenshots/7_advanced_monetization.png" width="50%">
 </p>
 
 <p align="center">
@@ -805,6 +805,172 @@ By combining analytical insights with intuitive visual storytelling, the dashboa
 
 ---
 
+---
+
+# 🎥 Project Deliverables & Live Demonstration
+
+The following deliverables represent the complete analytical workflow developed throughout this project.
+
+They provide recruiters, hiring managers, and fellow data professionals with direct access to the project artifacts, allowing them to review the implementation from raw data preparation to interactive Business Intelligence reporting.
+
+Whether you want to inspect the source code, explore the dataset, understand the dashboard design, or watch the final Business Intelligence solution in action, every major project asset is available below.
+
+---
+
+# 📦 Project Deliverables
+
+| Deliverable | Description |
+|-------------|-------------|
+| 📒 **Python Notebook** | Complete end-to-end analytics workflow including data preprocessing, exploratory data analysis (EDA), statistical analysis, KPI engineering, business insights, and visualizations. |
+| 📊 **Dataset (CSV)** | Structured OTT streaming platform dataset used throughout the project for customer, subscription, revenue, and engagement analysis. |
+| 📗 **Excel Workbook** | Initial data validation, formatting, preprocessing, and data preparation before Python analysis. |
+| 📈 **Power BI Dashboard** | Interactive Business Intelligence dashboard containing executive KPIs, revenue analysis, customer analytics, subscriber trends, demographic segmentation, and monetization insights. |
+| 📄 **Project Documentation** | Complete GitHub case study explaining the business problem, analytical workflow, dashboard development, insights, and recommendations. |
+| 🎥 **Dashboard Walkthrough** | Silent demonstration showcasing the interactive Power BI dashboard, navigation, slicers, filters, and Business Intelligence reporting experience. |
+
+---
+
+# 🔗 Access Project Assets
+
+| Resource | Link |
+|----------|------|
+| 📒 Python Notebook | [`ott-streaming-platform.ipynb`](notebooks/ott-streaming-platform.ipynb) |
+| 📊 Dataset | [`streaming_service_data.csv`](notebooks/streaming_service_data.csv) |
+| 📗 Excel Workbook | [`Streaming_Platform_Project.xlsx`](notebooks/Streaming_Platform_Project.xlsx) |
+| 🎥 Dashboard Walkthrough | **[▶ Watch Power BI Dashboard Demo]((https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing))** |
+
+---
+
+> ## 📌 Recruiter Note
+>
+> If you're reviewing this project from a technical or business perspective, the following order provides the best understanding of the complete analytical workflow:
+>
+> **1. Executive KPI Dashboard** → Understand the business overview.
+>
+> **2. Python Notebook** → Explore the complete analytical workflow including preprocessing, EDA, KPI engineering, and statistical analysis.
+>
+> **3. Dashboard Walkthrough** → Experience the interactive Business Intelligence solution.
+>
+> **4. Dataset & Excel Workbook** → Review the underlying data and preprocessing steps.
+>
+> Following this sequence demonstrates how raw business data was transformed into actionable insights and executive-level reporting.
+
+---
+
+# 🎥 Interactive Dashboard Walkthrough
+
+The dashboard walkthrough demonstrates how the Business Intelligence solution can be explored through interactive navigation, dynamic filtering, synchronized slicers, and executive reporting.
+
+Although the walkthrough is presented without narration, the following guide explains what is demonstrated throughout the video.
+
+---
+
+## 📍 Walkthrough Guide
+
+### 🌐 1. Navigation & User Experience
+
+The walkthrough begins with the custom navigation system, demonstrating smooth movement across multiple analytical dashboard pages.
+
+This showcases the overall user experience, report organization, and intuitive Business Intelligence interface.
+
+**Highlights**
+
+- Dashboard navigation
+- User interface consistency
+- Reporting layout
+- Executive dashboard experience
+
+---
+
+### 📊 2. Dashboard Architecture
+
+The overall dashboard structure is introduced, providing a complete overview of how the Business Intelligence solution is organized.
+
+This demonstrates the logical progression from executive KPIs to detailed business analysis.
+
+**Highlights**
+
+- Dashboard organization
+- KPI placement
+- Visual hierarchy
+- Reporting structure
+
+---
+
+### 🎛️ 3. Dynamic Slicers & Interactive Filtering
+
+Interactive slicers allow users to instantly update every connected visualization across the dashboard.
+
+This demonstrates responsive data exploration without modifying the underlying dataset.
+
+**Interactive Filters**
+
+- 🌍 Country
+- 👥 Age Group
+- 🎬 Favorite Genre
+- 💳 Membership Plan
+- 💰 Payment Method
+- ⏰ Watch Window
+
+---
+
+### 🔄 4. Cross-Filtering & Interactive Exploration
+
+The walkthrough demonstrates how selecting values within one visualization dynamically updates related reports.
+
+This interactive behavior enables users to explore relationships between customer demographics, subscriptions, engagement, and revenue.
+
+---
+
+### 📈 5. Complete Dashboard Walkthrough
+
+The demonstration continues through each analytical dashboard:
+
+- 📖 Project Overview
+- 📊 Executive KPI Dashboard
+- 💰 Revenue Trends
+- 👥 User Engagement & Retention
+- 📈 Subscriber Trends
+- 🌍 Subscriber Demographics & Portfolio Segmentation
+- 🚀 Advanced Monetization & Feature Effectiveness
+
+Each page answers a different business question while contributing to the overall analytical story.
+
+---
+
+### ✅ 6. Final Dashboard Review
+
+The walkthrough concludes with a complete review of the Business Intelligence solution.
+
+This final overview highlights:
+
+- Dashboard consistency
+- Interactive capabilities
+- Reporting quality
+- Professional dashboard design
+- Executive-level user experience
+
+---
+
+## 🎯 Purpose of the Demonstration
+
+The purpose of this walkthrough is not only to showcase dashboard design but also to demonstrate how Business Intelligence transforms analytical findings into interactive decision-support tools.
+
+Rather than presenting static charts, the dashboard enables stakeholders to explore business performance, investigate trends, compare customer segments, and generate actionable insights through an intuitive reporting experience.
+
+---
+
+# 📌 From Dashboards to Decisions
+
+The dashboards presented above summarize analytical findings across customer behavior, subscription performance, revenue trends, engagement metrics, demographic segmentation, and monetization opportunities.
+
+However, dashboards alone do not create business value.
+
+The true purpose of data analytics is to convert observations into actionable insights that support strategic decision-making.
+
+The following section presents the key business insights discovered during the analysis, followed by practical recommendations that could help improve customer engagement, optimize subscription revenue, strengthen content strategy, and support long-term platform growth.
+
+---
 
 # TEMPORARY 
 # TEMPORARY 
