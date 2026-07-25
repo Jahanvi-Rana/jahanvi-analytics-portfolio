@@ -419,71 +419,191 @@ This project demonstrates practical experience across the complete Data Analytic
 
 ---
 
+---
+
+# 📊 Business Intelligence Dashboard
+
+After completing the data preparation, exploratory analysis, KPI engineering, and statistical evaluation in Python, the analytical findings were transformed into an interactive **Power BI Business Intelligence Dashboard**.
+
+Rather than presenting static charts, the dashboard was designed to help stakeholders explore customer behavior, subscription performance, revenue trends, demographic segmentation, and business growth through interactive visualizations.
+
+> **📖 Note:** The following dashboards are designed as an interactive Business Intelligence reporting solution. Each page focuses on a different business domain, enabling stakeholders to explore customer behavior, revenue trends, engagement metrics, demographic segmentation, and monetization opportunities through dynamic visualizations, filters, and slicers.
+
+---
+
+# 🗂️ Dashboard Navigation
+
+The dashboard follows a logical analytical workflow.
+
+```text
+Project Overview
+        ↓
+Executive KPI Dashboard
+        ↓
+Revenue Trends
+        ↓
+User Engagement & Retention
+        ↓
+Subscriber Trends
+        ↓
+Subscriber Demographics & Portfolio Segmentation
+        ↓
+Advanced Monetization & Feature Effectiveness
+```
+
+Each dashboard builds upon the previous one, creating a complete business story from overall platform health to detailed strategic recommendations.
+
+---
+
+# 📖 1. Project Overview
+
+## 🎯 Business Objective
+
+The Project Overview page introduces the objectives, business use case, dashboard features, and high-level platform KPIs.
+
+It serves as an introduction for users before they begin exploring the analytical dashboards.
+
+<p align="center">
+<img src="projects/projects/ott-streaming-dashboard/screenshots/1_project_overview.png" width="100%">
+</p>
+
+<p align="center">
+<i><b>Figure 1.</b> Project Overview dashboard introducing the Business Intelligence solution, project objectives, dashboard features, and executive summary KPIs.</i>
+</p>
+
+### 📌 Overview Includes
+
+- Project description
+- Business objectives
+- Dashboard features
+- Navigation buttons
+- Executive KPI summary
+- Platform overview
+
+### 💡 Business Value
+
+This page provides stakeholders with context before exploring the analytical dashboards, ensuring they understand the business objectives, reporting structure, and overall purpose of the project.
+
+---
+
+# 📊 2. Executive KPI Dashboard
+
+## 🎯 Business Objective
+
+The Executive KPI Dashboard provides a consolidated overview of platform performance through high-level business metrics.
+
+It enables stakeholders to monitor the overall health of the OTT platform without navigating through multiple reports.
+
+<p align="center">
+<img src="screenshots/2_cards_and_kpi.png" width="100%">
+</p>
+
+<p align="center">
+<i><b>Figure 2.</b> Executive KPI Dashboard displaying platform-wide performance indicators, customer engagement metrics, subscription statistics, and interactive filtering options.</i>
+</p>
+
+### 📌 KPIs Displayed
+
+- 👥 Total Users
+- 💰 Total Revenue
+- 📺 Total Watch Hours
+- ⭐ Average Rating
+- 💳 Average Monthly Subscription Price
+- 🎁 Average Loyalty Points
+- ⏱️ Average Watch Hours
+
+### 📈 Interactive Filters
+
+- Country
+- Favorite Genre
+- Age Group
+- Watch Window
+- Account Status
+- Payment Method
+
+### 💡 Business Value
+
+This dashboard acts as the executive reporting layer, allowing decision-makers to quickly evaluate platform performance before performing detailed analysis.
+
+---
+
+# 💰 3. Revenue Trends Dashboard
+
+## 🎯 Business Objective
+
+Revenue is one of the most critical business metrics for any subscription-based platform.
+
+This dashboard analyzes how subscription revenue is distributed across different countries, membership plans, and time periods.
+
+<p align="center">
+<img src="screenshots/3_revenue_trends.png" width="100%">
+</p>
+
+<p align="center">
+<i><b>Figure 3.</b> Revenue Trends Dashboard illustrating geographic revenue distribution, membership status comparison, and monthly subscriber growth trends.</i>
+</p>
+
+### 📊 Visualizations Included
+
+- 🌍 Global Revenue Distribution Map
+- 📊 Membership Status vs Revenue Comparison
+- 📈 Monthly Subscriber Growth Trend
+
+### 🎛️ Interactive Filters
+
+- Country
+- Favorite Genre
+- Age Group
+- Account Status
+- Watch Window
+- Payment Method
+
+### 💡 Business Value
+
+The dashboard enables business stakeholders to identify high-performing markets, compare revenue across subscription plans, and monitor customer growth over time.
+
+---
+
+# 👥 4. User Engagement & Retention Analytics
+
+## 🎯 Business Objective
+
+Understanding customer engagement is essential for improving retention and maximizing customer lifetime value.
+
+This dashboard analyzes user behavior, watch hours, loyalty, and the relationship between platform engagement and customer satisfaction.
+
+<p align="center">
+<img src="screenshots/4_User Engagement & Retention Analytics.png" width="100%">
+</p>
+
+<p align="center">
+<i><b>Figure 4.</b> User Engagement & Retention Analytics dashboard showing genre popularity, watch-hour behavior, rating correlation, and customer loyalty analysis.</i>
+</p>
+
+### 📊 Visualizations Included
+
+- 📊 Total Users by Favorite Genre
+- 📈 User Ratings vs Total Watch Hours (Scatter Plot)
+- 📉 Loyalty Points Distribution
+
+### 🎛️ Interactive Filters
+
+- Account Status
+- Watch Window
+- Payment Method
+- Country
+- Favorite Genre
+- Age Group
+
+### 💡 Business Value
+
+This dashboard helps identify customer engagement patterns, evaluate retention behavior, and understand how viewing activity relates to customer satisfaction.
+
+---
+
 
 # TEMPORARY 
 # TEMPORARY 
-# OTT: Streaming Service Analytics & Business Intelligence Engine
-
-## 📌 Project Overview
-This project performs an end-to-end analytical assessment of a streaming service platform using Python-based data analysis techniques. The objective is to transform raw user activity, subscription, engagement, and content consumption data into meaningful business insights through statistical analysis, KPI engineering, trend identification, and data visualization.
-
-The analysis focuses on understanding customer behavior, content performance, platform growth, subscription revenue dynamics, and engagement patterns to support data-driven decision-making.
-
----
-
-## 🛠️ Core Analytical Workflows
-
-### 1. Content Performance Analysis
-* **Genre Identification:** Identifies the most popular content genres by volume.
-* **Engagement Benchmarks:** Measures average watch hours across distinct genres.
-* **Strategy Support:** Evaluates content engagement levels to support upcoming content acquisition.
-
-### 2. Membership & Revenue Analysis
-* **Tier Distribution:** Analyzes user proportions across subscription tiers.
-* **Financial Contribution:** Calculates total revenue contributions by membership category.
-* **Pricing Patterns:** Evaluates flat-rate subscription models across separate payment gateways.
-
-### 3. User Engagement Analysis
-* **Consumption Tracking:** Measures absolute platform watch-hour consumption.
-* **Efficiency Ratios:** Computes derived engagement efficiency metrics ("Stickiness").
-* **Behavior Isolation:** Assesses user activity curves and viewing behavior patterns.
-
-### 4. Customer Satisfaction Analysis
-* **Rating Distributions:** Examines user rating patterns and tendencies.
-* **Correlation Verification:** Performs Pearson correlation analysis between watch volume and ratings.
-* **Quality Mapping:** Identifies hidden relationships between system engagement and sentiment scores.
-
-### 5. Growth & Acquisition Analysis
-* **Temporal Processing:** Converts date formats into consistent monthly periods.
-* **Velocity Tracking:** Tracks monthly acquisition and signup curves.
-* **Trend Isolation:** Calculates velocity percentage changes and isolates peak acquisition periods.
-
-### 6. KPI Engineering & Executive Reporting
-* **Health Indicators:** Generates platform health benchmarks for C-suite reviews.
-* **Performance Outlines:** Produces revenue, active user counts, and month-over-month growth metrics.
-* **Operational Strategy:** Summarizes data-driven recommendations for user lifecycles.
-
-### 7. Data Visualization & Storytelling
-* **Categorical Visuals:** Renders genre engagement leaderboards using sorted bar charts.
-* **Spread Analysis:** Explores watch-hour distributions using continuous histograms.
-* **Chronological Tracking:** Visualizes user acquisition curves using timeline charts.
-
----
-
-## 💻 Technologies & Libraries Used
-* **Core Language:** Python
-* **Data Manipulation:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
-* **Analytical Domains:** Exploratory Data Analysis (EDA), Statistical Analysis, Correlation Verification, Time-Series Period Conversions, KPI Engineering, Business Intelligence Reporting
-
----
-
-## 🚀 Project Outcome
-Developed a comprehensive analytics engine capable of extracting strategic business insights from streaming platform data through automated preprocessing, statistical evaluation, KPI generation, trend tracking, and clean visual storytelling.
-
----
-
----
 
 ## 📊 Project Artifacts & Live Demos
 
