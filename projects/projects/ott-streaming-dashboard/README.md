@@ -836,8 +836,7 @@ Whether you want to inspect the source code, explore the dataset, understand the
 |----------|------|
 | 📒 Python Notebook | [`ott-streaming-platform.ipynb`](notebooks/ott-streaming-platform.ipynb) |
 | 📊 Dataset | [`streaming_service_data.csv`](notebooks/streaming_service_data.csv) |
-| 📗 Excel Workbook | [`Streaming_Platform_Project.xlsx`](notebooks/Streaming_Platform_Project.xlsx) |
-| 🎥 Dashboard Walkthrough | **[▶ Watch Power BI Dashboard Demo]((https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing))** |
+| 🎥 Dashboard Walkthrough | **[▶ Watch Power BI Dashboard Demo](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)** |
 
 ---
 
