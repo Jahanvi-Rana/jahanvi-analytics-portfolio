@@ -1,0 +1,1001 @@
+User_ID,User_Name,Join_Date,Last_Login,Monthly_Price,Watch_Hours,Favorite_Genre,Active_Devices,Profile_Count,Parental_Controls,Total_Movies_Watched,Total_Series_Watched,Country,Payment_Method,Language_Preference,Recommended_Content_Count,Average_Rating_Given,Has_Downloaded_Content,Membership_Status,Loyalty_Points,First_Device_Used,Age_Group,Primary_Watch_Time
+2518,Amber,15-05-2023,13-12-2024,7.99,49,Action,3,6,YES,641,117,USA,PayPal,Hindi,84,3.3,NO,Expired,2878,Smartphone,35-44,Late Night
+6430,Patrick,04-03-2023,15-12-2024,7.99,161,Drama,1,2,YES,192,65,USA,PayPal,German,69,4,NO,Expired,2291,Desktop,25-34,Evening
+1798,Robert,08-02-2023,14-12-2024,11.99,87,Action,2,5,NO,260,127,Canada,Debit Card,Mandarin,56,3.1,NO,Active,1692,Desktop,35-44,Late Night
+5255,Cole,31-01-2023,12-02-2024,15.99,321,Sci-Fi,1,5,NO,61,192,UK,Debit Card,Mandarin,47,4.6,NO,Paused,952,Desktop,25-34,Evening
+2854,Jamie,06-06-2023,15-12-2024,11.99,386,Documentary,1,4,YES,230,2,USA,PayPal,Mandarin,39,3.7,NO,Cancelled,1823,Desktop,25-34,Late Night
+6735,Mary,17-09-2023,19-11-2024,15.99,408,Documentary,2,6,YES,837,105,India,Credit Card,Spanish,71,4.3,YES,Expired,33,Smart TV,18-24,Morning
+2995,Theodore,25-08-2024,12-10-2024,7.99,475,Horror,5,4,YES,510,143,USA,Credit Card,English,1,4.5,NO,Active,755,Laptop,35-44,Late Night
+5120,Olivia,31-05-2024,14-12-2024,15.99,258,Action,4,1,YES,907,47,Australia,Debit Card,Hindi,32,3.7,YES,Paused,2866,Smartphone,45-54,Late Night
+6063,Patricia,17-06-2023,17-12-2024,15.99,183,Comedy,5,2,YES,676,61,Germany,Cryptocurrency,Mandarin,26,3.3,YES,Paused,336,Tablet,25-34,Late Night
+6896,Linda,12-02-2023,14-12-2024,7.99,164,Documentary,5,4,YES,406,79,USA,Credit Card,French,90,3.2,NO,Expired,3898,Laptop,55+,Late Night
+8447,Nichole,28-03-2023,22-11-2024,11.99,411,Comedy,5,4,YES,352,78,UK,Credit Card,English,47,3.7,NO,Expired,650,Tablet,55+,Late Night
+1433,Frances,03-02-2024,20-11-2024,15.99,160,Drama,5,6,YES,391,132,Canada,Debit Card,German,57,3,NO,Cancelled,185,Laptop,35-44,Late Night
+4511,Maurice,27-03-2023,25-11-2024,7.99,348,Drama,2,5,NO,501,71,Germany,Debit Card,French,38,4.3,NO,Paused,1547,Smartphone,45-54,Late Night
+9966,Jennifer,15-09-2024,30-11-2024,7.99,451,Documentary,3,1,NO,995,164,UK,Cryptocurrency,English,62,3,YES,Expired,3788,Smartphone,18-24,Late Night
+7093,Cheryl,06-07-2023,12-11-2024,7.99,69,Documentary,2,5,NO,222,13,France,PayPal,German,0,4.7,YES,Active,1051,Desktop,18-24,Afternoon
+4351,Kathy,18-05-2024,30-11-2024,11.99,166,Horror,1,6,YES,788,31,USA,PayPal,German,25,4.3,YES,Expired,633,Smart TV,35-44,Afternoon
+6007,Cassie,14-02-2023,17-12-2024,7.99,449,Horror,2,4,YES,369,25,Germany,Debit Card,Spanish,65,4.6,NO,Active,4133,Smartphone,25-34,Evening
+9710,Charles,06-02-2023,27-11-2024,7.99,441,Romance,1,5,NO,228,39,Germany,PayPal,Mandarin,50,3.1,YES,Cancelled,1159,Desktop,35-44,Morning
+9034,William,20-09-2023,18-12-2024,15.99,224,Comedy,1,5,YES,827,138,Canada,Debit Card,Mandarin,11,4.5,YES,Cancelled,4673,Tablet,18-24,Afternoon
+6197,Tiffany,07-03-2023,28-11-2024,15.99,44,Action,2,4,NO,983,145,India,PayPal,French,78,3,NO,Cancelled,4200,Laptop,45-54,Evening
+2820,Mark,15-07-2023,12-01-2024,7.99,202,Drama,1,5,YES,109,41,USA,Cryptocurrency,Spanish,42,4.6,NO,Cancelled,3607,Desktop,35-44,Late Night
+1101,Mary,13-06-2024,23-11-2024,15.99,39,Horror,2,3,YES,181,128,Australia,PayPal,Mandarin,3,4.5,YES,Paused,4602,Smart TV,55+,Evening
+1650,Charles,25-08-2024,23-11-2024,15.99,319,Romance,2,2,NO,842,145,France,Cryptocurrency,Mandarin,27,3.6,YES,Paused,256,Smart TV,35-44,Afternoon
+4884,Anne,19-11-2023,25-11-2024,15.99,150,Sci-Fi,3,3,YES,40,196,Canada,Debit Card,German,60,3.7,NO,Expired,2406,Laptop,55+,Evening
+8321,Carol,22-09-2023,23-11-2024,11.99,496,Romance,3,1,YES,431,41,India,Credit Card,English,91,4,YES,Paused,1394,Smart TV,55+,Afternoon
+2381,Cynthia,15-05-2024,15-12-2024,7.99,347,Horror,2,5,NO,415,194,USA,Credit Card,German,76,4.3,YES,Cancelled,1856,Desktop,18-24,Afternoon
+9507,Destiny,19-06-2023,19-11-2024,11.99,201,Action,1,6,YES,902,86,USA,Cryptocurrency,French,69,4.9,YES,Active,1665,Smart TV,18-24,Afternoon
+2851,Brittany,22-05-2024,23-11-2024,15.99,415,Romance,3,5,YES,769,144,Australia,Cryptocurrency,Spanish,98,3.9,NO,Cancelled,2759,Tablet,35-44,Evening
+4083,Amy,30-01-2024,12-10-2024,11.99,32,Horror,1,4,YES,588,137,France,Credit Card,English,85,3.7,YES,Cancelled,3433,Laptop,35-44,Afternoon
+4608,Kimberly,28-03-2024,28-11-2024,11.99,338,Comedy,3,2,YES,528,184,UK,Cryptocurrency,Spanish,58,3.7,YES,Cancelled,3966,Desktop,55+,Late Night
+4815,Ariel,07-02-2024,20-11-2024,7.99,52,Documentary,5,5,NO,467,23,USA,PayPal,Spanish,97,3.3,YES,Paused,4185,Desktop,55+,Evening
+9597,Lauren,12-06-2024,12-02-2024,11.99,447,Romance,5,5,NO,73,138,Germany,Debit Card,Hindi,84,4.1,NO,Expired,784,Smartphone,25-34,Afternoon
+6566,Joshua,22-06-2023,17-12-2024,11.99,312,Horror,5,1,YES,895,154,Germany,Debit Card,Spanish,85,4.7,YES,Expired,3428,Laptop,25-34,Evening
+1419,Megan,07-03-2023,16-12-2024,11.99,406,Sci-Fi,2,6,NO,983,113,India,Cryptocurrency,German,78,3.1,NO,Paused,4245,Smartphone,25-34,Evening
+9470,Stephanie,28-11-2023,15-12-2024,7.99,350,Horror,3,6,YES,801,156,France,Credit Card,Mandarin,66,4.6,YES,Paused,2580,Smart TV,18-24,Late Night
+4989,Terrence,01-10-2024,12-10-2024,7.99,99,Comedy,2,5,YES,96,114,USA,PayPal,Hindi,45,4.3,NO,Cancelled,2779,Smart TV,55+,Morning
+9389,Julia,10-03-2024,21-11-2024,15.99,53,Sci-Fi,1,2,NO,849,98,India,Credit Card,Mandarin,14,3.1,NO,Active,2318,Smartphone,35-44,Evening
+7728,Derrick,15-09-2023,13-12-2024,11.99,484,Romance,3,6,NO,515,174,UK,PayPal,German,12,4,YES,Cancelled,827,Smartphone,25-34,Morning
+7943,Nathan,10-01-2024,12-01-2024,15.99,211,Documentary,2,6,YES,657,137,Australia,Credit Card,Hindi,26,4,YES,Active,2670,Desktop,18-24,Late Night
+2490,Matthew,18-08-2023,19-11-2024,11.99,248,Sci-Fi,4,1,YES,426,21,India,Debit Card,Spanish,99,4.8,NO,Expired,2409,Smartphone,35-44,Late Night
+5042,Ashley,16-02-2024,23-11-2024,15.99,197,Romance,4,2,NO,309,178,Australia,Cryptocurrency,Mandarin,7,4.3,NO,Paused,1577,Smart TV,35-44,Evening
+3620,Kerri,08-07-2024,12-07-2024,15.99,253,Comedy,5,5,YES,141,199,USA,Debit Card,French,72,3.1,NO,Expired,4072,Laptop,45-54,Afternoon
+8976,Jessica,17-09-2024,12-12-2024,7.99,352,Romance,4,3,YES,112,106,France,Credit Card,French,33,4.6,YES,Paused,3432,Tablet,45-54,Afternoon
+1570,Matthew,18-07-2023,22-11-2024,11.99,97,Romance,1,2,NO,836,122,UK,Debit Card,Spanish,65,4.3,YES,Paused,4511,Smartphone,18-24,Morning
+7709,Phillip,04-04-2023,12-01-2024,11.99,283,Sci-Fi,5,2,NO,785,1,Australia,Debit Card,German,79,3.4,YES,Expired,583,Tablet,25-34,Evening
+9503,Elizabeth,04-11-2024,12-05-2024,11.99,307,Documentary,5,6,NO,857,9,France,Cryptocurrency,Hindi,55,3.2,YES,Active,3626,Laptop,35-44,Late Night
+9564,Lisa,26-04-2023,12-04-2024,15.99,203,Comedy,5,1,NO,347,18,Australia,Cryptocurrency,Spanish,8,4.4,YES,Active,476,Laptop,45-54,Afternoon
+8934,Natalie,25-03-2023,12-05-2024,7.99,22,Drama,4,3,NO,707,156,Canada,Cryptocurrency,Spanish,99,3.3,NO,Active,4114,Desktop,18-24,Evening
+1222,Autumn,09-01-2023,12-08-2024,15.99,382,Romance,2,2,NO,49,45,Canada,PayPal,Hindi,63,4,YES,Paused,1581,Smart TV,35-44,Morning
+5762,James,28-03-2024,12-02-2024,11.99,302,Comedy,5,4,NO,801,141,France,Debit Card,Mandarin,62,3.5,YES,Active,1293,Laptop,45-54,Morning
+4066,Jessica,26-03-2023,12-12-2024,11.99,76,Sci-Fi,2,3,NO,788,55,UK,Credit Card,German,50,4.8,YES,Active,1744,Laptop,18-24,Morning
+6469,Charles,18-06-2024,24-11-2024,11.99,125,Documentary,3,6,YES,853,16,Australia,PayPal,German,65,4.8,YES,Active,448,Laptop,18-24,Late Night
+1364,Michael,27-07-2023,12-02-2024,11.99,113,Horror,1,1,NO,970,159,UK,Credit Card,German,96,4.9,YES,Paused,3398,Laptop,35-44,Late Night
+4197,Jessica,31-10-2024,13-12-2024,15.99,183,Romance,3,5,NO,490,127,Canada,Debit Card,Hindi,40,4.6,YES,Cancelled,4691,Desktop,45-54,Morning
+9700,Molly,26-12-2022,30-11-2024,15.99,272,Documentary,5,1,NO,201,122,India,Cryptocurrency,English,94,4.6,YES,Expired,4674,Laptop,45-54,Afternoon
+5644,Joshua,04-06-2024,12-03-2024,11.99,19,Comedy,4,2,YES,741,36,France,PayPal,English,13,4.4,NO,Cancelled,3641,Tablet,18-24,Afternoon
+5420,Lance,31-12-2022,12-01-2024,11.99,204,Drama,4,6,NO,928,30,India,Credit Card,Mandarin,58,4.4,NO,Expired,1765,Smartphone,45-54,Late Night
+7560,Lori,24-12-2022,12-03-2024,7.99,345,Horror,3,3,NO,80,100,USA,Credit Card,Hindi,40,4.9,YES,Paused,3462,Smartphone,55+,Morning
+9644,Mark,09-08-2024,25-11-2024,7.99,294,Comedy,4,1,YES,453,149,France,PayPal,Hindi,82,3.9,YES,Cancelled,790,Desktop,18-24,Morning
+7239,Jeremy,19-12-2023,29-11-2024,15.99,318,Action,3,2,YES,943,116,Canada,PayPal,Hindi,22,4.1,NO,Expired,4732,Laptop,25-34,Afternoon
+6415,Scott,10-12-2023,19-11-2024,11.99,396,Action,1,2,NO,348,172,UK,Cryptocurrency,Hindi,61,3.9,NO,Active,4599,Smartphone,35-44,Afternoon
+9020,Sabrina,02-03-2023,12-03-2024,11.99,455,Horror,5,3,YES,112,158,India,Credit Card,German,15,3.9,YES,Paused,965,Smart TV,25-34,Morning
+2324,Zachary,24-11-2024,12-11-2024,7.99,175,Comedy,5,6,YES,606,195,USA,Credit Card,English,95,4,NO,Expired,1155,Tablet,35-44,Late Night
+1354,Levi,24-06-2023,12-07-2024,7.99,36,Sci-Fi,1,6,NO,214,114,India,PayPal,Spanish,39,4.9,NO,Cancelled,1110,Tablet,18-24,Afternoon
+4019,Christine,29-12-2023,12-06-2024,15.99,349,Documentary,1,6,YES,334,76,Canada,Credit Card,Mandarin,32,3.3,NO,Paused,1911,Smart TV,55+,Afternoon
+6178,Emily,03-01-2023,12-09-2024,11.99,262,Documentary,5,5,YES,849,68,India,Credit Card,French,24,3,NO,Expired,1721,Smartphone,18-24,Morning
+8673,Derrick,29-12-2023,12-11-2024,7.99,378,Action,2,3,NO,155,69,UK,Debit Card,Spanish,11,3.3,NO,Active,353,Smart TV,55+,Morning
+8250,Jonathan,15-03-2024,29-11-2024,15.99,469,Documentary,3,5,YES,406,71,Australia,Cryptocurrency,French,88,4.8,YES,Cancelled,423,Tablet,35-44,Afternoon
+1609,David,13-04-2023,17-12-2024,7.99,87,Horror,4,4,NO,571,54,Canada,Credit Card,German,57,4.2,NO,Paused,344,Smart TV,55+,Morning
+3806,Gina,19-02-2023,12-12-2024,15.99,471,Documentary,3,6,YES,56,69,Canada,PayPal,Mandarin,44,3.6,YES,Expired,4117,Tablet,55+,Morning
+7973,Kristin,10-01-2024,12-03-2024,7.99,469,Romance,5,2,YES,748,147,France,Cryptocurrency,Hindi,33,4.6,YES,Expired,3983,Smart TV,55+,Evening
+7948,Douglas,26-11-2023,23-11-2024,15.99,298,Sci-Fi,4,1,NO,603,161,Germany,PayPal,Spanish,68,4.4,NO,Cancelled,3941,Laptop,35-44,Afternoon
+3195,Nicole,13-10-2023,17-12-2024,11.99,331,Action,5,5,NO,990,72,Germany,Debit Card,Spanish,80,3.7,NO,Expired,3085,Smartphone,35-44,Morning
+6285,Chloe,31-07-2023,30-11-2024,11.99,238,Documentary,3,6,YES,831,101,USA,PayPal,German,94,4.4,YES,Expired,48,Smart TV,35-44,Evening
+4303,David,09-06-2023,17-12-2024,7.99,231,Comedy,1,4,NO,420,85,Germany,Cryptocurrency,Mandarin,30,3.5,NO,Active,1520,Smart TV,55+,Evening
+7751,Kevin,07-08-2024,23-11-2024,11.99,457,Sci-Fi,2,5,YES,754,98,Canada,PayPal,Mandarin,53,3.6,YES,Paused,935,Smartphone,55+,Evening
+7813,Nicholas,20-07-2024,21-11-2024,15.99,373,Drama,4,4,YES,782,7,India,Cryptocurrency,Spanish,18,3.2,YES,Active,4641,Smart TV,55+,Evening
+9028,Terry,12-06-2023,28-11-2024,15.99,11,Action,1,4,NO,557,165,USA,PayPal,French,11,4,YES,Cancelled,2941,Smartphone,25-34,Late Night
+6109,Garrett,25-10-2023,12-06-2024,15.99,425,Romance,2,2,YES,552,27,Germany,Cryptocurrency,English,36,4,YES,Paused,1325,Tablet,18-24,Late Night
+2565,Jose,15-09-2024,18-12-2024,7.99,231,Comedy,5,4,YES,356,81,Australia,Credit Card,French,73,3.4,NO,Paused,4465,Tablet,55+,Late Night
+7551,Courtney,31-12-2023,12-02-2024,15.99,483,Drama,2,4,NO,161,110,USA,Cryptocurrency,French,71,4.4,YES,Active,3517,Smartphone,25-34,Evening
+6398,Kim,20-08-2023,12-07-2024,7.99,55,Romance,3,2,YES,17,40,UK,PayPal,Mandarin,48,3.7,NO,Paused,1672,Smart TV,45-54,Late Night
+4982,Katherine,19-11-2023,12-12-2024,11.99,375,Drama,4,3,NO,366,13,Canada,PayPal,Hindi,73,4.8,YES,Paused,2164,Tablet,25-34,Afternoon
+8108,Lynn,20-10-2024,30-11-2024,11.99,336,Comedy,1,2,NO,758,32,Canada,Cryptocurrency,German,64,5,NO,Expired,3663,Smartphone,18-24,Evening
+6779,Leah,22-07-2024,12-03-2024,7.99,196,Romance,1,6,YES,936,152,Australia,PayPal,Mandarin,3,3.1,YES,Cancelled,2845,Smartphone,45-54,Afternoon
+1169,Michael,21-08-2024,12-03-2024,11.99,285,Drama,3,1,NO,13,103,Australia,Credit Card,Spanish,11,3.7,NO,Paused,2390,Laptop,18-24,Morning
+5067,Kayla,31-08-2024,27-11-2024,7.99,155,Documentary,5,1,YES,305,77,USA,Cryptocurrency,French,66,3.4,NO,Paused,234,Smartphone,55+,Afternoon
+5299,Katelyn,30-04-2023,12-02-2024,7.99,275,Comedy,2,2,YES,755,166,Germany,Debit Card,Mandarin,45,3.9,NO,Cancelled,3975,Tablet,35-44,Morning
+3978,Jessica,15-05-2024,28-11-2024,7.99,341,Drama,3,4,NO,27,82,USA,Debit Card,German,98,3.7,YES,Active,561,Tablet,45-54,Afternoon
+8634,Maria,08-02-2023,13-12-2024,15.99,321,Drama,2,2,NO,676,81,USA,Cryptocurrency,English,65,4.6,NO,Paused,4647,Tablet,55+,Late Night
+9635,Justin,18-12-2023,26-11-2024,11.99,456,Comedy,2,5,NO,734,83,India,Debit Card,French,87,3.8,YES,Expired,581,Tablet,35-44,Evening
+1776,Susan,22-10-2023,20-11-2024,15.99,15,Comedy,1,4,NO,687,183,France,Cryptocurrency,Hindi,46,4.2,YES,Paused,1250,Desktop,55+,Late Night
+9703,Mark,29-02-2024,12-12-2024,11.99,410,Sci-Fi,3,5,NO,826,182,UK,Cryptocurrency,English,69,4.2,NO,Expired,3441,Smartphone,35-44,Evening
+3498,Sue,09-11-2023,12-01-2024,15.99,29,Drama,2,4,YES,450,67,India,Credit Card,German,52,3.3,NO,Cancelled,3211,Smartphone,55+,Morning
+4260,Jean,24-06-2024,16-12-2024,7.99,427,Horror,1,1,NO,159,98,Germany,Credit Card,Spanish,66,3.3,NO,Cancelled,647,Smartphone,55+,Late Night
+7152,James,02-05-2023,12-04-2024,11.99,166,Action,5,3,NO,367,198,India,Debit Card,Hindi,11,4.6,YES,Cancelled,3751,Laptop,35-44,Afternoon
+2457,David,21-10-2023,26-11-2024,7.99,192,Comedy,1,1,NO,786,140,Canada,Debit Card,French,95,3.4,NO,Paused,2925,Tablet,25-34,Late Night
+8530,Ebony,25-03-2023,12-04-2024,11.99,88,Documentary,1,6,YES,962,183,Australia,Debit Card,English,90,5,NO,Active,4646,Smart TV,55+,Late Night
+9131,Derek,08-03-2023,27-11-2024,7.99,127,Sci-Fi,2,5,NO,482,5,India,Cryptocurrency,English,99,3.6,NO,Active,2867,Desktop,25-34,Afternoon
+9770,John,28-10-2023,24-11-2024,7.99,327,Romance,4,3,NO,451,108,UK,PayPal,Spanish,91,3.2,YES,Expired,4131,Smart TV,25-34,Evening
+8095,Rebecca,15-04-2023,12-11-2024,7.99,10,Action,2,5,YES,22,14,Australia,Debit Card,English,25,4.1,YES,Cancelled,2927,Smart TV,35-44,Evening
+3763,Juan,19-12-2022,12-06-2024,11.99,181,Horror,4,2,NO,848,172,India,Cryptocurrency,Mandarin,6,3.4,NO,Expired,3314,Smartphone,55+,Morning
+4346,Gabrielle,14-02-2024,12-12-2024,15.99,238,Action,4,2,NO,524,162,USA,Cryptocurrency,German,20,3,YES,Active,1782,Smartphone,45-54,Morning
+5866,Nicholas,06-01-2024,26-11-2024,7.99,380,Documentary,2,3,NO,76,25,Germany,PayPal,Hindi,95,4.2,YES,Expired,1938,Laptop,55+,Afternoon
+5865,Samantha,23-07-2023,24-11-2024,11.99,444,Sci-Fi,2,3,NO,959,183,Germany,PayPal,Hindi,93,3.8,NO,Active,3935,Smart TV,18-24,Afternoon
+9398,Jesse,30-10-2024,12-11-2024,7.99,83,Comedy,3,5,YES,148,154,UK,Credit Card,Hindi,21,3.1,NO,Expired,3206,Smart TV,45-54,Late Night
+9695,Aaron,12-08-2023,18-12-2024,7.99,452,Documentary,4,4,NO,338,132,Australia,PayPal,Spanish,63,3.3,NO,Paused,2523,Smartphone,18-24,Late Night
+8805,Maurice,07-06-2024,12-06-2024,15.99,53,Romance,4,2,YES,720,37,Australia,PayPal,Spanish,8,4,YES,Active,2727,Laptop,55+,Evening
+8353,Lisa,20-06-2023,19-11-2024,15.99,89,Romance,5,3,NO,387,81,Australia,PayPal,English,87,3.8,YES,Active,2864,Tablet,45-54,Late Night
+3178,Melissa,19-03-2024,12-11-2024,7.99,359,Horror,5,4,NO,624,107,India,Debit Card,Spanish,4,3.1,YES,Cancelled,3698,Tablet,45-54,Afternoon
+4917,Erin,19-02-2023,20-11-2024,11.99,487,Horror,1,4,NO,636,66,Australia,PayPal,French,78,3.5,NO,Paused,1531,Smartphone,45-54,Morning
+8878,Dale,29-02-2024,21-11-2024,7.99,337,Comedy,5,1,YES,429,190,Canada,Credit Card,Mandarin,88,4.8,NO,Expired,4884,Smartphone,35-44,Afternoon
+3810,Gregory,17-02-2023,12-04-2024,15.99,427,Horror,5,3,NO,832,103,Australia,Cryptocurrency,Mandarin,79,3.3,NO,Paused,3633,Smartphone,25-34,Evening
+9353,Sarah,08-06-2023,26-11-2024,7.99,397,Documentary,4,4,YES,63,126,Germany,Debit Card,Mandarin,77,3.9,YES,Cancelled,4719,Smartphone,25-34,Afternoon
+1672,Carmen,21-12-2022,28-11-2024,15.99,200,Horror,4,1,NO,52,8,France,Credit Card,French,17,3.2,YES,Cancelled,3161,Smart TV,45-54,Morning
+6650,April,03-03-2024,26-11-2024,11.99,464,Drama,2,3,YES,909,165,Germany,Cryptocurrency,Spanish,28,3.6,YES,Active,3607,Desktop,18-24,Evening
+2581,Anthony,13-04-2023,12-02-2024,15.99,495,Documentary,1,3,NO,704,53,UK,Credit Card,English,94,3.4,NO,Expired,944,Tablet,55+,Evening
+6860,Brett,02-11-2024,16-12-2024,7.99,286,Drama,5,4,NO,751,103,UK,Cryptocurrency,French,33,3.6,NO,Expired,2757,Smart TV,55+,Late Night
+4584,Matthew,26-09-2024,14-12-2024,7.99,446,Drama,3,6,NO,185,134,USA,Credit Card,Spanish,18,3.3,NO,Paused,727,Smartphone,45-54,Morning
+3354,Lisa,10-01-2023,22-11-2024,11.99,342,Comedy,2,2,NO,503,6,France,PayPal,French,23,3.2,YES,Active,3496,Laptop,45-54,Afternoon
+4668,Carly,17-12-2024,12-09-2024,11.99,396,Sci-Fi,5,5,YES,549,35,Canada,PayPal,German,66,3.6,YES,Paused,4293,Laptop,55+,Morning
+6684,Dennis,17-09-2024,12-11-2024,11.99,491,Romance,1,6,YES,434,182,Germany,Cryptocurrency,Spanish,24,4.1,NO,Expired,1357,Tablet,45-54,Late Night
+8058,Alexandra,04-02-2023,14-12-2024,15.99,239,Sci-Fi,4,6,NO,832,134,Australia,Cryptocurrency,Spanish,99,4.6,YES,Active,3596,Desktop,18-24,Morning
+3035,Michael,26-04-2023,24-11-2024,15.99,106,Romance,3,3,YES,377,31,Germany,Credit Card,English,85,3.5,YES,Active,613,Desktop,55+,Late Night
+2146,Ryan,07-11-2024,22-11-2024,11.99,388,Horror,5,4,YES,380,125,Australia,PayPal,German,14,3.2,NO,Expired,2381,Tablet,25-34,Afternoon
+5761,Tony,20-01-2024,12-08-2024,15.99,452,Drama,2,5,NO,315,118,India,Cryptocurrency,Spanish,28,3,YES,Active,2159,Desktop,45-54,Morning
+5256,Daniel,18-11-2024,12-02-2024,15.99,368,Sci-Fi,4,4,YES,968,24,Australia,Debit Card,Mandarin,30,3,YES,Expired,119,Tablet,55+,Late Night
+5995,Melissa,17-06-2023,27-11-2024,15.99,325,Action,2,5,YES,757,35,UK,Credit Card,Mandarin,81,4.6,NO,Active,2798,Smartphone,25-34,Late Night
+4155,Jacob,03-07-2023,12-06-2024,11.99,42,Sci-Fi,4,2,NO,560,98,France,Debit Card,Mandarin,90,3.8,NO,Paused,496,Laptop,18-24,Afternoon
+1851,Jennifer,10-03-2023,12-11-2024,11.99,344,Horror,3,1,NO,456,196,France,Credit Card,Mandarin,83,5,NO,Cancelled,3599,Desktop,45-54,Evening
+8068,Carolyn,14-12-2024,23-11-2024,15.99,77,Drama,5,3,NO,780,138,India,Cryptocurrency,French,66,3.4,NO,Active,1752,Tablet,18-24,Afternoon
+8425,Patrick,14-11-2024,28-11-2024,7.99,237,Comedy,5,3,YES,168,18,Australia,Cryptocurrency,Mandarin,32,3.5,YES,Expired,3633,Laptop,25-34,Evening
+4706,Sabrina,02-08-2023,12-06-2024,11.99,480,Sci-Fi,1,2,YES,350,122,France,PayPal,Spanish,59,4.6,NO,Paused,3568,Desktop,35-44,Late Night
+7544,Denise,09-01-2023,25-11-2024,15.99,152,Horror,1,3,NO,341,193,UK,Credit Card,Mandarin,95,3.7,NO,Cancelled,4361,Smartphone,45-54,Afternoon
+4029,Cassandra,15-10-2024,24-11-2024,11.99,308,Drama,2,3,NO,392,151,Canada,Debit Card,German,27,4.2,YES,Paused,1176,Smartphone,18-24,Evening
+6117,Elizabeth,30-05-2024,27-11-2024,7.99,14,Drama,5,5,YES,95,158,Australia,Credit Card,Hindi,49,3.9,NO,Paused,1849,Tablet,18-24,Evening
+1408,Dustin,23-01-2023,20-11-2024,11.99,233,Drama,5,6,YES,186,129,India,Debit Card,Hindi,38,4,YES,Active,3953,Laptop,35-44,Evening
+8396,Mary,16-02-2024,12-11-2024,7.99,169,Documentary,1,5,NO,543,111,Germany,PayPal,French,28,3.7,NO,Active,3277,Smart TV,55+,Evening
+6806,Crystal,18-12-2023,23-11-2024,7.99,358,Action,2,3,YES,858,65,Germany,Debit Card,Mandarin,5,4.6,YES,Cancelled,1572,Laptop,45-54,Afternoon
+3496,Gregory,24-11-2023,12-11-2024,11.99,404,Drama,4,6,NO,906,43,India,PayPal,German,59,4.9,YES,Expired,2676,Tablet,25-34,Morning
+7840,Barbara,02-02-2024,12-11-2024,15.99,131,Comedy,5,3,YES,808,48,UK,PayPal,Hindi,55,3.3,YES,Cancelled,3053,Smart TV,55+,Afternoon
+2099,Michael,20-07-2024,23-11-2024,11.99,32,Drama,1,6,YES,84,73,Germany,Cryptocurrency,Hindi,59,3.6,YES,Cancelled,2620,Desktop,35-44,Morning
+6518,Kathryn,21-11-2024,12-07-2024,7.99,478,Action,5,3,YES,780,78,UK,PayPal,Spanish,66,4,NO,Active,4068,Smart TV,35-44,Morning
+1976,Brett,20-10-2024,16-12-2024,11.99,88,Sci-Fi,3,1,NO,247,30,UK,Debit Card,Mandarin,46,4.7,YES,Paused,172,Tablet,25-34,Morning
+8777,Christopher,02-11-2024,27-11-2024,11.99,395,Sci-Fi,4,4,NO,190,105,France,Credit Card,German,67,4.1,NO,Cancelled,1040,Smartphone,45-54,Evening
+1576,Jeremy,19-03-2023,20-11-2024,11.99,385,Drama,4,1,YES,390,163,Australia,Cryptocurrency,French,43,3.3,NO,Expired,3574,Smart TV,25-34,Afternoon
+7979,Martin,05-03-2023,27-11-2024,11.99,280,Sci-Fi,4,5,YES,203,50,France,PayPal,Spanish,12,3.4,YES,Paused,3659,Smartphone,25-34,Morning
+6300,Taylor,20-09-2023,12-09-2024,15.99,164,Action,3,5,NO,161,77,Australia,Cryptocurrency,German,97,3.7,YES,Paused,1991,Laptop,45-54,Late Night
+1003,Vickie,12-12-2024,22-11-2024,11.99,433,Horror,5,4,NO,350,2,Germany,Cryptocurrency,Spanish,41,3.1,YES,Expired,2043,Smartphone,35-44,Late Night
+8238,Betty,01-12-2024,28-11-2024,7.99,460,Comedy,3,5,NO,26,2,France,PayPal,German,39,4.8,NO,Active,882,Smartphone,45-54,Late Night
+8261,James,25-12-2022,12-04-2024,7.99,374,Comedy,1,3,YES,819,18,Germany,Debit Card,Hindi,12,3.4,YES,Cancelled,4243,Laptop,25-34,Morning
+7729,Brittany,20-02-2023,12-11-2024,11.99,147,Romance,5,4,NO,27,175,Germany,PayPal,Hindi,78,4,YES,Expired,2218,Desktop,45-54,Afternoon
+8616,John,12-01-2024,12-04-2024,11.99,129,Horror,4,6,NO,543,126,UK,Debit Card,Mandarin,95,3.4,YES,Expired,97,Smartphone,35-44,Late Night
+9734,Destiny,24-11-2024,14-12-2024,15.99,217,Action,2,2,YES,872,8,Canada,Cryptocurrency,French,51,3.6,YES,Active,4928,Laptop,35-44,Late Night
+2086,Amanda,05-12-2023,19-11-2024,7.99,426,Drama,4,1,NO,606,135,USA,PayPal,German,50,3.8,YES,Expired,1982,Desktop,55+,Late Night
+8721,Stephen,23-02-2023,12-01-2024,15.99,81,Drama,3,5,NO,394,168,Canada,Cryptocurrency,Mandarin,21,4.7,YES,Expired,510,Smart TV,18-24,Late Night
+1075,Dawn,05-05-2023,28-11-2024,7.99,296,Romance,3,2,YES,411,96,USA,Cryptocurrency,English,1,3.1,NO,Active,2508,Tablet,18-24,Evening
+2690,Jonathan,09-05-2023,29-11-2024,15.99,466,Sci-Fi,3,2,NO,977,94,France,Cryptocurrency,Mandarin,67,3.6,YES,Paused,4004,Smartphone,35-44,Afternoon
+7654,Amy,19-12-2023,27-11-2024,11.99,424,Horror,5,2,NO,406,150,Canada,Debit Card,Spanish,50,3.5,NO,Active,494,Smart TV,25-34,Late Night
+7577,Paul,17-10-2024,12-03-2024,15.99,233,Sci-Fi,2,5,YES,781,23,France,Credit Card,Hindi,89,3.3,NO,Active,460,Tablet,45-54,Morning
+9814,Kenneth,08-11-2024,27-11-2024,11.99,413,Comedy,1,6,YES,330,63,USA,PayPal,French,50,4.1,YES,Active,1416,Smart TV,45-54,Late Night
+5423,Jamie,30-09-2024,19-11-2024,7.99,278,Action,1,5,YES,163,88,Australia,PayPal,Mandarin,62,3.2,NO,Paused,4798,Smartphone,45-54,Afternoon
+2660,Bruce,30-12-2022,12-04-2024,11.99,351,Horror,1,1,YES,80,70,USA,Credit Card,German,54,4.5,YES,Cancelled,732,Tablet,35-44,Evening
+4206,Kevin,04-04-2024,12-06-2024,11.99,354,Romance,1,3,NO,885,65,UK,Credit Card,English,70,4.7,NO,Active,4008,Smart TV,18-24,Afternoon
+5269,Jamie,03-06-2023,12-04-2024,11.99,192,Comedy,5,4,NO,123,34,India,Cryptocurrency,English,73,3.8,YES,Paused,4868,Tablet,45-54,Morning
+7922,Andrew,19-02-2023,18-12-2024,7.99,176,Documentary,4,6,YES,830,74,UK,PayPal,German,66,3.5,YES,Paused,2600,Tablet,35-44,Evening
+7829,Brandon,18-10-2023,18-12-2024,7.99,482,Comedy,1,4,YES,770,129,Canada,PayPal,Mandarin,0,3.7,YES,Expired,3247,Laptop,25-34,Morning
+1715,Ryan,17-06-2024,12-04-2024,7.99,87,Drama,3,5,YES,753,181,UK,Debit Card,Hindi,51,3.1,YES,Cancelled,941,Smartphone,18-24,Afternoon
+2639,Steven,18-06-2024,12-07-2024,11.99,163,Drama,5,1,YES,38,53,Australia,Debit Card,English,37,4.6,NO,Cancelled,1934,Smartphone,35-44,Evening
+1801,Christine,14-01-2024,13-12-2024,11.99,419,Horror,4,5,NO,386,122,Germany,Credit Card,German,9,4.6,NO,Cancelled,4650,Desktop,45-54,Late Night
+9163,Martin,04-04-2023,27-11-2024,11.99,203,Sci-Fi,4,4,YES,874,67,India,Debit Card,French,94,3.9,YES,Cancelled,4450,Smartphone,35-44,Afternoon
+1284,Michael,12-04-2024,12-01-2024,7.99,405,Comedy,4,3,YES,695,85,Australia,Credit Card,French,42,3.7,NO,Active,2395,Laptop,25-34,Morning
+8774,Hunter,11-03-2023,12-08-2024,15.99,496,Comedy,5,6,NO,803,130,USA,Cryptocurrency,French,4,4.8,NO,Paused,4504,Smart TV,45-54,Morning
+3866,Catherine,02-01-2024,28-11-2024,15.99,328,Sci-Fi,2,2,NO,268,50,Germany,Debit Card,Mandarin,3,4.4,YES,Paused,3015,Laptop,18-24,Evening
+4477,Christopher,28-04-2024,23-11-2024,7.99,85,Drama,5,1,NO,429,52,UK,PayPal,German,16,3.8,NO,Active,4971,Smartphone,45-54,Evening
+4829,Jeff,21-09-2024,17-12-2024,11.99,386,Sci-Fi,3,4,NO,62,50,Germany,Credit Card,Hindi,44,4.7,NO,Cancelled,2377,Smartphone,35-44,Morning
+1257,Daniel,02-08-2023,12-08-2024,7.99,245,Action,3,4,NO,831,15,Canada,PayPal,German,64,4.9,NO,Paused,212,Tablet,45-54,Afternoon
+1897,Cathy,19-03-2023,16-12-2024,11.99,97,Horror,5,5,YES,737,85,India,PayPal,French,80,3.6,YES,Expired,188,Smartphone,55+,Afternoon
+3603,Sylvia,04-04-2023,20-11-2024,7.99,216,Documentary,4,3,YES,923,143,USA,Credit Card,Mandarin,20,3.4,NO,Active,4435,Desktop,55+,Late Night
+9256,Daniel,02-07-2023,22-11-2024,7.99,331,Romance,5,1,NO,85,117,France,Credit Card,French,21,4.8,YES,Active,1454,Smart TV,25-34,Afternoon
+9469,William,06-10-2023,25-11-2024,11.99,451,Sci-Fi,2,3,NO,59,38,Germany,Credit Card,German,94,3,YES,Expired,2841,Laptop,45-54,Evening
+7136,Jessica,19-05-2024,14-12-2024,7.99,326,Action,5,1,NO,590,105,France,PayPal,Hindi,56,3.3,NO,Paused,1626,Smartphone,25-34,Afternoon
+2321,Joseph,20-02-2024,14-12-2024,15.99,358,Drama,3,1,NO,348,49,France,Debit Card,Hindi,14,4.2,NO,Paused,111,Desktop,35-44,Morning
+4243,Christopher,13-03-2023,29-11-2024,15.99,91,Action,2,1,YES,561,153,Canada,Cryptocurrency,English,7,4.1,NO,Cancelled,450,Tablet,55+,Morning
+8015,Laurie,28-10-2023,18-12-2024,7.99,478,Action,2,2,YES,214,191,UK,Debit Card,Spanish,44,3.6,NO,Active,3325,Desktop,35-44,Afternoon
+3440,William,25-02-2023,22-11-2024,7.99,16,Documentary,3,4,NO,964,111,France,PayPal,Mandarin,52,3.1,YES,Paused,3059,Tablet,18-24,Morning
+9914,Courtney,17-10-2023,12-08-2024,11.99,44,Comedy,2,1,YES,897,62,Germany,PayPal,English,18,4.4,NO,Expired,1065,Smartphone,35-44,Afternoon
+5045,Ashley,25-08-2024,21-11-2024,11.99,100,Comedy,4,1,YES,983,191,France,PayPal,Mandarin,53,4.5,NO,Paused,2575,Tablet,18-24,Afternoon
+1379,Erin,19-04-2023,12-05-2024,11.99,44,Drama,5,4,YES,432,73,UK,PayPal,English,88,4.6,NO,Active,1690,Laptop,35-44,Evening
+6099,Danielle,23-02-2024,27-11-2024,11.99,37,Comedy,3,1,YES,881,189,Canada,Debit Card,French,32,3.9,NO,Active,1382,Smartphone,35-44,Morning
+4696,Alexander,18-06-2023,12-04-2024,15.99,48,Action,5,2,NO,331,93,USA,Cryptocurrency,French,66,3.7,NO,Expired,1050,Laptop,25-34,Late Night
+4808,Amanda,26-03-2024,27-11-2024,7.99,371,Romance,1,1,YES,819,71,Canada,PayPal,Spanish,36,4.1,YES,Expired,2328,Desktop,45-54,Late Night
+3633,Randy,18-12-2024,12-10-2024,7.99,176,Action,5,1,YES,936,11,France,Cryptocurrency,English,42,3.2,NO,Active,4414,Smartphone,35-44,Late Night
+4979,Tony,16-11-2024,24-11-2024,15.99,312,Drama,4,4,NO,321,19,Australia,PayPal,Spanish,18,4.3,YES,Expired,3980,Laptop,25-34,Evening
+2214,Michelle,21-10-2024,24-11-2024,7.99,375,Romance,1,1,YES,244,106,India,PayPal,French,16,3.9,YES,Active,3596,Smartphone,25-34,Late Night
+6606,Danielle,26-01-2024,29-11-2024,15.99,134,Sci-Fi,3,5,YES,826,160,France,Cryptocurrency,English,96,3.6,YES,Active,1150,Smartphone,25-34,Late Night
+4246,Jacob,24-09-2023,15-12-2024,7.99,91,Drama,5,1,NO,159,14,UK,PayPal,Spanish,85,4.4,NO,Cancelled,1858,Smart TV,35-44,Late Night
+2836,Samantha,02-07-2024,17-12-2024,7.99,359,Horror,2,6,NO,305,81,Australia,Cryptocurrency,German,28,3.3,NO,Expired,1926,Desktop,55+,Morning
+6963,Chris,07-06-2023,29-11-2024,15.99,172,Comedy,2,6,NO,841,83,UK,PayPal,French,44,5,YES,Cancelled,2933,Tablet,25-34,Evening
+2243,Sherri,17-07-2024,12-02-2024,11.99,490,Comedy,3,3,YES,123,183,France,Cryptocurrency,German,45,4.4,NO,Cancelled,2397,Desktop,18-24,Evening
+5081,Angela,27-10-2024,20-11-2024,11.99,16,Romance,1,5,YES,803,196,Australia,Cryptocurrency,Hindi,90,4.3,YES,Paused,1946,Smart TV,45-54,Late Night
+4171,John,07-04-2024,14-12-2024,11.99,291,Sci-Fi,2,1,YES,380,106,Canada,PayPal,Spanish,22,4.1,NO,Cancelled,2576,Smart TV,45-54,Evening
+7399,Katherine,13-08-2024,12-09-2024,11.99,119,Romance,2,5,YES,344,93,Germany,Debit Card,Hindi,0,4.2,NO,Active,2259,Tablet,45-54,Late Night
+1110,April,05-05-2024,12-04-2024,11.99,35,Action,2,3,YES,908,128,USA,PayPal,Spanish,86,3.2,YES,Active,1068,Tablet,35-44,Evening
+5630,Francis,12-04-2023,24-11-2024,7.99,88,Drama,4,6,YES,782,180,USA,Debit Card,French,86,5,YES,Active,2928,Smart TV,45-54,Late Night
+9430,Katie,11-03-2023,21-11-2024,7.99,312,Sci-Fi,4,1,NO,769,140,UK,Debit Card,Mandarin,94,4.8,YES,Cancelled,3674,Smart TV,45-54,Evening
+7436,Natasha,22-02-2024,17-12-2024,15.99,238,Sci-Fi,4,1,YES,233,102,Canada,Debit Card,Hindi,78,3.1,NO,Expired,130,Smart TV,55+,Late Night
+2147,Julie,01-12-2024,12-11-2024,11.99,132,Action,4,6,YES,170,164,France,Debit Card,English,71,3.3,YES,Cancelled,4873,Laptop,45-54,Morning
+3264,Brittany,14-05-2023,12-09-2024,11.99,456,Comedy,1,6,YES,945,114,UK,Credit Card,German,44,3,NO,Expired,96,Smartphone,55+,Late Night
+1214,Jaime,06-08-2023,12-11-2024,11.99,281,Action,5,6,YES,945,108,Germany,PayPal,English,98,3.8,YES,Active,110,Laptop,18-24,Afternoon
+6050,Emma,08-08-2024,23-11-2024,11.99,281,Horror,5,3,NO,217,162,USA,Debit Card,Mandarin,0,3.4,NO,Paused,225,Smartphone,45-54,Late Night
+7395,Stephanie,26-11-2023,12-05-2024,11.99,73,Action,1,1,YES,664,123,Australia,Debit Card,German,70,4.4,YES,Active,4083,Smart TV,25-34,Late Night
+3904,John,18-06-2024,12-09-2024,11.99,365,Horror,3,1,YES,679,1,France,Debit Card,French,100,4.7,NO,Expired,2714,Tablet,35-44,Evening
+6545,Elizabeth,13-06-2024,12-08-2024,7.99,61,Drama,1,5,YES,242,200,Germany,Cryptocurrency,Mandarin,53,4.8,YES,Active,674,Laptop,35-44,Late Night
+3131,James,06-11-2023,21-11-2024,15.99,399,Sci-Fi,3,5,NO,541,158,UK,Debit Card,French,4,4.9,YES,Active,948,Laptop,55+,Morning
+8589,Kayla,19-01-2023,20-11-2024,11.99,102,Romance,2,1,YES,108,105,France,PayPal,English,76,4.7,NO,Active,933,Desktop,35-44,Afternoon
+2908,Anthony,26-09-2024,22-11-2024,11.99,88,Sci-Fi,4,2,YES,343,163,France,Cryptocurrency,German,89,5,YES,Cancelled,2914,Smart TV,55+,Evening
+5209,Melissa,05-10-2023,19-11-2024,11.99,92,Romance,5,3,YES,477,38,France,Credit Card,English,71,3.9,YES,Cancelled,3928,Smartphone,45-54,Evening
+2319,Natalie,06-01-2023,20-11-2024,15.99,295,Drama,5,4,NO,767,190,France,Credit Card,Spanish,7,4.1,NO,Cancelled,2559,Smartphone,35-44,Evening
+9026,Courtney,05-03-2024,22-11-2024,11.99,139,Comedy,1,5,YES,12,9,UK,Credit Card,Spanish,21,4.8,YES,Paused,2571,Tablet,35-44,Evening
+2723,Briana,09-01-2023,24-11-2024,15.99,416,Action,1,2,YES,920,79,India,Debit Card,French,20,4.4,NO,Cancelled,3834,Smartphone,55+,Evening
+5487,Lisa,25-03-2024,16-12-2024,7.99,173,Comedy,2,2,NO,819,174,USA,PayPal,Hindi,34,4.1,NO,Expired,4714,Laptop,25-34,Evening
+4656,Kayla,22-05-2023,29-11-2024,7.99,75,Action,3,5,NO,607,94,Canada,Cryptocurrency,German,57,3.8,YES,Paused,4800,Smart TV,25-34,Afternoon
+5718,Bradley,14-06-2024,28-11-2024,15.99,173,Sci-Fi,1,6,YES,346,76,Canada,PayPal,Spanish,28,3.3,NO,Active,1610,Smartphone,45-54,Afternoon
+1215,Devin,17-08-2023,27-11-2024,7.99,421,Documentary,3,1,YES,668,17,Canada,Credit Card,Spanish,7,4,YES,Cancelled,2780,Tablet,25-34,Evening
+3427,Eric,12-10-2023,12-07-2024,15.99,29,Sci-Fi,5,2,YES,317,116,USA,Credit Card,German,78,3.8,YES,Paused,639,Tablet,25-34,Morning
+2428,Brian,27-02-2024,21-11-2024,7.99,180,Comedy,2,4,YES,297,19,France,Credit Card,Hindi,84,4.9,NO,Active,1960,Smartphone,18-24,Afternoon
+1947,Ann,09-01-2024,24-11-2024,11.99,469,Action,4,6,YES,866,120,Canada,Credit Card,English,92,3.6,YES,Expired,1764,Smart TV,18-24,Late Night
+5036,Andrew,16-08-2024,29-11-2024,15.99,381,Horror,5,1,YES,286,121,Canada,Cryptocurrency,French,57,4.1,YES,Expired,967,Smartphone,18-24,Afternoon
+5857,Jennifer,12-05-2024,15-12-2024,15.99,263,Horror,5,5,NO,95,149,Germany,Credit Card,French,17,4,YES,Expired,2086,Smart TV,55+,Afternoon
+8770,Mark,08-12-2023,21-11-2024,7.99,48,Drama,4,2,NO,938,92,Canada,Cryptocurrency,French,99,4.2,YES,Expired,3288,Smart TV,55+,Late Night
+4118,Valerie,16-05-2023,19-11-2024,11.99,447,Documentary,3,4,NO,264,55,Australia,PayPal,Mandarin,58,3.6,NO,Cancelled,1486,Smartphone,55+,Afternoon
+7162,Carrie,21-08-2024,14-12-2024,15.99,415,Sci-Fi,1,3,YES,44,10,France,Debit Card,French,91,3.3,NO,Cancelled,223,Smart TV,55+,Afternoon
+9278,Joseph,19-09-2024,14-12-2024,7.99,429,Drama,5,4,NO,944,165,France,PayPal,French,12,4.7,YES,Expired,2394,Tablet,45-54,Morning
+5406,Randall,10-12-2024,12-07-2024,7.99,26,Drama,5,5,NO,542,152,Canada,Credit Card,Mandarin,6,3.1,NO,Active,4329,Smartphone,18-24,Morning
+4641,Danielle,09-12-2024,12-08-2024,15.99,101,Romance,4,6,YES,350,17,Australia,PayPal,Mandarin,11,3.4,YES,Paused,2193,Tablet,35-44,Afternoon
+3969,Katie,23-05-2023,12-12-2024,15.99,461,Sci-Fi,2,6,YES,31,173,Canada,PayPal,Spanish,84,3.5,YES,Expired,3730,Tablet,25-34,Morning
+3078,Victor,24-06-2023,14-12-2024,7.99,246,Action,3,3,NO,358,158,Germany,Credit Card,Hindi,18,3.8,NO,Active,2234,Smart TV,18-24,Afternoon
+2808,Jonathan,11-12-2023,14-12-2024,15.99,91,Horror,3,6,NO,961,170,USA,PayPal,Mandarin,87,4.2,NO,Active,718,Smart TV,25-34,Afternoon
+7484,Bradley,12-08-2024,21-11-2024,11.99,152,Romance,5,1,NO,623,180,Canada,Cryptocurrency,French,89,4.5,YES,Paused,1594,Smartphone,25-34,Late Night
+2396,Christopher,12-02-2023,25-11-2024,11.99,283,Action,3,5,NO,466,139,UK,PayPal,Hindi,62,4,YES,Active,681,Laptop,35-44,Evening
+2472,Angela,18-11-2023,25-11-2024,7.99,61,Comedy,3,4,NO,860,145,India,Debit Card,Spanish,82,4.7,YES,Paused,428,Tablet,55+,Late Night
+7939,Richard,09-08-2023,25-11-2024,11.99,410,Comedy,5,6,NO,410,125,France,PayPal,German,68,4.7,NO,Paused,2542,Desktop,25-34,Morning
+8269,Jennifer,26-02-2024,17-12-2024,7.99,88,Action,3,1,NO,69,75,India,Credit Card,German,80,4.1,NO,Expired,4763,Smart TV,55+,Evening
+9073,Tiffany,07-11-2023,12-09-2024,15.99,322,Documentary,3,4,YES,424,74,Australia,Credit Card,French,3,3,NO,Active,486,Tablet,45-54,Evening
+9879,Jessica,02-02-2023,12-04-2024,7.99,217,Horror,3,3,NO,377,136,Canada,PayPal,Mandarin,8,4.2,YES,Expired,4327,Tablet,25-34,Late Night
+3822,Tyler,08-03-2023,12-04-2024,15.99,180,Action,3,4,NO,132,127,USA,Credit Card,English,79,4.8,YES,Expired,2938,Smartphone,35-44,Afternoon
+9183,William,26-04-2023,12-09-2024,15.99,11,Sci-Fi,1,1,NO,818,45,Germany,PayPal,Spanish,97,4.9,NO,Active,1429,Desktop,18-24,Afternoon
+8674,Johnny,01-01-2023,20-11-2024,15.99,455,Comedy,5,6,YES,813,155,Canada,Cryptocurrency,French,85,3.6,YES,Active,2897,Smart TV,25-34,Morning
+2481,Jesus,23-03-2024,20-11-2024,7.99,487,Romance,2,6,NO,362,130,France,Cryptocurrency,English,36,3.3,YES,Paused,274,Smart TV,45-54,Morning
+8729,Jill,01-09-2024,13-12-2024,7.99,459,Documentary,2,4,NO,573,190,Australia,PayPal,Spanish,81,4.3,NO,Cancelled,3910,Laptop,45-54,Morning
+5534,Andrea,03-04-2023,13-12-2024,7.99,74,Drama,2,1,NO,657,88,Canada,Debit Card,Mandarin,40,3.8,NO,Expired,130,Desktop,18-24,Morning
+9785,Jacob,01-04-2024,18-12-2024,11.99,54,Action,5,4,NO,659,2,Germany,PayPal,Mandarin,82,4.3,YES,Expired,2557,Desktop,35-44,Morning
+9609,Eric,09-03-2023,27-11-2024,11.99,292,Romance,3,4,YES,653,173,Australia,Debit Card,Hindi,8,3.5,NO,Cancelled,3823,Desktop,45-54,Evening
+2829,Sara,23-09-2024,12-09-2024,15.99,23,Action,2,2,NO,577,131,France,Credit Card,German,14,3.9,NO,Expired,4048,Laptop,25-34,Afternoon
+1714,Tammy,29-08-2023,26-11-2024,11.99,147,Horror,3,1,YES,802,177,France,Credit Card,German,21,3.5,YES,Active,3173,Smart TV,35-44,Morning
+4475,Sandra,26-12-2023,12-12-2024,7.99,221,Action,2,4,NO,702,130,Canada,PayPal,French,36,4.3,NO,Active,3289,Laptop,25-34,Evening
+9820,James,21-10-2024,27-11-2024,7.99,40,Documentary,2,1,YES,92,184,UK,Credit Card,Mandarin,66,4.1,YES,Cancelled,4377,Smart TV,25-34,Afternoon
+3261,David,31-12-2022,13-12-2024,11.99,365,Sci-Fi,1,5,YES,582,162,Australia,Cryptocurrency,Hindi,8,3.3,NO,Cancelled,995,Laptop,25-34,Evening
+6130,Michael,25-04-2024,16-12-2024,11.99,360,Romance,1,2,YES,161,93,India,Debit Card,Spanish,30,3.3,YES,Expired,2299,Desktop,55+,Afternoon
+9399,Kristin,24-04-2023,28-11-2024,7.99,127,Action,2,2,NO,842,24,Canada,Cryptocurrency,Spanish,72,3.2,YES,Cancelled,4644,Smartphone,25-34,Late Night
+6047,Paul,23-11-2024,12-02-2024,15.99,30,Horror,3,2,YES,609,6,Canada,PayPal,Mandarin,57,3,YES,Cancelled,746,Tablet,55+,Late Night
+7789,Amy,27-07-2023,24-11-2024,7.99,222,Drama,1,6,NO,391,17,USA,Cryptocurrency,Hindi,21,3.4,YES,Paused,2835,Tablet,45-54,Evening
+6111,Emily,11-11-2023,13-12-2024,11.99,168,Romance,1,2,NO,247,172,France,Cryptocurrency,French,98,3.5,NO,Paused,3626,Smart TV,35-44,Evening
+4968,Alicia,04-11-2024,26-11-2024,7.99,317,Comedy,5,1,NO,559,113,India,Credit Card,English,92,4.6,NO,Cancelled,1000,Laptop,55+,Evening
+2739,Margaret,24-04-2023,20-11-2024,15.99,285,Documentary,1,3,NO,706,22,UK,PayPal,Mandarin,4,3.4,YES,Cancelled,368,Desktop,25-34,Late Night
+6974,Linda,30-08-2023,28-11-2024,11.99,420,Comedy,1,2,NO,1000,159,India,Cryptocurrency,German,22,4.8,NO,Expired,2229,Smart TV,25-34,Morning
+1784,Sarah,06-11-2023,16-12-2024,15.99,100,Drama,5,1,YES,586,32,France,Credit Card,Hindi,100,3.6,YES,Active,2643,Desktop,25-34,Afternoon
+8077,Megan,06-03-2024,18-12-2024,11.99,426,Documentary,4,6,NO,450,92,Germany,Debit Card,Hindi,71,4.1,NO,Active,2647,Smartphone,25-34,Morning
+2727,Renee,29-01-2024,12-08-2024,7.99,263,Romance,1,4,YES,468,95,India,Debit Card,English,87,3.5,NO,Active,4497,Tablet,25-34,Evening
+7661,Wayne,20-08-2023,14-12-2024,11.99,162,Action,1,1,NO,370,130,USA,Debit Card,Hindi,49,4.1,YES,Expired,1121,Smart TV,45-54,Afternoon
+5083,Lisa,24-11-2024,23-11-2024,15.99,19,Romance,3,2,YES,781,179,Canada,Debit Card,German,8,4.3,NO,Cancelled,1525,Laptop,45-54,Evening
+7275,Rhonda,09-05-2024,12-07-2024,11.99,358,Romance,5,4,YES,829,62,Germany,PayPal,German,65,3.4,NO,Expired,3488,Smart TV,55+,Late Night
+7316,Darrell,24-02-2023,15-12-2024,11.99,183,Drama,3,5,NO,944,94,Canada,PayPal,English,72,4.7,NO,Active,3009,Smart TV,45-54,Late Night
+4497,Diana,01-03-2023,15-12-2024,15.99,63,Action,4,4,NO,670,72,USA,PayPal,Spanish,27,4.8,NO,Cancelled,15,Smartphone,35-44,Evening
+8685,Matthew,03-09-2024,20-11-2024,11.99,446,Documentary,5,3,YES,831,37,France,PayPal,English,54,3.3,YES,Cancelled,3007,Smart TV,45-54,Evening
+8583,Brittany,16-11-2024,27-11-2024,15.99,352,Sci-Fi,3,3,NO,154,148,France,Debit Card,English,39,4.7,YES,Cancelled,4588,Laptop,35-44,Morning
+1062,David,10-03-2024,13-12-2024,7.99,209,Sci-Fi,2,6,NO,707,162,USA,Debit Card,German,95,3.5,YES,Paused,73,Smartphone,55+,Late Night
+2593,Stephanie,21-12-2022,12-11-2024,7.99,311,Horror,5,6,NO,587,140,India,PayPal,Mandarin,43,3.6,YES,Expired,4635,Smartphone,18-24,Afternoon
+3951,Christina,26-06-2023,12-06-2024,11.99,293,Sci-Fi,3,6,YES,158,119,India,Credit Card,Spanish,60,3.7,NO,Paused,1882,Tablet,45-54,Late Night
+8580,Darlene,06-02-2024,12-10-2024,15.99,119,Romance,4,2,NO,936,188,USA,Cryptocurrency,Mandarin,59,4.1,YES,Paused,1690,Desktop,25-34,Afternoon
+4372,Michael,18-01-2023,12-05-2024,15.99,329,Sci-Fi,2,1,NO,670,94,UK,PayPal,Hindi,61,3,NO,Cancelled,2572,Laptop,35-44,Morning
+4463,Janet,15-10-2023,24-11-2024,15.99,141,Horror,5,5,YES,636,186,UK,Credit Card,Mandarin,95,3.6,NO,Cancelled,3865,Laptop,18-24,Late Night
+7498,Ethan,02-09-2023,24-11-2024,11.99,15,Documentary,1,3,YES,700,64,Australia,Cryptocurrency,Spanish,35,4.7,NO,Cancelled,380,Laptop,25-34,Late Night
+9618,Jesse,17-11-2024,30-11-2024,11.99,30,Comedy,5,4,YES,310,162,Australia,Debit Card,German,30,3.1,YES,Expired,3566,Smart TV,25-34,Evening
+1813,Phyllis,21-06-2024,29-11-2024,11.99,145,Horror,2,4,NO,237,32,Australia,Cryptocurrency,French,39,4.8,NO,Expired,1835,Desktop,45-54,Morning
+3009,Joel,24-09-2024,13-12-2024,15.99,250,Documentary,4,3,NO,774,88,Australia,Debit Card,Mandarin,64,3.3,NO,Cancelled,1882,Desktop,18-24,Morning
+8210,Cynthia,01-05-2023,22-11-2024,15.99,243,Horror,2,6,YES,532,110,Germany,PayPal,Spanish,73,4.7,NO,Cancelled,525,Smartphone,45-54,Afternoon
+8439,Craig,26-07-2023,21-11-2024,11.99,392,Horror,4,1,YES,813,2,UK,Cryptocurrency,English,57,3,YES,Paused,1025,Desktop,18-24,Afternoon
+8310,Eric,29-05-2023,12-11-2024,11.99,389,Drama,5,4,NO,727,26,Germany,PayPal,English,67,3.4,NO,Active,2508,Smartphone,45-54,Afternoon
+6369,Jessica,23-10-2023,27-11-2024,7.99,414,Horror,4,6,YES,271,51,India,PayPal,German,8,4.3,NO,Expired,1546,Desktop,25-34,Evening
+5721,Jordan,06-11-2023,12-12-2024,15.99,415,Documentary,2,1,NO,958,192,USA,Credit Card,German,22,4.8,YES,Expired,1955,Tablet,35-44,Afternoon
+4204,Scott,11-12-2023,14-12-2024,11.99,494,Horror,5,6,YES,202,163,UK,Debit Card,Spanish,61,4,YES,Cancelled,4889,Tablet,35-44,Morning
+5666,Christopher,22-04-2023,20-11-2024,7.99,109,Drama,4,4,YES,899,11,UK,Credit Card,German,63,4.3,NO,Active,1185,Laptop,18-24,Late Night
+5943,Victoria,18-12-2023,12-07-2024,7.99,200,Romance,1,2,NO,465,35,India,Cryptocurrency,Mandarin,29,4.7,YES,Paused,3040,Desktop,55+,Evening
+3202,Mary,23-02-2024,12-04-2024,11.99,134,Sci-Fi,4,1,YES,459,105,UK,Cryptocurrency,German,3,3.7,YES,Expired,4729,Smartphone,45-54,Afternoon
+4512,Jacob,21-02-2023,30-11-2024,11.99,250,Documentary,5,2,NO,611,170,UK,Credit Card,English,71,3.9,NO,Paused,4193,Smartphone,25-34,Evening
+2075,Ann,28-10-2024,12-09-2024,7.99,305,Drama,2,3,YES,49,146,USA,Debit Card,Mandarin,48,4.6,NO,Cancelled,4626,Smart TV,55+,Morning
+4057,Rachel,05-10-2024,28-11-2024,15.99,256,Comedy,5,3,NO,929,89,Canada,PayPal,Spanish,89,3.3,NO,Paused,60,Smartphone,55+,Morning
+5537,Justin,09-12-2024,19-11-2024,11.99,214,Documentary,1,3,NO,39,89,Canada,Debit Card,Hindi,37,3.5,YES,Active,2597,Tablet,45-54,Morning
+9520,Tina,08-05-2023,12-01-2024,11.99,272,Romance,1,2,NO,520,170,Germany,PayPal,German,100,5,NO,Expired,260,Tablet,55+,Morning
+1081,Vincent,28-07-2024,29-11-2024,15.99,144,Drama,3,4,NO,501,64,Canada,Debit Card,English,98,3.3,NO,Cancelled,1544,Tablet,35-44,Late Night
+7621,Tina,09-06-2023,12-06-2024,7.99,381,Drama,5,6,NO,593,46,Australia,Debit Card,English,10,4.6,YES,Cancelled,4528,Tablet,55+,Evening
+4558,Leah,18-01-2023,20-11-2024,11.99,292,Drama,4,2,YES,109,68,Germany,Credit Card,English,95,4.3,NO,Paused,1127,Laptop,55+,Evening
+6628,Richard,28-03-2023,15-12-2024,11.99,358,Romance,4,3,NO,472,65,India,Debit Card,Spanish,92,4,NO,Expired,4542,Smartphone,45-54,Evening
+7643,Cindy,07-10-2024,12-03-2024,15.99,426,Sci-Fi,1,6,YES,229,120,USA,PayPal,French,38,3.3,YES,Active,1436,Smartphone,55+,Morning
+4709,Gary,22-09-2023,24-11-2024,11.99,474,Comedy,5,1,NO,487,107,Australia,Debit Card,German,66,4,NO,Cancelled,4438,Desktop,45-54,Late Night
+8408,Emily,28-07-2023,12-12-2024,7.99,286,Documentary,2,5,YES,543,16,USA,Credit Card,Mandarin,8,3.7,YES,Cancelled,3130,Smartphone,35-44,Afternoon
+3530,Lindsey,10-10-2024,12-06-2024,15.99,498,Drama,5,6,NO,105,35,India,Debit Card,English,6,3.9,YES,Paused,3379,Desktop,25-34,Late Night
+3779,Brandon,21-06-2024,15-12-2024,11.99,32,Drama,2,4,NO,334,151,UK,Cryptocurrency,Spanish,88,3.4,NO,Active,3696,Tablet,25-34,Evening
+8564,Lynn,17-04-2023,12-01-2024,7.99,84,Romance,1,2,YES,871,187,USA,Debit Card,Mandarin,96,4.5,YES,Active,2416,Smartphone,45-54,Late Night
+8731,Jonathan,31-12-2023,12-02-2024,15.99,210,Romance,5,5,NO,206,194,Canada,PayPal,Hindi,62,3.9,NO,Cancelled,2856,Smartphone,45-54,Evening
+5000,Natalie,15-02-2023,24-11-2024,15.99,231,Horror,3,5,YES,701,173,India,Credit Card,German,65,3.4,YES,Cancelled,4177,Smartphone,18-24,Morning
+3882,Michelle,12-01-2024,15-12-2024,15.99,246,Drama,3,3,NO,505,129,Canada,Credit Card,English,82,4.9,NO,Cancelled,1912,Laptop,18-24,Evening
+4551,Gabriel,19-01-2024,19-11-2024,11.99,174,Romance,1,6,YES,239,175,USA,Credit Card,English,65,3.7,NO,Active,2388,Tablet,18-24,Morning
+7970,Scott,21-07-2023,19-11-2024,15.99,298,Comedy,3,1,YES,115,168,Germany,PayPal,Hindi,27,3,NO,Active,4216,Smartphone,55+,Morning
+2466,Heidi,29-10-2024,12-03-2024,11.99,344,Documentary,5,2,NO,142,113,USA,PayPal,German,100,4.6,YES,Cancelled,599,Laptop,25-34,Afternoon
+1303,Ashley,17-06-2023,12-04-2024,11.99,264,Romance,2,1,YES,744,33,Australia,Cryptocurrency,English,29,4.9,YES,Expired,804,Desktop,25-34,Evening
+9832,Danielle,21-12-2022,21-11-2024,7.99,380,Drama,2,5,YES,820,17,Australia,PayPal,French,93,3,NO,Expired,4565,Laptop,25-34,Evening
+3618,Paul,02-03-2024,12-03-2024,11.99,160,Action,2,1,NO,940,50,Australia,Cryptocurrency,German,71,3,NO,Paused,1095,Desktop,55+,Late Night
+7424,Lisa,08-08-2023,13-12-2024,7.99,55,Comedy,4,6,YES,135,138,Germany,Credit Card,French,5,3.4,NO,Expired,1512,Tablet,45-54,Evening
+8414,Lisa,13-01-2024,22-11-2024,11.99,70,Drama,2,3,YES,803,51,India,Cryptocurrency,Mandarin,24,3.8,NO,Expired,1422,Laptop,55+,Afternoon
+5688,Ashley,27-09-2024,30-11-2024,7.99,256,Drama,3,3,NO,322,199,Canada,Credit Card,English,65,4.5,NO,Expired,147,Smartphone,45-54,Morning
+2062,Darren,24-06-2024,24-11-2024,15.99,436,Documentary,5,6,YES,424,111,France,Credit Card,German,64,3.5,YES,Cancelled,4317,Smart TV,45-54,Late Night
+5031,Bethany,08-04-2023,27-11-2024,7.99,394,Action,2,6,YES,60,159,UK,PayPal,German,51,3,YES,Paused,3197,Desktop,18-24,Late Night
+1162,Steven,28-01-2023,29-11-2024,15.99,131,Sci-Fi,3,3,NO,865,8,India,Debit Card,Spanish,78,4.6,NO,Paused,1413,Smart TV,45-54,Afternoon
+6564,James,23-10-2023,12-07-2024,11.99,98,Drama,5,2,YES,526,144,USA,Debit Card,English,10,3.9,YES,Cancelled,747,Laptop,25-34,Afternoon
+9298,Christine,06-02-2024,12-04-2024,11.99,276,Comedy,5,4,NO,389,177,France,PayPal,English,19,4.3,NO,Cancelled,1099,Tablet,55+,Evening
+4216,Beth,14-03-2024,19-11-2024,11.99,251,Action,3,3,NO,922,106,Australia,Debit Card,Hindi,56,4.3,YES,Cancelled,585,Smartphone,25-34,Late Night
+3677,Rebecca,03-08-2023,29-11-2024,7.99,233,Sci-Fi,4,2,YES,485,37,Canada,PayPal,Mandarin,47,3.4,YES,Paused,615,Smartphone,25-34,Afternoon
+8453,Eric,17-05-2024,27-11-2024,11.99,136,Romance,2,5,YES,112,181,India,Cryptocurrency,Hindi,15,3.6,NO,Active,2634,Laptop,18-24,Morning
+6231,Nicole,24-01-2023,12-07-2024,15.99,248,Horror,1,6,NO,181,13,France,Credit Card,Spanish,43,4.9,YES,Expired,136,Laptop,45-54,Late Night
+1481,Mary,20-02-2023,12-01-2024,7.99,180,Documentary,3,4,NO,936,166,UK,Debit Card,English,71,4.9,YES,Expired,4566,Smartphone,45-54,Morning
+7400,Allen,05-09-2024,15-12-2024,11.99,254,Action,4,1,YES,406,47,Australia,Debit Card,Mandarin,5,3.6,NO,Paused,3281,Desktop,45-54,Late Night
+7447,Stephanie,31-05-2023,20-11-2024,7.99,108,Drama,2,1,NO,717,84,Germany,PayPal,Hindi,82,3.9,NO,Active,1559,Smart TV,35-44,Late Night
+4597,Sarah,08-10-2024,13-12-2024,7.99,183,Documentary,4,5,NO,833,154,France,PayPal,German,46,3.9,NO,Cancelled,3113,Tablet,35-44,Evening
+3173,Aaron,25-09-2024,12-09-2024,7.99,53,Sci-Fi,2,4,YES,304,49,France,Cryptocurrency,English,57,4.3,NO,Cancelled,3836,Desktop,25-34,Evening
+9514,Veronica,06-06-2023,12-10-2024,7.99,120,Horror,3,3,YES,802,31,UK,Debit Card,Hindi,16,4,YES,Active,1522,Laptop,25-34,Evening
+4985,Michael,08-11-2023,12-01-2024,7.99,118,Sci-Fi,5,4,NO,522,160,UK,Cryptocurrency,Mandarin,94,4.1,YES,Active,1756,Desktop,18-24,Late Night
+4486,Craig,01-05-2024,13-12-2024,7.99,113,Drama,1,1,NO,177,3,Australia,Cryptocurrency,English,69,4.8,NO,Cancelled,1542,Desktop,55+,Late Night
+8756,Jessica,22-12-2023,12-09-2024,7.99,138,Drama,3,2,YES,811,37,Australia,Debit Card,Mandarin,36,3.6,NO,Paused,77,Smartphone,35-44,Evening
+9121,Denise,18-06-2023,12-12-2024,7.99,178,Horror,1,4,NO,239,126,Canada,Cryptocurrency,English,86,3.9,NO,Paused,4356,Laptop,45-54,Evening
+6471,Jennifer,28-12-2023,25-11-2024,7.99,105,Comedy,4,3,YES,49,71,Australia,Credit Card,French,8,3.6,NO,Expired,1989,Desktop,45-54,Afternoon
+6601,Larry,23-05-2023,18-12-2024,7.99,283,Action,1,5,YES,407,15,France,Debit Card,French,26,3.1,YES,Expired,906,Smart TV,55+,Afternoon
+4340,Makayla,18-03-2023,12-07-2024,15.99,154,Sci-Fi,4,5,YES,804,106,UK,PayPal,English,60,4.8,NO,Expired,4108,Laptop,55+,Late Night
+5112,Juan,11-05-2024,14-12-2024,15.99,240,Horror,2,6,YES,564,121,USA,Cryptocurrency,Hindi,40,3.5,YES,Active,333,Smart TV,25-34,Evening
+5700,Gregory,26-05-2023,12-09-2024,11.99,29,Sci-Fi,1,5,YES,625,165,France,Credit Card,Spanish,41,4.3,NO,Cancelled,3847,Laptop,18-24,Afternoon
+8617,Ashley,14-10-2024,12-11-2024,15.99,202,Comedy,1,2,YES,260,53,Australia,Cryptocurrency,English,13,3.9,YES,Expired,1423,Laptop,55+,Evening
+9149,Angelica,01-05-2023,17-12-2024,15.99,348,Documentary,2,6,YES,378,56,Australia,Debit Card,Spanish,9,4.5,YES,Paused,595,Smart TV,18-24,Afternoon
+8651,Dawn,19-08-2024,26-11-2024,15.99,380,Romance,5,5,NO,334,175,France,Credit Card,German,69,3.1,NO,Paused,4445,Tablet,55+,Late Night
+1495,Timothy,19-08-2024,22-11-2024,15.99,254,Romance,3,2,NO,544,89,France,Debit Card,English,97,3.1,NO,Paused,144,Smartphone,25-34,Late Night
+7359,Kevin,20-03-2023,17-12-2024,15.99,477,Action,2,3,YES,899,97,USA,Credit Card,English,42,4.7,YES,Active,3428,Laptop,45-54,Morning
+6525,Paul,25-01-2023,22-11-2024,15.99,385,Comedy,3,1,NO,807,188,USA,Credit Card,French,3,3.4,NO,Paused,4919,Tablet,35-44,Afternoon
+7207,Christina,19-08-2024,17-12-2024,7.99,336,Sci-Fi,1,2,NO,235,25,Australia,Credit Card,French,31,3.9,NO,Cancelled,4905,Laptop,35-44,Late Night
+2361,Karen,18-03-2023,25-11-2024,15.99,171,Action,2,3,NO,763,16,UK,PayPal,Spanish,17,3.4,YES,Expired,428,Tablet,25-34,Evening
+8766,Anna,29-09-2023,27-11-2024,15.99,33,Documentary,1,4,YES,475,151,Canada,Credit Card,French,16,4.7,YES,Paused,1634,Smart TV,45-54,Late Night
+7236,Mary,13-04-2024,12-10-2024,7.99,193,Romance,3,6,YES,453,113,UK,Cryptocurrency,French,74,3.5,YES,Cancelled,4085,Laptop,25-34,Evening
+8605,Jessica,31-05-2023,12-01-2024,11.99,153,Horror,2,2,YES,40,106,India,Debit Card,French,44,4.4,YES,Cancelled,2790,Tablet,25-34,Afternoon
+1055,Taylor,20-02-2023,12-12-2024,15.99,140,Horror,5,5,YES,112,30,France,Credit Card,Hindi,60,3.1,YES,Cancelled,2440,Desktop,35-44,Evening
+7986,Douglas,23-01-2023,12-10-2024,15.99,196,Comedy,2,2,YES,102,66,Australia,Cryptocurrency,Spanish,11,3.7,NO,Active,2741,Tablet,45-54,Afternoon
+6170,Sarah,21-06-2024,22-11-2024,15.99,298,Horror,5,1,YES,943,187,UK,Cryptocurrency,Spanish,60,3.7,NO,Cancelled,4338,Desktop,45-54,Late Night
+7172,Felicia,07-09-2023,22-11-2024,11.99,477,Documentary,5,4,NO,426,137,France,Credit Card,Hindi,31,5,NO,Cancelled,2039,Smart TV,45-54,Morning
+7408,Aaron,27-12-2022,24-11-2024,15.99,308,Romance,1,2,YES,202,12,India,Cryptocurrency,Spanish,21,4.5,NO,Active,2097,Desktop,25-34,Morning
+7274,Joseph,04-12-2023,12-06-2024,11.99,193,Documentary,4,4,NO,364,181,France,Credit Card,English,51,4.7,NO,Cancelled,2384,Desktop,55+,Afternoon
+6001,Vickie,09-02-2024,28-11-2024,15.99,420,Documentary,3,3,YES,562,67,USA,Debit Card,English,2,3.2,YES,Active,4159,Smart TV,45-54,Evening
+9418,Stacey,21-07-2024,26-11-2024,7.99,128,Action,5,6,YES,481,128,India,Credit Card,German,89,3.3,YES,Active,2002,Tablet,18-24,Morning
+9354,Timothy,21-07-2023,30-11-2024,11.99,133,Action,4,6,NO,469,182,Australia,PayPal,English,85,4.4,NO,Cancelled,782,Tablet,35-44,Afternoon
+8122,Alison,09-11-2024,29-11-2024,15.99,413,Sci-Fi,5,2,NO,708,4,UK,Credit Card,French,62,4.3,YES,Cancelled,4056,Smartphone,55+,Evening
+1765,Harold,16-09-2024,24-11-2024,11.99,28,Documentary,4,1,YES,990,88,UK,Credit Card,French,97,5,NO,Cancelled,1341,Tablet,35-44,Late Night
+5352,Andrew,16-01-2024,14-12-2024,15.99,453,Drama,5,3,YES,236,121,USA,Cryptocurrency,Mandarin,1,3.7,NO,Paused,3028,Desktop,55+,Morning
+7578,Stephanie,10-03-2023,12-03-2024,11.99,186,Drama,2,5,YES,784,29,USA,Debit Card,German,76,4.3,YES,Cancelled,4799,Desktop,18-24,Morning
+8912,Scott,09-05-2024,21-11-2024,15.99,287,Romance,3,6,NO,714,3,India,Debit Card,Mandarin,45,4.3,YES,Active,4556,Tablet,45-54,Morning
+6641,Ashley,20-07-2024,12-08-2024,7.99,45,Horror,4,3,NO,420,87,UK,Cryptocurrency,Mandarin,41,3.3,YES,Active,2965,Laptop,55+,Evening
+9664,Rick,07-11-2023,22-11-2024,11.99,463,Comedy,5,4,NO,961,9,UK,Cryptocurrency,Spanish,62,3.4,YES,Cancelled,3556,Laptop,18-24,Evening
+9134,Stephanie,26-01-2023,19-11-2024,15.99,241,Sci-Fi,1,5,YES,775,194,France,Debit Card,Hindi,94,3.1,NO,Active,2901,Laptop,55+,Morning
+6663,Douglas,19-05-2024,12-07-2024,7.99,11,Documentary,4,1,YES,773,139,Germany,Debit Card,German,45,4.1,NO,Paused,3520,Tablet,55+,Evening
+9800,Troy,31-12-2022,12-05-2024,15.99,123,Horror,1,1,YES,841,45,UK,PayPal,Hindi,76,4.3,YES,Paused,3983,Smartphone,35-44,Late Night
+2363,Cindy,21-05-2023,12-01-2024,7.99,411,Documentary,3,2,YES,412,20,Australia,PayPal,Spanish,94,4.7,YES,Cancelled,4632,Smartphone,25-34,Evening
+4875,Christopher,21-04-2024,23-11-2024,7.99,469,Comedy,2,1,NO,160,79,Germany,Debit Card,French,57,4.5,YES,Active,314,Smartphone,25-34,Late Night
+8961,Nathan,07-09-2023,12-07-2024,11.99,120,Horror,3,6,NO,346,125,USA,Cryptocurrency,German,25,4.1,NO,Paused,4012,Desktop,25-34,Morning
+1539,Linda,29-08-2024,29-11-2024,15.99,348,Drama,1,5,YES,266,94,Australia,Debit Card,English,82,4.3,YES,Expired,2356,Laptop,45-54,Morning
+4037,Tina,30-11-2023,14-12-2024,11.99,103,Romance,4,4,NO,305,191,Canada,PayPal,French,98,4.7,YES,Cancelled,1824,Tablet,18-24,Afternoon
+4239,Christopher,18-11-2024,23-11-2024,7.99,470,Comedy,2,3,NO,89,135,India,Debit Card,Mandarin,45,4.5,NO,Paused,4236,Smartphone,18-24,Morning
+4364,Victor,27-10-2024,12-01-2024,7.99,241,Romance,3,6,NO,905,127,India,PayPal,Spanish,93,4,NO,Expired,2102,Desktop,35-44,Morning
+8946,Judy,18-05-2024,14-12-2024,15.99,277,Romance,3,5,NO,959,174,USA,PayPal,French,51,3.4,YES,Expired,1876,Smartphone,25-34,Late Night
+5911,Stephanie,01-02-2024,12-10-2024,7.99,158,Romance,3,1,YES,426,7,France,Cryptocurrency,French,36,3.6,NO,Expired,242,Tablet,55+,Morning
+8033,Rhonda,18-01-2024,28-11-2024,15.99,23,Romance,1,1,NO,585,97,Australia,Debit Card,Hindi,23,3.4,YES,Active,4531,Tablet,25-34,Evening
+6603,Amanda,30-01-2024,12-07-2024,11.99,200,Romance,4,5,NO,65,11,Australia,Cryptocurrency,French,30,3.2,YES,Active,959,Desktop,25-34,Afternoon
+9630,William,06-01-2023,26-11-2024,7.99,264,Drama,5,6,NO,367,163,Germany,Cryptocurrency,French,88,3.5,YES,Expired,2156,Laptop,45-54,Late Night
+1691,Elizabeth,09-04-2023,12-07-2024,11.99,309,Sci-Fi,4,4,NO,891,93,Canada,Cryptocurrency,Spanish,65,4,YES,Expired,1442,Smart TV,55+,Morning
+5590,Jennifer,27-07-2024,15-12-2024,7.99,30,Documentary,2,6,NO,468,196,UK,PayPal,Hindi,52,4.5,NO,Expired,4586,Smartphone,18-24,Afternoon
+8645,Daniel,17-04-2024,29-11-2024,11.99,289,Sci-Fi,4,3,YES,999,22,USA,PayPal,Mandarin,50,4.3,YES,Expired,4170,Smart TV,55+,Late Night
+7663,David,05-05-2024,28-11-2024,7.99,432,Documentary,5,4,YES,263,55,France,Credit Card,English,22,3.5,YES,Paused,1294,Desktop,45-54,Morning
+2647,John,23-07-2024,17-12-2024,7.99,393,Horror,4,2,YES,487,105,Canada,PayPal,French,99,3.4,NO,Paused,2460,Tablet,35-44,Morning
+6539,Katherine,19-04-2024,12-01-2024,11.99,203,Horror,1,3,NO,961,41,Australia,Debit Card,German,76,4.2,YES,Cancelled,3276,Smart TV,55+,Late Night
+3472,James,19-09-2023,23-11-2024,7.99,43,Comedy,4,1,NO,973,7,UK,Credit Card,Hindi,76,4.1,YES,Expired,941,Smartphone,55+,Morning
+4314,Alicia,07-10-2023,15-12-2024,7.99,311,Romance,3,5,YES,724,191,USA,PayPal,Hindi,55,4.7,YES,Paused,4062,Smart TV,35-44,Morning
+6739,Richard,30-07-2024,12-01-2024,11.99,23,Documentary,5,3,NO,725,168,USA,Debit Card,Hindi,25,3.6,YES,Cancelled,4322,Laptop,18-24,Late Night
+6368,Robert,28-08-2023,14-12-2024,11.99,370,Comedy,3,4,YES,973,152,Canada,Credit Card,Hindi,98,3.1,YES,Paused,1456,Tablet,45-54,Afternoon
+7309,Emily,30-06-2024,19-11-2024,15.99,343,Documentary,2,2,NO,830,172,Canada,Credit Card,German,99,4.9,NO,Active,1281,Smart TV,45-54,Morning
+3976,Catherine,11-07-2023,12-03-2024,7.99,391,Sci-Fi,4,6,NO,726,176,Canada,Debit Card,French,65,3.8,NO,Expired,1926,Laptop,45-54,Afternoon
+7230,Jeffrey,20-06-2024,13-12-2024,11.99,405,Drama,3,3,NO,90,151,Canada,Debit Card,German,64,4.1,NO,Cancelled,1368,Smart TV,35-44,Late Night
+8888,Eric,22-04-2024,13-12-2024,15.99,14,Horror,5,1,NO,617,128,India,Debit Card,French,31,3.5,NO,Paused,571,Smartphone,35-44,Evening
+1194,Richard,20-10-2024,12-02-2024,7.99,11,Horror,4,6,NO,246,96,France,PayPal,Spanish,56,4.6,YES,Active,3807,Laptop,55+,Morning
+6983,Jennifer,28-08-2024,12-07-2024,11.99,335,Sci-Fi,1,2,YES,484,54,UK,PayPal,French,51,4,YES,Active,3424,Smartphone,45-54,Evening
+1413,Charles,20-12-2022,30-11-2024,11.99,408,Sci-Fi,3,5,YES,418,198,USA,PayPal,Spanish,0,3,NO,Paused,1428,Smartphone,18-24,Afternoon
+9509,Samantha,28-07-2024,26-11-2024,11.99,302,Action,2,2,NO,431,116,India,Debit Card,French,15,3.9,YES,Cancelled,2387,Smart TV,45-54,Morning
+6330,Meghan,25-01-2024,12-04-2024,7.99,329,Sci-Fi,4,1,YES,973,163,USA,Cryptocurrency,English,78,4.2,YES,Expired,218,Tablet,18-24,Evening
+2504,Calvin,22-08-2024,15-12-2024,11.99,328,Comedy,4,6,YES,858,159,UK,PayPal,German,75,4.6,YES,Expired,68,Smartphone,45-54,Afternoon
+6593,Richard,13-08-2024,12-07-2024,11.99,353,Drama,3,6,NO,637,160,UK,Debit Card,English,67,5,YES,Cancelled,2749,Desktop,45-54,Late Night
+9537,Richard,20-02-2024,20-11-2024,11.99,386,Comedy,3,3,NO,693,61,UK,Cryptocurrency,Hindi,48,3.8,NO,Cancelled,4942,Smart TV,35-44,Afternoon
+9628,Maria,27-10-2023,12-11-2024,7.99,401,Comedy,5,6,NO,308,103,USA,Credit Card,Mandarin,98,3.1,YES,Expired,1813,Laptop,35-44,Morning
+4024,Sarah,21-04-2023,12-07-2024,7.99,286,Drama,3,1,NO,843,26,UK,PayPal,German,11,3.5,NO,Active,318,Tablet,55+,Morning
+5321,Joseph,30-12-2023,12-10-2024,7.99,20,Romance,5,2,NO,895,40,Canada,Cryptocurrency,English,97,3.8,NO,Cancelled,4216,Desktop,55+,Afternoon
+3926,Sheri,20-11-2024,25-11-2024,7.99,167,Romance,3,1,YES,466,69,France,Cryptocurrency,Mandarin,86,4.3,NO,Active,3003,Smart TV,35-44,Evening
+8738,Ashley,21-09-2024,29-11-2024,7.99,427,Romance,1,1,YES,886,17,UK,Debit Card,Mandarin,41,4.1,NO,Expired,342,Smart TV,45-54,Afternoon
+2701,Victor,05-05-2024,12-01-2024,11.99,13,Drama,4,6,YES,537,121,Australia,Cryptocurrency,Spanish,17,3.1,YES,Expired,2124,Desktop,55+,Morning
+5339,Tommy,19-02-2024,14-12-2024,15.99,53,Action,5,5,NO,524,161,France,Cryptocurrency,German,65,4.9,NO,Paused,1016,Desktop,45-54,Afternoon
+1612,Trevor,23-05-2023,12-04-2024,7.99,197,Action,1,2,YES,409,22,India,Debit Card,German,64,4.3,YES,Expired,1925,Tablet,35-44,Morning
+5407,William,13-10-2023,12-04-2024,7.99,429,Horror,3,5,NO,988,115,USA,Credit Card,Spanish,19,4.3,YES,Cancelled,3773,Laptop,25-34,Late Night
+8225,Darrell,05-08-2024,24-11-2024,15.99,282,Horror,1,1,YES,386,177,Germany,PayPal,Spanish,17,3.4,YES,Expired,1231,Laptop,55+,Afternoon
+4714,Dana,13-10-2024,20-11-2024,11.99,248,Sci-Fi,5,6,NO,996,24,Australia,Debit Card,German,53,3.3,YES,Expired,62,Desktop,25-34,Evening
+3826,Richard,10-02-2024,16-12-2024,11.99,406,Documentary,3,3,NO,369,13,USA,Cryptocurrency,Mandarin,82,4.7,NO,Active,1580,Tablet,55+,Late Night
+3781,Jasmine,17-12-2024,29-11-2024,15.99,249,Romance,1,4,YES,713,125,UK,PayPal,German,95,4.8,NO,Paused,74,Laptop,18-24,Morning
+5635,Chelsea,18-10-2023,24-11-2024,7.99,12,Horror,2,4,NO,928,147,Australia,Debit Card,English,92,4.7,NO,Paused,3452,Tablet,25-34,Late Night
+2291,Courtney,04-12-2023,12-01-2024,7.99,57,Action,2,6,YES,869,107,Australia,Credit Card,Spanish,67,4.3,NO,Expired,4792,Desktop,18-24,Afternoon
+3119,Stacey,18-09-2024,13-12-2024,7.99,247,Romance,5,6,YES,563,185,Australia,Debit Card,Mandarin,3,4.8,NO,Active,4378,Smart TV,45-54,Evening
+5280,Kristy,25-03-2023,29-11-2024,7.99,25,Horror,5,2,YES,429,138,Australia,Credit Card,English,40,3.5,NO,Cancelled,1713,Smartphone,55+,Late Night
+2546,Terri,17-05-2023,12-03-2024,15.99,425,Comedy,3,6,NO,236,37,Australia,Debit Card,English,49,4,NO,Expired,1201,Smartphone,25-34,Evening
+5975,Jessica,24-09-2023,17-12-2024,7.99,315,Documentary,2,5,YES,889,80,Germany,Credit Card,German,52,4.4,YES,Active,416,Smart TV,55+,Afternoon
+9113,Aaron,13-09-2024,30-11-2024,7.99,466,Comedy,4,4,NO,785,12,UK,Debit Card,Spanish,94,4.9,NO,Active,17,Desktop,55+,Evening
+6250,Madison,07-08-2024,22-11-2024,15.99,207,Sci-Fi,3,6,NO,909,164,Canada,Credit Card,Hindi,75,4.2,YES,Cancelled,4820,Laptop,45-54,Afternoon
+6190,Alyssa,17-11-2024,12-08-2024,7.99,248,Drama,5,2,NO,142,22,USA,Debit Card,Mandarin,94,4.2,NO,Active,1758,Tablet,55+,Late Night
+5713,Carlos,17-04-2024,24-11-2024,7.99,278,Drama,5,1,NO,743,180,USA,Cryptocurrency,Hindi,0,4.3,YES,Expired,2568,Desktop,45-54,Morning
+1932,Scott,21-01-2024,17-12-2024,7.99,315,Documentary,1,2,NO,40,188,France,Debit Card,French,86,3.7,YES,Paused,4235,Smartphone,45-54,Late Night
+6527,Debra,25-05-2023,23-11-2024,7.99,190,Romance,4,1,YES,400,151,Australia,PayPal,German,52,4.3,NO,Cancelled,3775,Desktop,55+,Late Night
+9363,Ashley,10-05-2024,23-11-2024,11.99,190,Horror,2,1,NO,359,192,Germany,PayPal,English,38,4.4,YES,Paused,92,Smartphone,45-54,Afternoon
+5019,Elizabeth,10-02-2024,12-12-2024,15.99,408,Documentary,4,3,NO,711,23,Germany,Credit Card,French,65,3.6,YES,Cancelled,72,Laptop,25-34,Evening
+9258,Bianca,26-02-2024,12-06-2024,15.99,227,Documentary,2,1,NO,581,146,Germany,PayPal,Spanish,37,4.4,NO,Active,2488,Smartphone,18-24,Evening
+7512,Joann,13-12-2023,24-11-2024,11.99,479,Comedy,2,4,YES,923,182,India,Debit Card,Hindi,14,4.9,YES,Cancelled,2666,Laptop,55+,Afternoon
+8195,Gail,17-04-2023,20-11-2024,11.99,415,Drama,3,1,NO,381,78,Germany,Debit Card,Mandarin,84,4.4,YES,Expired,4221,Tablet,55+,Morning
+8242,Daniel,19-12-2022,12-04-2024,11.99,204,Romance,4,4,YES,706,153,Canada,PayPal,Hindi,94,3.7,YES,Expired,4569,Smartphone,55+,Late Night
+2220,Felicia,21-10-2023,28-11-2024,15.99,205,Comedy,3,1,YES,792,103,Germany,PayPal,Mandarin,24,3.9,YES,Active,2695,Laptop,55+,Evening
+9308,Jennifer,30-09-2024,25-11-2024,11.99,64,Documentary,2,3,YES,221,4,USA,PayPal,Mandarin,88,3.7,YES,Paused,48,Tablet,18-24,Afternoon
+3437,Susan,24-01-2023,12-05-2024,7.99,281,Sci-Fi,2,4,NO,770,74,Australia,Debit Card,German,12,4,NO,Cancelled,1526,Laptop,35-44,Late Night
+8305,Ashley,26-01-2023,12-06-2024,11.99,78,Comedy,4,5,NO,914,22,France,Debit Card,German,14,4.5,NO,Expired,4934,Smartphone,35-44,Late Night
+6773,Jeffrey,02-06-2024,29-11-2024,7.99,343,Drama,4,1,YES,492,187,USA,PayPal,French,75,4.9,YES,Expired,628,Desktop,45-54,Late Night
+3010,Amanda,11-03-2024,24-11-2024,11.99,318,Sci-Fi,1,5,NO,925,191,Australia,PayPal,Mandarin,38,4.6,YES,Expired,167,Tablet,25-34,Afternoon
+3622,Paul,16-08-2024,12-09-2024,7.99,444,Drama,3,5,NO,183,195,France,Cryptocurrency,Mandarin,36,4.7,NO,Paused,1309,Smart TV,25-34,Morning
+6006,Mark,09-07-2024,19-11-2024,11.99,171,Horror,3,1,YES,889,54,France,Cryptocurrency,German,1,3.3,YES,Paused,710,Smartphone,45-54,Late Night
+1338,Lisa,26-03-2023,12-02-2024,15.99,309,Romance,5,4,NO,174,172,Australia,Cryptocurrency,English,71,3.1,YES,Cancelled,106,Smart TV,55+,Morning
+6722,Matthew,05-08-2023,27-11-2024,15.99,447,Comedy,5,2,NO,709,93,India,Debit Card,German,35,4.8,YES,Expired,2652,Smart TV,25-34,Evening
+5871,Travis,13-07-2024,12-04-2024,7.99,120,Romance,3,5,YES,783,81,Canada,PayPal,Mandarin,52,4.3,NO,Expired,4879,Laptop,55+,Afternoon
+9290,Reginald,11-09-2023,12-08-2024,15.99,168,Action,5,4,YES,304,196,USA,Debit Card,Spanish,44,4.1,NO,Cancelled,1426,Smart TV,35-44,Afternoon
+8567,Jennifer,18-05-2024,13-12-2024,7.99,203,Sci-Fi,1,3,YES,738,96,Australia,Cryptocurrency,French,10,4,NO,Expired,1504,Laptop,18-24,Afternoon
+5253,Debra,12-07-2023,24-11-2024,11.99,436,Comedy,5,5,YES,228,110,Australia,Cryptocurrency,Hindi,78,4.5,YES,Paused,1518,Desktop,35-44,Morning
+8172,Ian,21-03-2024,17-12-2024,11.99,195,Romance,5,6,YES,997,107,Canada,Credit Card,French,78,4.9,NO,Paused,708,Tablet,45-54,Evening
+2154,Cassie,12-11-2023,12-05-2024,7.99,454,Drama,5,1,YES,722,98,UK,Credit Card,Mandarin,36,3.4,NO,Paused,4651,Tablet,35-44,Evening
+5013,Claudia,26-08-2023,24-11-2024,15.99,187,Drama,1,1,NO,316,10,UK,PayPal,English,8,4.7,NO,Paused,4397,Smartphone,55+,Late Night
+4211,Kristina,10-07-2024,12-01-2024,7.99,277,Romance,1,3,YES,455,120,France,PayPal,Spanish,92,4.7,NO,Expired,1360,Laptop,18-24,Afternoon
+4408,Melissa,28-09-2023,30-11-2024,7.99,257,Romance,3,6,YES,985,97,UK,Credit Card,Mandarin,88,3.9,YES,Active,4155,Desktop,18-24,Morning
+8473,Desiree,25-02-2023,12-12-2024,11.99,12,Documentary,4,6,NO,718,100,France,Debit Card,Mandarin,24,4.1,NO,Expired,1289,Smartphone,18-24,Morning
+7510,Audrey,15-01-2023,29-11-2024,7.99,362,Romance,2,4,YES,923,57,France,PayPal,German,38,4.8,NO,Expired,2922,Laptop,35-44,Afternoon
+5376,John,04-07-2023,26-11-2024,7.99,89,Romance,2,4,YES,174,178,Germany,PayPal,French,7,3.7,NO,Active,28,Laptop,35-44,Morning
+8005,Ryan,03-08-2023,14-12-2024,7.99,123,Documentary,5,5,YES,253,157,UK,PayPal,Spanish,85,4,NO,Paused,3083,Smart TV,45-54,Late Night
+7439,Kim,25-08-2023,12-05-2024,15.99,427,Comedy,1,1,NO,479,98,USA,PayPal,English,18,3.8,YES,Expired,547,Tablet,55+,Late Night
+3699,Lindsey,26-05-2023,24-11-2024,15.99,439,Romance,2,4,NO,932,98,France,Cryptocurrency,Hindi,58,4.9,NO,Cancelled,239,Tablet,35-44,Afternoon
+3162,Michael,19-12-2022,13-12-2024,15.99,396,Horror,3,3,YES,175,17,USA,Credit Card,French,11,3.4,NO,Active,3516,Smartphone,35-44,Evening
+8798,Pamela,20-04-2023,15-12-2024,15.99,453,Horror,5,2,YES,591,169,Canada,PayPal,English,72,4.1,YES,Cancelled,4031,Tablet,25-34,Evening
+6400,Jonathan,27-02-2024,14-12-2024,11.99,356,Horror,3,2,YES,776,40,USA,Credit Card,Mandarin,56,3.4,YES,Paused,3408,Tablet,35-44,Evening
+9404,Michael,09-10-2023,12-03-2024,15.99,192,Sci-Fi,1,3,YES,229,54,Germany,PayPal,Spanish,87,3.1,NO,Cancelled,3849,Smart TV,45-54,Afternoon
+8151,Mark,22-06-2024,24-11-2024,11.99,483,Romance,3,6,NO,730,98,Canada,Cryptocurrency,Mandarin,29,3.8,NO,Cancelled,1813,Desktop,35-44,Evening
+7742,James,27-09-2024,22-11-2024,11.99,17,Comedy,2,3,YES,312,114,USA,PayPal,German,15,3.6,YES,Paused,2084,Tablet,18-24,Morning
+4553,Janet,15-06-2023,27-11-2024,7.99,272,Documentary,1,6,NO,356,126,India,Debit Card,Mandarin,40,4.3,YES,Cancelled,749,Smart TV,25-34,Morning
+6919,Jane,25-02-2023,24-11-2024,7.99,195,Action,4,3,YES,49,30,Canada,PayPal,German,68,4.4,NO,Active,3157,Smart TV,18-24,Morning
+7168,Tammy,01-10-2024,21-11-2024,11.99,416,Sci-Fi,3,1,YES,774,55,France,PayPal,French,41,3.3,NO,Active,173,Smartphone,18-24,Evening
+6474,Christopher,31-10-2023,19-11-2024,15.99,459,Documentary,5,5,YES,961,173,UK,PayPal,German,92,3.7,NO,Active,2925,Desktop,55+,Late Night
+4242,Robert,11-06-2023,15-12-2024,7.99,168,Horror,5,3,YES,539,48,Canada,Credit Card,Hindi,82,4.3,NO,Expired,3182,Tablet,25-34,Late Night
+3395,Michael,26-03-2024,29-11-2024,7.99,307,Romance,5,6,NO,340,174,India,Cryptocurrency,Mandarin,11,4.5,YES,Cancelled,2432,Smart TV,18-24,Evening
+8694,Norma,14-12-2023,12-03-2024,15.99,270,Comedy,2,3,YES,836,67,Australia,PayPal,French,51,4.5,YES,Active,414,Smart TV,18-24,Morning
+7150,Matthew,13-04-2023,12-07-2024,7.99,358,Action,4,6,YES,746,200,India,Debit Card,English,35,3.9,YES,Paused,888,Laptop,45-54,Late Night
+4111,Tyler,23-04-2024,27-11-2024,11.99,301,Sci-Fi,2,2,YES,939,21,Germany,Credit Card,Mandarin,83,4.9,NO,Active,1058,Smart TV,55+,Morning
+3532,Richard,29-01-2023,15-12-2024,7.99,277,Action,2,4,NO,659,150,USA,Debit Card,English,79,3.9,YES,Paused,2067,Smart TV,45-54,Evening
+5375,Wendy,31-12-2022,30-11-2024,15.99,423,Sci-Fi,5,2,YES,435,108,UK,Debit Card,English,44,4.6,NO,Paused,3763,Laptop,45-54,Morning
+8881,Taylor,16-09-2024,24-11-2024,11.99,197,Drama,1,5,NO,292,169,France,Cryptocurrency,English,3,4.5,NO,Active,957,Desktop,45-54,Morning
+1235,William,31-10-2023,27-11-2024,15.99,100,Documentary,2,6,YES,103,36,India,Debit Card,Mandarin,68,3.7,NO,Expired,3003,Tablet,55+,Late Night
+2533,Danielle,11-03-2023,23-11-2024,15.99,338,Action,4,2,NO,525,140,Australia,Credit Card,French,75,4.6,YES,Paused,354,Smart TV,18-24,Afternoon
+2734,Bruce,06-06-2024,12-01-2024,11.99,130,Documentary,1,1,YES,428,119,France,Credit Card,French,53,4.5,YES,Active,4922,Tablet,35-44,Afternoon
+4129,Erin,31-12-2023,25-11-2024,11.99,383,Horror,5,4,YES,711,147,France,PayPal,Mandarin,68,3.9,YES,Active,2083,Laptop,18-24,Evening
+3762,Michelle,28-12-2023,30-11-2024,11.99,411,Action,5,6,YES,887,37,Australia,PayPal,French,66,3.9,YES,Paused,2098,Desktop,45-54,Late Night
+4341,Marie,06-01-2023,12-07-2024,11.99,347,Horror,4,2,YES,546,12,Australia,PayPal,Spanish,31,3.1,NO,Paused,2022,Smartphone,35-44,Evening
+6638,Cory,10-02-2023,12-11-2024,11.99,302,Comedy,4,2,YES,417,143,Canada,Debit Card,Mandarin,14,4.7,NO,Expired,3791,Smartphone,55+,Afternoon
+5861,Angela,05-08-2023,12-03-2024,15.99,361,Romance,3,6,NO,407,126,Germany,Debit Card,Spanish,80,4.3,NO,Paused,728,Laptop,35-44,Late Night
+8815,Brian,13-11-2023,12-01-2024,7.99,148,Documentary,1,1,YES,579,121,France,Cryptocurrency,Spanish,8,3.6,NO,Expired,3448,Smart TV,45-54,Evening
+8793,Lisa,18-05-2024,21-11-2024,7.99,162,Sci-Fi,2,5,YES,672,57,Australia,Debit Card,Mandarin,16,4.3,NO,Cancelled,3930,Laptop,18-24,Afternoon
+3469,Kimberly,08-06-2023,18-12-2024,7.99,379,Drama,3,5,YES,377,153,Australia,Cryptocurrency,Mandarin,67,3.6,YES,Expired,3702,Smartphone,18-24,Afternoon
+3654,James,24-02-2024,14-12-2024,15.99,373,Comedy,2,6,YES,818,34,Canada,PayPal,English,57,3.8,YES,Cancelled,2400,Desktop,45-54,Evening
+9555,Brian,08-02-2024,22-11-2024,11.99,354,Documentary,1,1,YES,225,1,UK,Cryptocurrency,Hindi,83,4.3,YES,Active,548,Tablet,55+,Evening
+4028,Juan,05-04-2024,12-09-2024,7.99,76,Horror,2,4,YES,324,113,Australia,Credit Card,French,87,4.9,NO,Paused,4702,Laptop,25-34,Morning
+9499,Kevin,17-04-2023,14-12-2024,11.99,316,Action,1,3,NO,793,141,USA,PayPal,German,28,3.4,NO,Active,2821,Desktop,45-54,Morning
+8628,Lori,26-12-2022,29-11-2024,11.99,331,Horror,4,2,YES,133,143,UK,PayPal,Spanish,35,4.6,YES,Active,484,Laptop,55+,Late Night
+9942,Michael,08-04-2023,20-11-2024,15.99,418,Documentary,1,5,YES,260,161,Canada,Cryptocurrency,English,49,3.6,YES,Expired,2871,Smart TV,25-34,Late Night
+4044,Cameron,06-04-2023,23-11-2024,15.99,309,Romance,5,5,NO,851,166,France,Cryptocurrency,Spanish,66,4,YES,Expired,4783,Laptop,45-54,Afternoon
+8143,Mark,29-05-2024,12-11-2024,7.99,252,Drama,3,5,YES,105,118,Germany,Debit Card,German,52,4.4,YES,Cancelled,2725,Laptop,25-34,Morning
+3984,Daniel,21-03-2023,12-01-2024,15.99,146,Comedy,4,6,NO,646,139,Germany,PayPal,German,27,3.7,YES,Active,4400,Tablet,18-24,Late Night
+9294,Jerry,20-02-2023,21-11-2024,11.99,352,Horror,4,4,YES,358,6,Canada,Debit Card,Mandarin,32,3.8,NO,Paused,2218,Smartphone,25-34,Evening
+4769,Michael,03-06-2024,17-12-2024,7.99,43,Romance,5,3,YES,336,135,USA,PayPal,English,70,4,YES,Cancelled,4552,Smartphone,18-24,Late Night
+8864,Michael,20-03-2024,29-11-2024,11.99,440,Drama,4,3,YES,80,143,UK,Cryptocurrency,German,2,3.4,NO,Expired,4125,Tablet,35-44,Late Night
+1857,Brittney,06-04-2024,23-11-2024,15.99,376,Romance,2,2,NO,326,89,India,Cryptocurrency,Spanish,84,4.6,YES,Expired,424,Laptop,55+,Late Night
+5566,Brian,18-12-2023,12-07-2024,11.99,137,Action,3,6,YES,699,70,Germany,PayPal,Spanish,25,3.9,YES,Paused,2418,Laptop,35-44,Evening
+1373,Elizabeth,13-03-2023,12-12-2024,7.99,301,Action,2,5,NO,89,55,USA,Credit Card,French,54,4.2,YES,Active,756,Laptop,55+,Late Night
+6345,Thomas,01-01-2023,12-09-2024,7.99,410,Documentary,1,1,YES,909,99,Canada,PayPal,Mandarin,22,3.2,NO,Active,754,Smart TV,25-34,Evening
+3234,Jessica,01-01-2024,12-07-2024,11.99,298,Horror,2,1,NO,918,153,Australia,PayPal,Spanish,52,4.4,YES,Cancelled,3476,Smart TV,18-24,Morning
+6998,Joshua,22-03-2024,12-02-2024,7.99,54,Sci-Fi,4,5,YES,285,66,India,Credit Card,English,43,3.8,NO,Cancelled,290,Tablet,45-54,Late Night
+5809,Melissa,13-09-2024,19-11-2024,7.99,486,Horror,4,3,NO,463,171,UK,Debit Card,French,10,3.2,NO,Cancelled,987,Desktop,55+,Evening
+6522,Bryan,09-10-2023,27-11-2024,11.99,38,Comedy,1,4,YES,875,115,Canada,Cryptocurrency,German,75,4.7,YES,Active,4972,Smart TV,18-24,Late Night
+3892,Amanda,21-07-2023,12-03-2024,7.99,442,Action,3,6,YES,875,70,Canada,PayPal,German,96,3.7,NO,Paused,1628,Desktop,35-44,Evening
+4427,Walter,17-06-2023,28-11-2024,7.99,474,Horror,3,5,YES,341,165,Australia,Cryptocurrency,Mandarin,30,4.8,NO,Active,1285,Smartphone,45-54,Evening
+8145,Samuel,02-10-2023,21-11-2024,15.99,96,Comedy,5,1,YES,273,79,UK,PayPal,English,60,4.3,NO,Paused,1960,Desktop,25-34,Afternoon
+1150,John,23-10-2023,29-11-2024,11.99,160,Horror,5,5,YES,352,31,India,PayPal,Hindi,37,3.7,YES,Paused,771,Tablet,25-34,Afternoon
+7366,Dylan,22-06-2024,15-12-2024,7.99,451,Comedy,3,3,NO,588,147,Germany,Debit Card,German,75,3.3,YES,Paused,1785,Tablet,45-54,Evening
+3004,Joseph,22-10-2024,18-12-2024,11.99,184,Documentary,3,4,NO,233,15,Canada,Cryptocurrency,Mandarin,28,3.5,YES,Paused,2760,Smart TV,45-54,Late Night
+9934,Heather,28-12-2023,16-12-2024,15.99,50,Drama,2,6,YES,159,131,Australia,Debit Card,Mandarin,49,3.8,NO,Paused,388,Desktop,25-34,Afternoon
+1228,Cassandra,29-03-2023,14-12-2024,7.99,299,Horror,3,1,NO,488,135,Germany,Debit Card,German,100,4.8,NO,Active,2385,Desktop,45-54,Afternoon
+5806,Marisa,08-01-2024,15-12-2024,7.99,495,Drama,5,6,NO,522,32,Australia,Cryptocurrency,French,41,3.9,YES,Paused,3714,Tablet,55+,Afternoon
+7538,Samantha,05-12-2024,26-11-2024,7.99,132,Horror,4,5,YES,30,177,USA,PayPal,French,31,5,NO,Cancelled,2015,Smart TV,45-54,Evening
+1035,Katherine,16-02-2024,22-11-2024,11.99,395,Romance,2,4,YES,139,29,Germany,Debit Card,Spanish,44,3.9,YES,Paused,3201,Tablet,45-54,Morning
+8399,Diana,03-05-2023,12-03-2024,11.99,34,Action,1,2,YES,393,130,UK,Cryptocurrency,Mandarin,10,3.9,NO,Active,3426,Laptop,35-44,Late Night
+1912,Stephen,28-07-2023,14-12-2024,11.99,348,Romance,1,4,NO,792,67,Australia,Cryptocurrency,French,60,4.1,NO,Expired,3366,Desktop,35-44,Late Night
+6604,Lisa,16-06-2024,22-11-2024,15.99,247,Romance,5,4,NO,186,158,UK,Cryptocurrency,Spanish,19,3.8,NO,Active,125,Tablet,45-54,Evening
+8952,Kristin,02-08-2023,22-11-2024,11.99,216,Romance,1,1,NO,872,150,France,Credit Card,English,10,3.8,YES,Expired,4037,Tablet,18-24,Late Night
+2549,Autumn,16-08-2024,26-11-2024,11.99,299,Comedy,4,6,NO,77,191,Australia,Cryptocurrency,English,85,3.4,YES,Active,4348,Desktop,45-54,Afternoon
+8954,Melissa,13-11-2023,27-11-2024,15.99,315,Comedy,2,1,YES,829,178,USA,Debit Card,Spanish,53,3.1,NO,Paused,546,Smartphone,35-44,Evening
+1922,Tiffany,12-01-2024,12-03-2024,11.99,35,Documentary,2,4,NO,821,7,India,Debit Card,Mandarin,3,3.3,NO,Cancelled,2785,Smart TV,35-44,Afternoon
+9861,Ashley,12-07-2023,16-12-2024,15.99,359,Comedy,3,1,NO,265,34,Australia,Credit Card,English,64,4.9,YES,Cancelled,3308,Smartphone,25-34,Morning
+4383,Tracy,09-08-2024,30-11-2024,15.99,361,Action,4,5,YES,416,143,Australia,Credit Card,French,99,3.7,NO,Active,527,Smart TV,18-24,Morning
+4328,Amy,18-05-2023,24-11-2024,11.99,273,Action,3,4,YES,253,70,Germany,PayPal,English,42,4.9,NO,Active,837,Smartphone,25-34,Evening
+4622,Nicholas,20-11-2024,15-12-2024,7.99,47,Action,2,4,YES,770,2,Australia,Credit Card,English,46,4.7,YES,Expired,371,Desktop,45-54,Afternoon
+7828,Angel,04-08-2023,12-02-2024,7.99,477,Horror,5,5,NO,969,12,France,Debit Card,English,37,4.7,NO,Expired,877,Tablet,25-34,Late Night
+1393,Ryan,17-01-2023,12-03-2024,7.99,418,Action,3,4,YES,701,125,India,Debit Card,Hindi,68,4.8,YES,Active,4873,Tablet,25-34,Evening
+9239,Daniel,25-11-2024,21-11-2024,15.99,274,Drama,5,6,NO,732,105,UK,PayPal,Hindi,36,4.1,YES,Cancelled,4194,Smart TV,45-54,Evening
+1636,Elizabeth,27-05-2023,12-06-2024,11.99,102,Romance,5,2,NO,989,44,Australia,Cryptocurrency,English,63,4.8,NO,Active,3118,Desktop,35-44,Late Night
+4401,Caitlin,14-04-2024,15-12-2024,15.99,164,Documentary,3,5,YES,89,32,Germany,Cryptocurrency,German,83,3,YES,Paused,2088,Tablet,55+,Evening
+7135,Johnathan,12-12-2023,17-12-2024,15.99,478,Drama,4,5,YES,578,117,Germany,Credit Card,Hindi,27,4.9,NO,Cancelled,3468,Smart TV,45-54,Morning
+8923,Douglas,12-11-2024,12-10-2024,11.99,100,Romance,3,4,NO,417,87,France,Credit Card,English,14,3.4,NO,Cancelled,3183,Smart TV,35-44,Afternoon
+9748,Sherri,12-12-2023,12-07-2024,15.99,264,Romance,2,6,NO,474,10,USA,Cryptocurrency,German,18,4.7,YES,Cancelled,4070,Smartphone,35-44,Morning
+7046,Eric,26-02-2023,12-10-2024,15.99,208,Horror,5,6,NO,512,176,Australia,PayPal,French,36,4.7,NO,Expired,4147,Smartphone,55+,Afternoon
+9688,Mariah,16-01-2024,12-04-2024,7.99,56,Comedy,1,2,YES,280,67,France,Cryptocurrency,Spanish,21,4.6,NO,Active,255,Smartphone,25-34,Morning
+6720,Michael,07-08-2023,13-12-2024,15.99,207,Horror,2,2,YES,494,28,France,Cryptocurrency,German,99,3.6,NO,Cancelled,3278,Desktop,55+,Late Night
+2766,Jerome,01-08-2023,25-11-2024,7.99,187,Documentary,2,3,YES,697,5,Australia,Debit Card,German,29,4.5,NO,Active,213,Smart TV,18-24,Morning
+3847,Cynthia,03-05-2024,23-11-2024,11.99,62,Action,3,1,YES,879,128,India,PayPal,Mandarin,56,3.4,NO,Cancelled,2886,Laptop,25-34,Late Night
+8554,James,12-02-2023,21-11-2024,15.99,182,Romance,1,2,YES,442,87,USA,Credit Card,Mandarin,62,4.9,NO,Expired,1901,Desktop,45-54,Evening
+6569,Patrick,31-10-2023,25-11-2024,7.99,468,Romance,2,3,NO,514,46,Canada,Debit Card,English,74,3.2,NO,Expired,4456,Smartphone,25-34,Afternoon
+6391,Daniel,05-11-2024,24-11-2024,15.99,389,Drama,2,2,NO,120,191,UK,Debit Card,English,75,3.8,YES,Paused,237,Desktop,18-24,Morning
+4883,Devon,02-07-2024,12-09-2024,15.99,155,Action,4,5,NO,573,190,India,Cryptocurrency,Spanish,86,3.5,YES,Cancelled,4659,Tablet,35-44,Late Night
+4530,Rebecca,15-12-2023,26-11-2024,7.99,331,Action,1,6,YES,231,199,Germany,PayPal,Mandarin,93,3.4,NO,Expired,4906,Desktop,55+,Late Night
+6531,Amanda,02-07-2023,12-12-2024,11.99,131,Sci-Fi,5,2,NO,374,154,France,Debit Card,German,81,4.4,NO,Paused,1155,Laptop,35-44,Morning
+9701,Antonio,17-03-2023,26-11-2024,7.99,376,Sci-Fi,3,6,NO,727,13,UK,Cryptocurrency,German,5,3.4,NO,Cancelled,4378,Desktop,25-34,Morning
+4702,Christina,31-03-2024,12-11-2024,7.99,106,Horror,4,6,YES,858,12,Australia,Debit Card,Mandarin,25,3.4,YES,Active,1674,Desktop,45-54,Afternoon
+3163,Gary,07-12-2024,30-11-2024,11.99,445,Comedy,4,4,NO,25,132,Germany,PayPal,Spanish,50,3.8,YES,Paused,2407,Smart TV,25-34,Morning
+8719,Joshua,18-09-2023,26-11-2024,15.99,345,Documentary,4,5,NO,180,99,UK,Cryptocurrency,French,73,4.7,YES,Paused,2636,Smartphone,18-24,Late Night
+1282,Amy,12-10-2024,27-11-2024,15.99,432,Horror,4,3,YES,666,76,Australia,Cryptocurrency,French,92,4.6,NO,Paused,4020,Tablet,45-54,Late Night
+4538,Andrew,13-09-2023,14-12-2024,15.99,362,Drama,4,1,NO,709,52,USA,Credit Card,Spanish,80,4.5,YES,Cancelled,4127,Smart TV,55+,Late Night
+9538,Amanda,25-01-2023,30-11-2024,15.99,174,Drama,4,3,NO,30,136,USA,Cryptocurrency,Mandarin,4,3.1,YES,Paused,4503,Smartphone,35-44,Morning
+5109,David,24-04-2024,13-12-2024,11.99,490,Documentary,4,3,NO,466,106,Germany,Credit Card,French,91,3.7,NO,Active,1080,Desktop,18-24,Afternoon
+7947,Billy,11-11-2023,17-12-2024,15.99,32,Comedy,3,4,NO,385,106,UK,Credit Card,Spanish,75,3.7,NO,Cancelled,1610,Laptop,35-44,Late Night
+7546,Elizabeth,24-10-2024,12-10-2024,7.99,48,Sci-Fi,1,4,NO,484,131,India,Cryptocurrency,English,68,4,NO,Active,1535,Smart TV,18-24,Afternoon
+4213,Kelsey,12-08-2023,23-11-2024,7.99,141,Action,4,2,YES,379,35,Canada,Cryptocurrency,Hindi,29,4.9,YES,Active,3840,Tablet,45-54,Late Night
+3135,Angela,06-07-2024,24-11-2024,7.99,368,Horror,5,1,NO,481,58,France,Cryptocurrency,German,97,4,NO,Paused,1108,Desktop,25-34,Evening
+9916,Wendy,28-02-2024,21-11-2024,7.99,227,Comedy,5,2,YES,969,175,UK,Credit Card,Spanish,11,5,NO,Paused,4510,Smart TV,35-44,Evening
+2784,Matthew,20-11-2023,13-12-2024,7.99,484,Documentary,5,2,YES,52,151,France,PayPal,French,15,3.1,NO,Cancelled,1042,Tablet,18-24,Late Night
+5916,Lisa,18-09-2024,12-09-2024,15.99,14,Drama,4,2,YES,57,175,Germany,Debit Card,French,41,3.4,YES,Active,2175,Laptop,18-24,Evening
+1674,Jonathan,15-07-2024,15-12-2024,11.99,328,Comedy,2,2,YES,415,162,UK,PayPal,French,19,4.4,YES,Cancelled,1311,Smartphone,35-44,Morning
+2095,Richard,13-08-2024,29-11-2024,11.99,279,Romance,5,5,YES,285,92,Canada,Cryptocurrency,Mandarin,81,4.7,YES,Active,4201,Laptop,55+,Late Night
+9594,Matthew,18-10-2024,12-03-2024,7.99,158,Action,2,5,YES,861,125,France,Credit Card,English,95,4.4,YES,Paused,513,Laptop,18-24,Late Night
+6750,Amber,28-07-2023,12-02-2024,7.99,422,Sci-Fi,3,5,NO,399,27,France,Credit Card,English,12,4.4,YES,Expired,1330,Smartphone,18-24,Afternoon
+7235,Zachary,01-03-2023,29-11-2024,7.99,235,Horror,1,2,NO,765,159,UK,Credit Card,Hindi,77,4.2,NO,Paused,3689,Smart TV,45-54,Evening
+3910,Carolyn,31-12-2023,12-08-2024,11.99,331,Romance,1,2,NO,667,43,Australia,Debit Card,Mandarin,55,3.5,NO,Paused,670,Tablet,18-24,Afternoon
+8190,Erica,29-08-2024,12-09-2024,11.99,148,Documentary,4,1,YES,409,38,France,Credit Card,English,37,3.1,YES,Expired,544,Smart TV,35-44,Evening
+5315,Donna,23-06-2023,19-11-2024,7.99,198,Horror,4,3,NO,202,26,Canada,Cryptocurrency,French,52,4.8,NO,Active,1392,Laptop,25-34,Afternoon
+7503,James,19-05-2023,12-03-2024,15.99,81,Horror,3,4,NO,208,144,France,Debit Card,English,12,4.6,NO,Active,3199,Tablet,25-34,Morning
+5788,Nicole,05-05-2023,23-11-2024,11.99,131,Horror,3,3,YES,382,50,Germany,Credit Card,Spanish,47,4.8,NO,Active,4204,Laptop,25-34,Morning
+7030,Paige,19-03-2024,23-11-2024,15.99,210,Documentary,3,4,NO,666,164,USA,PayPal,Mandarin,38,4.2,NO,Cancelled,1461,Smart TV,55+,Late Night
+6619,Cindy,17-06-2024,16-12-2024,15.99,301,Documentary,2,1,YES,855,46,India,Cryptocurrency,Spanish,26,4.4,NO,Active,658,Smartphone,35-44,Late Night
+6319,Todd,03-03-2023,16-12-2024,7.99,466,Romance,4,1,YES,592,67,France,Debit Card,French,81,4.8,NO,Active,423,Desktop,45-54,Morning
+6268,Alexander,17-01-2024,26-11-2024,15.99,336,Horror,5,2,NO,546,16,India,PayPal,English,31,3.6,YES,Active,2824,Smartphone,55+,Afternoon
+5016,Beth,29-07-2023,12-11-2024,11.99,280,Comedy,4,3,NO,633,83,USA,PayPal,Mandarin,49,3.3,NO,Paused,2657,Smart TV,55+,Afternoon
+3888,Emily,18-05-2023,14-12-2024,15.99,495,Action,3,2,YES,883,60,Australia,Cryptocurrency,English,10,4.5,NO,Paused,2213,Tablet,55+,Evening
+9918,Melissa,14-05-2024,12-12-2024,11.99,144,Documentary,5,6,NO,235,88,India,PayPal,Hindi,18,3.1,YES,Cancelled,3455,Laptop,18-24,Morning
+7305,John,03-02-2023,12-02-2024,7.99,165,Romance,5,4,NO,267,146,USA,Credit Card,Spanish,34,4.2,YES,Expired,3334,Tablet,25-34,Evening
+5719,Wendy,23-08-2023,16-12-2024,11.99,479,Documentary,5,2,NO,710,68,Germany,Cryptocurrency,French,54,4.6,NO,Active,105,Tablet,45-54,Afternoon
+2334,Jeffrey,26-02-2024,24-11-2024,11.99,285,Comedy,2,4,NO,805,42,UK,Debit Card,Hindi,90,4.5,NO,Cancelled,1404,Smartphone,45-54,Morning
+1006,Sherry,31-08-2023,29-11-2024,11.99,93,Drama,4,6,NO,209,151,India,Credit Card,English,74,3,NO,Cancelled,1017,Smart TV,55+,Morning
+6719,Cynthia,19-01-2023,25-11-2024,15.99,299,Horror,5,2,NO,803,197,Australia,Cryptocurrency,French,58,4.8,NO,Expired,2812,Desktop,25-34,Evening
+6138,Patricia,01-09-2024,23-11-2024,15.99,10,Documentary,4,6,YES,236,183,India,Credit Card,English,86,3.8,NO,Paused,959,Smartphone,45-54,Late Night
+1255,Kimberly,05-07-2023,12-10-2024,11.99,82,Documentary,4,3,YES,264,115,India,Cryptocurrency,French,30,4.7,YES,Active,1870,Smart TV,18-24,Afternoon
+5528,David,21-03-2024,12-10-2024,11.99,27,Action,3,6,YES,767,5,Australia,Debit Card,French,69,3.2,YES,Paused,2984,Smart TV,45-54,Afternoon
+2517,Michael,29-04-2024,12-01-2024,7.99,105,Sci-Fi,2,1,YES,247,104,France,PayPal,Spanish,19,3.2,YES,Paused,3379,Smartphone,35-44,Afternoon
+9593,Erika,10-12-2023,24-11-2024,15.99,330,Horror,3,1,YES,69,101,UK,PayPal,English,38,3,YES,Paused,4990,Desktop,55+,Evening
+7507,Rachel,03-06-2024,12-10-2024,11.99,462,Documentary,2,4,YES,958,153,France,Credit Card,German,71,4.8,NO,Active,2554,Smart TV,35-44,Evening
+2884,Heather,30-11-2023,15-12-2024,15.99,250,Action,4,6,NO,271,50,Germany,Cryptocurrency,Hindi,34,4.7,NO,Expired,4307,Tablet,18-24,Evening
+6374,Terri,07-07-2023,19-11-2024,15.99,30,Action,1,1,NO,178,162,India,PayPal,Mandarin,20,4.6,YES,Cancelled,3124,Smartphone,45-54,Afternoon
+6888,Jose,05-08-2024,12-03-2024,15.99,364,Comedy,2,5,NO,865,104,USA,Credit Card,Mandarin,31,3.1,NO,Expired,1261,Smartphone,35-44,Late Night
+2788,Keith,02-09-2023,12-06-2024,15.99,404,Comedy,2,2,NO,257,113,Germany,Credit Card,Mandarin,60,3.8,NO,Paused,1290,Smart TV,35-44,Late Night
+7892,Nathan,05-02-2024,25-11-2024,7.99,499,Romance,4,3,NO,428,168,France,Credit Card,French,82,3.7,NO,Expired,874,Smartphone,55+,Morning
+4576,Matthew,19-07-2024,16-12-2024,15.99,480,Drama,2,2,YES,994,78,Germany,Credit Card,Mandarin,39,4.3,YES,Paused,1734,Tablet,25-34,Morning
+8901,Jimmy,01-09-2024,29-11-2024,11.99,417,Action,5,6,NO,476,37,USA,Cryptocurrency,Hindi,12,4.1,YES,Expired,2444,Tablet,55+,Morning
+5147,Ashley,14-06-2023,14-12-2024,7.99,215,Comedy,5,4,YES,150,57,UK,PayPal,Hindi,76,4.5,NO,Paused,1529,Smartphone,35-44,Late Night
+8646,Steven,21-12-2023,12-06-2024,7.99,234,Action,2,6,YES,580,149,UK,PayPal,French,31,3.8,YES,Active,1976,Laptop,55+,Late Night
+8343,Ashley,11-02-2024,17-12-2024,7.99,103,Action,2,6,NO,284,84,France,PayPal,English,30,4,NO,Expired,3452,Smartphone,55+,Afternoon
+9332,Robert,29-05-2023,18-12-2024,15.99,191,Documentary,5,1,NO,688,192,USA,PayPal,Hindi,71,4,NO,Cancelled,2610,Smart TV,18-24,Morning
+7398,Valerie,15-12-2023,15-12-2024,11.99,82,Drama,5,1,YES,93,46,Canada,PayPal,German,41,4.7,YES,Cancelled,3152,Smartphone,25-34,Evening
+3572,Adam,04-04-2024,15-12-2024,11.99,468,Documentary,5,6,YES,799,44,India,PayPal,Spanish,98,4.9,NO,Expired,4963,Tablet,18-24,Evening
+4590,Tracy,20-06-2023,12-03-2024,11.99,366,Romance,4,3,NO,327,1,UK,Debit Card,Hindi,56,3.6,YES,Expired,3290,Desktop,55+,Late Night
+1831,Jennifer,10-12-2024,12-11-2024,7.99,53,Sci-Fi,1,4,NO,685,127,Germany,Credit Card,English,26,4.1,YES,Expired,2596,Smart TV,45-54,Late Night
+6899,Paul,04-05-2023,12-05-2024,15.99,102,Horror,1,1,YES,604,107,France,Cryptocurrency,French,9,4.3,NO,Expired,745,Tablet,25-34,Late Night
+1148,Jennifer,30-05-2024,28-11-2024,15.99,259,Action,1,5,YES,597,165,Germany,Cryptocurrency,German,33,4.2,YES,Paused,668,Tablet,25-34,Morning
+3745,Angela,09-12-2024,16-12-2024,11.99,81,Romance,2,4,NO,451,49,Canada,Debit Card,English,11,4.7,YES,Cancelled,3282,Tablet,35-44,Late Night
+5084,Miranda,25-10-2023,22-11-2024,11.99,135,Action,4,6,NO,50,15,Canada,Credit Card,French,91,4.4,NO,Paused,1510,Smart TV,55+,Late Night
+7179,Michael,09-09-2023,29-11-2024,11.99,465,Comedy,2,3,YES,987,91,France,Debit Card,Mandarin,8,4.6,YES,Active,1206,Smartphone,35-44,Morning
+1005,Joseph,21-02-2023,12-10-2024,11.99,163,Horror,2,1,NO,817,182,India,Credit Card,English,43,4.6,YES,Paused,168,Laptop,55+,Afternoon
+6405,Adam,14-04-2023,12-11-2024,11.99,321,Comedy,1,6,YES,361,12,India,Cryptocurrency,German,72,4.9,YES,Cancelled,1303,Tablet,18-24,Late Night
+5215,Robert,17-04-2023,17-12-2024,7.99,212,Romance,5,5,NO,146,147,UK,Debit Card,French,23,3.4,NO,Active,1365,Smart TV,18-24,Afternoon
+7525,Michelle,26-06-2024,18-12-2024,15.99,453,Action,1,4,NO,313,1,Germany,PayPal,English,7,3.7,YES,Paused,1563,Smart TV,25-34,Morning
+9115,Jennifer,17-07-2024,17-12-2024,11.99,34,Comedy,1,1,NO,80,71,Canada,Credit Card,German,55,3.6,NO,Active,1172,Laptop,45-54,Late Night
+6454,Nicholas,04-08-2024,15-12-2024,15.99,197,Comedy,1,4,YES,860,42,USA,Credit Card,French,97,4,YES,Active,1704,Tablet,35-44,Afternoon
+4781,Sierra,25-04-2024,12-01-2024,15.99,361,Comedy,5,3,YES,67,66,India,PayPal,German,3,3.7,YES,Cancelled,4421,Tablet,55+,Evening
+5040,Andre,12-04-2023,12-02-2024,11.99,166,Sci-Fi,5,2,YES,178,61,France,Debit Card,French,30,3.1,NO,Active,2964,Smartphone,18-24,Late Night
+3209,Ann,20-11-2023,26-11-2024,7.99,168,Documentary,3,1,NO,113,85,UK,Cryptocurrency,Spanish,52,4.7,NO,Cancelled,1094,Smartphone,18-24,Evening
+8703,Ryan,07-06-2024,22-11-2024,15.99,336,Drama,1,4,YES,855,186,Canada,PayPal,Mandarin,54,3.6,NO,Paused,3674,Tablet,25-34,Late Night
+2536,Christopher,26-02-2024,14-12-2024,15.99,212,Horror,2,4,NO,608,96,France,Cryptocurrency,Mandarin,76,4,NO,Paused,296,Smart TV,55+,Afternoon
+2057,Jocelyn,25-04-2023,23-11-2024,7.99,185,Horror,3,6,YES,804,49,USA,Credit Card,Mandarin,32,4.1,NO,Expired,4164,Smartphone,35-44,Morning
+5627,Kara,01-07-2024,12-05-2024,11.99,124,Sci-Fi,4,2,YES,207,140,USA,Cryptocurrency,Hindi,44,4.8,YES,Active,3349,Laptop,45-54,Evening
+4763,Dustin,02-12-2024,12-05-2024,15.99,256,Action,1,1,NO,118,104,Australia,Debit Card,Mandarin,8,3.5,NO,Cancelled,2830,Desktop,45-54,Evening
+4577,Kevin,22-06-2024,12-11-2024,11.99,58,Comedy,1,6,NO,983,8,UK,Credit Card,English,75,4.3,YES,Active,2409,Tablet,55+,Afternoon
+5216,Tammy,22-09-2024,21-11-2024,15.99,135,Comedy,3,2,NO,523,159,USA,Debit Card,Hindi,11,4.8,YES,Cancelled,2872,Laptop,25-34,Late Night
+3941,Krista,16-09-2024,29-11-2024,11.99,163,Romance,5,2,NO,786,94,UK,Cryptocurrency,Mandarin,18,4.6,YES,Cancelled,1364,Laptop,25-34,Evening
+4396,Jesse,01-02-2023,17-12-2024,15.99,120,Drama,2,3,NO,781,97,Canada,Credit Card,English,46,3.3,YES,Paused,473,Smart TV,18-24,Evening
+4865,Charles,20-12-2023,28-11-2024,7.99,439,Sci-Fi,1,5,YES,434,104,France,PayPal,Hindi,36,4.5,YES,Active,4883,Smartphone,55+,Morning
+2497,Diana,28-07-2023,30-11-2024,7.99,223,Documentary,1,4,NO,824,125,UK,Credit Card,Hindi,56,4.5,YES,Paused,99,Smart TV,18-24,Evening
+4945,Alexander,05-04-2024,22-11-2024,11.99,485,Romance,1,1,YES,230,21,Canada,PayPal,Spanish,83,4.1,NO,Active,2284,Smartphone,45-54,Afternoon
+5227,Eugene,15-02-2024,12-06-2024,7.99,474,Drama,3,6,YES,358,147,USA,Cryptocurrency,Hindi,44,3.9,YES,Active,3505,Tablet,25-34,Morning
+2150,Danielle,04-12-2024,12-09-2024,11.99,259,Horror,2,1,NO,380,9,USA,Cryptocurrency,Mandarin,49,3.2,NO,Paused,412,Smartphone,55+,Evening
+7145,Abigail,28-10-2024,22-11-2024,7.99,53,Drama,2,1,NO,647,165,USA,PayPal,Spanish,88,4,NO,Cancelled,4867,Tablet,45-54,Late Night
+2040,Hayden,10-11-2024,30-11-2024,7.99,221,Horror,1,3,YES,518,157,Australia,Cryptocurrency,English,4,3.7,YES,Cancelled,2560,Laptop,18-24,Late Night
+4191,Barbara,19-04-2023,12-03-2024,7.99,46,Horror,2,4,NO,33,120,Germany,Cryptocurrency,Hindi,77,3.9,YES,Cancelled,4269,Tablet,35-44,Evening
+4336,Jennifer,08-02-2023,12-11-2024,15.99,253,Documentary,4,2,NO,660,151,UK,Cryptocurrency,Hindi,43,3.4,YES,Cancelled,1317,Smartphone,18-24,Late Night
+5438,Lindsey,10-06-2023,30-11-2024,11.99,478,Drama,1,6,YES,517,200,France,Debit Card,Hindi,41,4.8,NO,Expired,2936,Smart TV,45-54,Late Night
+9857,April,26-09-2023,12-02-2024,7.99,145,Action,2,5,NO,882,23,Germany,Cryptocurrency,French,79,5,YES,Active,905,Smart TV,45-54,Morning
+4767,Charles,19-12-2023,24-11-2024,15.99,366,Documentary,1,3,YES,349,50,Australia,Cryptocurrency,French,21,5,YES,Cancelled,4513,Smartphone,25-34,Late Night
+9374,John,17-12-2024,12-01-2024,15.99,301,Action,4,6,NO,619,172,USA,Debit Card,English,37,4.2,YES,Paused,1153,Tablet,45-54,Evening
+3918,Jennifer,17-10-2023,28-11-2024,7.99,26,Action,4,5,NO,416,146,UK,Debit Card,Mandarin,41,3.5,YES,Paused,1506,Smart TV,35-44,Evening
+9866,Matthew,07-12-2024,17-12-2024,11.99,208,Drama,1,1,NO,466,174,USA,Credit Card,English,51,4,YES,Expired,3817,Smartphone,35-44,Evening
+6389,Brittney,23-12-2022,18-12-2024,11.99,109,Documentary,2,3,NO,701,4,Canada,PayPal,Hindi,64,3.5,NO,Cancelled,4662,Laptop,35-44,Afternoon
+8733,Steven,06-06-2024,16-12-2024,15.99,451,Horror,4,4,YES,742,140,Australia,Debit Card,English,37,4.1,YES,Active,3708,Smart TV,35-44,Afternoon
+8105,Mary,23-09-2023,26-11-2024,15.99,33,Drama,4,5,YES,228,42,India,Credit Card,Hindi,21,4,YES,Active,1256,Smartphone,35-44,Late Night
+3443,Kevin,03-01-2024,12-05-2024,15.99,467,Documentary,4,2,NO,18,34,Australia,Cryptocurrency,French,100,4.1,YES,Active,1792,Smartphone,18-24,Afternoon
+2664,Charles,15-10-2023,27-11-2024,7.99,123,Comedy,2,3,YES,826,79,Germany,Credit Card,German,34,3.5,NO,Cancelled,402,Desktop,18-24,Evening
+1782,Carla,05-01-2023,29-11-2024,15.99,139,Romance,1,4,YES,357,44,India,Debit Card,Spanish,67,4.1,NO,Cancelled,1271,Desktop,45-54,Evening
+1337,Shane,20-04-2023,16-12-2024,7.99,103,Romance,2,1,NO,474,2,Germany,PayPal,German,31,3.5,NO,Expired,4537,Smart TV,18-24,Afternoon
+5901,Robert,04-06-2023,18-12-2024,7.99,207,Horror,5,5,YES,946,166,France,Cryptocurrency,Hindi,96,4.6,NO,Expired,4815,Tablet,55+,Evening
+2731,Brooke,06-11-2024,13-12-2024,15.99,267,Romance,5,5,YES,890,187,UK,PayPal,French,98,3,YES,Expired,3510,Laptop,45-54,Morning
+8307,Carmen,01-04-2024,12-06-2024,7.99,266,Horror,5,3,YES,583,131,Canada,Debit Card,Mandarin,0,4,NO,Expired,4789,Tablet,35-44,Morning
+8019,Stefanie,19-02-2023,19-11-2024,11.99,240,Comedy,4,1,NO,304,25,Canada,PayPal,German,66,4.6,NO,Expired,863,Smart TV,18-24,Evening
+4847,Melissa,12-01-2024,30-11-2024,15.99,315,Horror,1,6,NO,205,92,India,PayPal,English,67,3.5,NO,Expired,1584,Tablet,55+,Late Night
+9822,Justin,23-06-2023,13-12-2024,7.99,276,Comedy,4,1,YES,348,13,India,Cryptocurrency,German,34,4.7,NO,Paused,3178,Smart TV,55+,Afternoon
+9141,Jeffery,30-10-2023,25-11-2024,7.99,308,Drama,1,5,NO,107,87,Canada,Cryptocurrency,French,17,3.4,NO,Paused,4108,Desktop,18-24,Late Night
+7539,Kara,09-01-2023,12-08-2024,7.99,297,Horror,1,6,YES,959,71,Germany,Cryptocurrency,French,82,3.3,YES,Expired,2562,Tablet,25-34,Afternoon
+1390,Xavier,28-07-2024,29-11-2024,11.99,326,Horror,4,1,NO,439,88,France,Debit Card,English,3,3.3,YES,Active,3499,Smart TV,25-34,Afternoon
+9505,Paul,26-06-2024,12-04-2024,15.99,352,Comedy,4,6,NO,757,13,France,Debit Card,Hindi,67,4.3,YES,Cancelled,3645,Tablet,35-44,Afternoon
+6741,Jacob,28-10-2023,20-11-2024,7.99,180,Sci-Fi,5,2,YES,647,2,Canada,Cryptocurrency,French,9,3.5,NO,Cancelled,2989,Smartphone,55+,Afternoon
+1790,Kelly,03-11-2024,12-01-2024,11.99,362,Sci-Fi,2,2,NO,535,200,Germany,Debit Card,Hindi,60,4.9,YES,Cancelled,55,Tablet,18-24,Late Night
+6491,Anita,15-01-2023,28-11-2024,7.99,154,Action,5,4,YES,340,53,Germany,Credit Card,English,31,4.4,NO,Expired,1850,Desktop,55+,Late Night
+3102,Carolyn,09-03-2024,27-11-2024,7.99,287,Drama,1,2,NO,670,147,USA,Debit Card,Hindi,42,4.3,YES,Active,4672,Smartphone,18-24,Evening
+1300,Nicolas,27-06-2023,16-12-2024,11.99,303,Romance,3,6,YES,780,128,France,Debit Card,English,12,4.6,YES,Paused,2615,Desktop,35-44,Morning
+5410,Hector,07-06-2023,12-01-2024,15.99,447,Horror,1,5,NO,615,132,Australia,Cryptocurrency,Mandarin,88,3.9,NO,Cancelled,4927,Laptop,45-54,Morning
+2714,Jack,12-09-2024,28-11-2024,11.99,480,Sci-Fi,4,6,YES,277,25,Germany,Credit Card,French,41,4.8,NO,Active,3069,Tablet,35-44,Afternoon
+4700,David,16-11-2024,12-04-2024,7.99,438,Action,4,4,YES,546,88,UK,Cryptocurrency,French,36,3.5,NO,Cancelled,1906,Laptop,55+,Afternoon
+7589,Amanda,08-07-2023,12-02-2024,15.99,295,Horror,2,5,NO,514,102,Germany,PayPal,German,3,4.8,NO,Active,105,Smartphone,45-54,Afternoon
+6866,Kim,18-05-2024,24-11-2024,11.99,479,Horror,1,3,YES,952,48,USA,Credit Card,English,54,4.6,YES,Cancelled,4,Desktop,55+,Evening
+6960,Julian,11-12-2023,26-11-2024,15.99,214,Documentary,5,6,YES,780,16,France,PayPal,French,1,3.3,YES,Active,1651,Smart TV,55+,Evening
+5808,Jasmine,22-03-2024,19-11-2024,15.99,69,Action,4,5,NO,976,105,USA,Cryptocurrency,Mandarin,50,4.7,YES,Active,1828,Tablet,45-54,Evening
+5525,John,10-05-2023,12-06-2024,15.99,344,Action,5,2,NO,91,137,Germany,Cryptocurrency,German,37,3.4,YES,Expired,396,Smart TV,35-44,Late Night
+1272,Christopher,17-07-2024,20-11-2024,15.99,163,Comedy,5,1,NO,683,108,UK,Cryptocurrency,Mandarin,10,4.2,NO,Paused,809,Smartphone,55+,Evening
+8063,Joseph,27-06-2023,12-12-2024,7.99,217,Comedy,1,6,NO,53,153,Canada,PayPal,Spanish,2,3.1,YES,Paused,1431,Laptop,55+,Evening
+1856,Jason,23-09-2023,12-11-2024,15.99,177,Horror,3,2,YES,246,182,Germany,Debit Card,Spanish,89,3.1,NO,Active,2394,Tablet,18-24,Afternoon
+2830,Erica,05-03-2023,12-08-2024,11.99,304,Comedy,1,1,YES,389,137,India,Cryptocurrency,French,2,4.8,YES,Cancelled,4685,Desktop,55+,Morning
+3287,Travis,20-12-2023,21-11-2024,15.99,90,Horror,3,2,NO,399,9,France,PayPal,Mandarin,73,4.4,YES,Paused,4332,Smartphone,55+,Afternoon
+5679,Karen,31-10-2023,12-06-2024,15.99,108,Action,4,2,NO,694,199,UK,Cryptocurrency,Mandarin,81,5,NO,Expired,851,Laptop,45-54,Afternoon
+6399,Michael,01-01-2023,12-05-2024,11.99,96,Documentary,3,2,NO,434,11,USA,Credit Card,French,80,4.6,NO,Cancelled,2261,Laptop,18-24,Afternoon
+8753,Daniel,17-02-2024,30-11-2024,11.99,247,Action,2,3,NO,696,28,Germany,Debit Card,French,79,4.8,NO,Expired,1500,Smartphone,55+,Late Night
+9267,Paul,05-07-2024,24-11-2024,15.99,245,Romance,3,5,YES,862,129,India,Debit Card,Mandarin,6,3.7,YES,Paused,2130,Tablet,25-34,Evening
+9846,Megan,13-02-2023,13-12-2024,7.99,366,Drama,4,5,NO,631,56,France,PayPal,Spanish,35,4.1,NO,Cancelled,4308,Desktop,35-44,Late Night
+2382,Todd,06-10-2024,12-09-2024,15.99,170,Sci-Fi,1,3,NO,144,142,India,Cryptocurrency,Hindi,81,4.7,YES,Active,421,Laptop,25-34,Afternoon
+3593,Emma,16-09-2023,24-11-2024,7.99,447,Documentary,3,1,YES,466,198,India,Cryptocurrency,Hindi,3,4.5,NO,Expired,2163,Laptop,35-44,Late Night
+4097,Amanda,17-04-2023,16-12-2024,7.99,369,Horror,3,1,NO,759,56,Australia,PayPal,Hindi,30,4,NO,Active,3354,Tablet,18-24,Late Night
+2886,Mark,24-06-2023,26-11-2024,15.99,62,Comedy,5,1,NO,811,109,Germany,Cryptocurrency,German,14,3.1,NO,Expired,3702,Laptop,55+,Morning
+3255,Dylan,01-06-2024,27-11-2024,7.99,294,Horror,1,3,YES,936,120,France,Debit Card,Spanish,49,3.2,YES,Active,3758,Tablet,35-44,Afternoon
+6752,Garrett,24-04-2024,12-09-2024,11.99,10,Documentary,2,4,NO,146,95,Australia,Credit Card,Spanish,99,3.8,YES,Expired,3942,Tablet,35-44,Afternoon
+7945,Jason,15-04-2023,29-11-2024,11.99,389,Horror,2,2,YES,631,85,Australia,Debit Card,Spanish,53,3.3,YES,Expired,2242,Desktop,55+,Afternoon
+6658,Michael,04-01-2024,12-05-2024,7.99,55,Sci-Fi,5,6,NO,682,141,USA,Debit Card,Hindi,42,3.6,YES,Active,2561,Desktop,45-54,Late Night
+5468,Jonathon,04-02-2024,20-11-2024,11.99,208,Romance,4,6,YES,135,9,USA,PayPal,Hindi,41,3,YES,Cancelled,2465,Tablet,35-44,Late Night
+7451,Sarah,24-07-2024,12-09-2024,15.99,198,Sci-Fi,5,5,YES,255,183,Canada,Debit Card,French,92,4.9,NO,Cancelled,4435,Tablet,18-24,Morning
+1253,Michael,07-09-2024,12-05-2024,11.99,280,Horror,1,1,YES,702,58,France,PayPal,French,13,3.2,NO,Cancelled,4116,Smartphone,45-54,Afternoon
+6746,Caitlin,11-02-2024,28-11-2024,7.99,161,Comedy,2,5,NO,151,109,UK,Cryptocurrency,English,27,3.3,NO,Expired,944,Smart TV,35-44,Afternoon
+8089,Samantha,06-08-2024,27-11-2024,7.99,439,Action,2,2,YES,421,138,India,Debit Card,Spanish,14,4.1,NO,Expired,4219,Smart TV,35-44,Morning
+8045,Joseph,11-03-2023,12-02-2024,7.99,339,Romance,5,5,YES,354,129,France,Cryptocurrency,French,14,3.9,NO,Expired,4311,Desktop,45-54,Late Night
+9417,Joshua,15-10-2024,28-11-2024,11.99,52,Action,4,4,NO,377,135,UK,Credit Card,Spanish,90,4.1,YES,Cancelled,1972,Smart TV,25-34,Evening
+3217,Ashley,05-08-2024,16-12-2024,15.99,297,Comedy,5,3,NO,796,200,France,Cryptocurrency,French,36,3.1,YES,Active,2132,Smartphone,55+,Evening
+4234,Michael,01-08-2023,19-11-2024,15.99,40,Documentary,5,1,YES,841,179,Australia,PayPal,German,59,3.5,YES,Expired,2370,Smart TV,55+,Afternoon
+1118,Erin,02-07-2024,12-11-2024,15.99,379,Action,2,1,YES,885,110,UK,Debit Card,Spanish,43,4.2,YES,Cancelled,1312,Smart TV,55+,Evening
+4027,Jason,13-04-2024,24-11-2024,15.99,82,Horror,2,3,NO,999,190,France,PayPal,Spanish,57,3.1,YES,Paused,4920,Tablet,35-44,Afternoon
+8451,Grace,03-02-2023,23-11-2024,11.99,192,Action,3,3,NO,585,82,Germany,Cryptocurrency,Hindi,59,4.1,YES,Active,2897,Smart TV,45-54,Morning
+6647,Jennifer,19-10-2024,29-11-2024,15.99,286,Drama,5,2,NO,617,89,Canada,PayPal,German,64,3.2,YES,Paused,1275,Smartphone,45-54,Afternoon
+4002,Timothy,04-07-2024,12-11-2024,11.99,452,Horror,2,6,NO,196,132,France,Cryptocurrency,Spanish,84,3.7,YES,Expired,340,Tablet,18-24,Evening
+6910,Ann,03-03-2023,27-11-2024,7.99,417,Horror,4,5,NO,792,187,France,Cryptocurrency,English,5,4.6,YES,Active,444,Smart TV,25-34,Afternoon
+3164,Angela,22-09-2023,13-12-2024,15.99,371,Comedy,1,5,YES,466,176,Canada,Cryptocurrency,Hindi,73,4.9,NO,Active,292,Desktop,25-34,Morning
+2400,Matthew,11-09-2023,12-12-2024,15.99,110,Horror,2,5,YES,684,32,UK,PayPal,French,68,4,NO,Active,53,Laptop,25-34,Late Night
+5499,Rachel,24-06-2023,12-02-2024,15.99,274,Horror,2,1,YES,155,94,UK,Debit Card,German,96,3.5,NO,Expired,1638,Desktop,35-44,Evening
+7221,Tammy,15-03-2024,25-11-2024,15.99,412,Sci-Fi,2,5,YES,450,147,Australia,Debit Card,Hindi,11,4.4,YES,Cancelled,3542,Tablet,25-34,Late Night
+4556,Amy,02-10-2023,29-11-2024,11.99,341,Romance,4,1,YES,744,146,Australia,PayPal,English,75,4.4,NO,Active,4935,Smart TV,35-44,Morning
+7175,Desiree,13-11-2024,15-12-2024,11.99,388,Romance,3,6,NO,51,27,Canada,Debit Card,German,66,3.2,YES,Paused,1216,Laptop,55+,Afternoon
+7072,Erika,02-07-2023,19-11-2024,15.99,446,Sci-Fi,1,4,YES,897,19,Germany,PayPal,English,14,3.5,YES,Active,4409,Desktop,25-34,Late Night
+4320,Laurie,01-01-2024,17-12-2024,15.99,223,Action,5,3,YES,499,124,Canada,PayPal,German,78,4.7,YES,Active,2853,Laptop,45-54,Morning
+3558,Melvin,01-01-2024,16-12-2024,15.99,417,Sci-Fi,5,4,NO,179,29,Canada,Credit Card,Mandarin,84,4.5,NO,Paused,1252,Smart TV,35-44,Evening
+8581,Jose,16-12-2023,20-11-2024,11.99,390,Romance,5,1,YES,889,145,USA,PayPal,Hindi,60,4.5,YES,Active,3027,Smart TV,55+,Late Night
+5827,John,22-03-2023,12-02-2024,15.99,33,Comedy,4,2,NO,191,25,UK,Credit Card,German,44,4.5,YES,Active,1228,Laptop,45-54,Evening
+6929,Cynthia,29-10-2024,12-05-2024,11.99,302,Action,5,5,YES,42,196,India,Credit Card,Hindi,74,4.6,NO,Expired,3616,Desktop,18-24,Evening
+9179,Kurt,12-11-2024,27-11-2024,15.99,121,Horror,4,5,YES,53,77,Australia,PayPal,Hindi,54,3.1,YES,Active,3913,Laptop,35-44,Morning
+7580,Mary,02-08-2023,21-11-2024,7.99,112,Horror,5,6,NO,535,43,UK,Cryptocurrency,English,89,3.1,YES,Active,775,Desktop,18-24,Evening
+3858,David,30-06-2023,12-05-2024,15.99,375,Romance,3,6,NO,416,79,France,PayPal,Hindi,33,3.2,YES,Cancelled,2536,Desktop,55+,Evening
+8627,Melissa,17-09-2024,12-01-2024,11.99,97,Comedy,3,2,NO,287,39,France,PayPal,English,9,4.9,NO,Expired,2331,Laptop,25-34,Evening
+7552,Glenda,06-08-2024,12-04-2024,15.99,306,Documentary,4,5,NO,651,60,Germany,Cryptocurrency,Mandarin,86,3.1,NO,Cancelled,2953,Desktop,55+,Afternoon
+6020,Melvin,25-07-2024,21-11-2024,11.99,136,Horror,5,2,YES,821,174,France,Credit Card,German,92,3.6,YES,Expired,868,Desktop,45-54,Afternoon
+9408,Brandon,05-12-2023,26-11-2024,7.99,12,Comedy,2,3,YES,396,22,Australia,Cryptocurrency,Hindi,70,3.5,YES,Expired,4808,Tablet,45-54,Late Night
+9990,Duane,25-01-2024,12-05-2024,15.99,379,Documentary,4,5,YES,726,103,Germany,PayPal,Mandarin,39,3.5,YES,Cancelled,4177,Desktop,18-24,Late Night
+3687,Laurie,11-04-2023,18-12-2024,15.99,205,Horror,3,2,YES,420,24,France,Debit Card,Spanish,61,4.8,NO,Cancelled,564,Desktop,45-54,Afternoon
+4540,Cody,09-07-2023,25-11-2024,15.99,335,Action,3,6,YES,75,177,UK,PayPal,Hindi,73,3.9,YES,Expired,1702,Desktop,18-24,Evening
+8264,Valerie,25-05-2024,22-11-2024,15.99,449,Horror,5,6,NO,683,85,Germany,Debit Card,Mandarin,25,4.2,YES,Paused,249,Laptop,25-34,Afternoon
+7448,Jennifer,04-10-2023,12-07-2024,7.99,453,Documentary,1,5,YES,487,128,India,Cryptocurrency,Mandarin,41,4.5,YES,Cancelled,30,Smartphone,18-24,Evening
+1123,Tanya,25-10-2024,21-11-2024,7.99,252,Action,1,1,YES,968,197,India,Debit Card,Hindi,46,4,NO,Expired,3842,Tablet,18-24,Afternoon
+4103,Daniel,30-10-2024,25-11-2024,11.99,379,Horror,2,1,YES,632,82,USA,Credit Card,Spanish,29,3.2,YES,Cancelled,1299,Desktop,25-34,Afternoon
+2904,Troy,17-02-2024,12-01-2024,7.99,280,Romance,3,1,NO,188,103,Germany,Cryptocurrency,English,80,4.8,NO,Expired,2346,Smart TV,55+,Morning
+5634,Emily,04-06-2024,24-11-2024,7.99,187,Horror,3,3,NO,987,166,Australia,PayPal,Spanish,24,4.7,NO,Expired,215,Desktop,55+,Evening
+5360,Elizabeth,23-09-2023,12-02-2024,7.99,373,Action,2,1,YES,925,12,UK,PayPal,Hindi,22,4.2,YES,Paused,3062,Laptop,35-44,Morning
+8571,Brian,28-05-2023,15-12-2024,15.99,482,Action,2,5,YES,838,159,Canada,Debit Card,French,39,4.8,NO,Paused,2978,Tablet,45-54,Morning
+9439,Claire,15-11-2023,12-11-2024,11.99,360,Sci-Fi,3,4,NO,295,55,Canada,Credit Card,Mandarin,31,3.7,NO,Cancelled,1984,Tablet,25-34,Evening
+8356,Samuel,16-01-2023,14-12-2024,15.99,463,Comedy,2,1,NO,844,98,UK,Cryptocurrency,English,15,3.6,YES,Expired,945,Smartphone,55+,Afternoon
+2039,Caroline,01-02-2023,12-02-2024,15.99,13,Romance,3,5,NO,378,123,India,Credit Card,German,3,4.2,NO,Expired,4134,Desktop,25-34,Late Night
+2613,Benjamin,02-07-2023,16-12-2024,7.99,129,Documentary,4,5,NO,439,10,UK,Credit Card,French,11,3.7,NO,Active,3741,Tablet,35-44,Morning
+8226,Matthew,05-02-2024,23-11-2024,7.99,290,Drama,5,5,NO,84,52,Canada,Debit Card,Hindi,91,3.1,YES,Paused,1408,Desktop,45-54,Afternoon
+1425,Yolanda,09-02-2024,25-11-2024,7.99,50,Action,2,3,YES,502,5,India,Debit Card,Hindi,96,4.4,YES,Active,1917,Tablet,55+,Afternoon
+4479,Amber,11-06-2024,12-06-2024,15.99,241,Romance,3,2,YES,549,158,India,Debit Card,Mandarin,96,3.1,YES,Cancelled,1986,Smartphone,25-34,Morning
+3393,William,26-01-2024,28-11-2024,7.99,383,Horror,3,2,YES,699,174,France,Credit Card,French,13,3.8,YES,Cancelled,3254,Smartphone,18-24,Afternoon
+8528,Dawn,16-11-2024,29-11-2024,7.99,384,Sci-Fi,5,1,NO,423,110,France,Credit Card,Mandarin,61,4.7,YES,Expired,3648,Smartphone,45-54,Morning
+9372,Matthew,17-02-2023,12-04-2024,7.99,302,Horror,1,1,YES,964,165,France,Cryptocurrency,English,47,4.4,NO,Expired,3552,Smart TV,55+,Evening
+5469,Jose,19-02-2024,12-05-2024,15.99,24,Sci-Fi,2,1,NO,742,150,USA,Credit Card,French,57,3,NO,Cancelled,150,Smart TV,18-24,Morning
+2603,Peter,18-05-2024,20-11-2024,11.99,416,Romance,3,5,NO,97,172,USA,Credit Card,Spanish,89,4.3,YES,Paused,786,Smart TV,18-24,Afternoon
+5306,Sandra,09-10-2023,12-09-2024,15.99,272,Comedy,5,1,YES,735,74,Germany,Credit Card,English,90,3.8,YES,Active,1808,Tablet,25-34,Late Night
+7869,Dawn,23-05-2024,12-01-2024,15.99,294,Drama,3,6,NO,709,181,Germany,Cryptocurrency,Spanish,39,3.2,YES,Expired,3091,Laptop,45-54,Evening
+1699,John,13-09-2023,12-11-2024,15.99,18,Documentary,4,2,NO,882,1,France,Credit Card,Spanish,100,4.7,YES,Active,3697,Desktop,25-34,Evening
+3214,Cynthia,14-07-2024,12-12-2024,15.99,409,Action,1,2,YES,131,85,Germany,Cryptocurrency,French,95,4.3,YES,Expired,4835,Laptop,18-24,Afternoon
+1050,Mary,13-04-2024,29-11-2024,11.99,290,Romance,4,4,NO,305,112,USA,PayPal,Spanish,57,4.5,NO,Active,2023,Desktop,45-54,Morning
+3325,Tiffany,10-10-2024,30-11-2024,15.99,102,Drama,5,3,NO,456,52,Germany,Debit Card,French,32,4.9,YES,Active,1005,Tablet,25-34,Evening
+1970,Michael,21-09-2023,12-02-2024,15.99,119,Sci-Fi,2,1,YES,385,82,Australia,Cryptocurrency,English,87,3.3,NO,Expired,876,Tablet,35-44,Afternoon
+6272,Caitlin,25-07-2023,18-12-2024,11.99,87,Action,3,6,YES,213,98,Canada,Debit Card,Mandarin,84,4.7,NO,Active,2089,Tablet,25-34,Afternoon
+4745,Charles,07-03-2023,30-11-2024,7.99,273,Drama,5,1,YES,830,178,USA,Cryptocurrency,French,37,3.7,YES,Paused,772,Smartphone,55+,Evening
+8867,Derek,06-03-2023,21-11-2024,15.99,281,Comedy,1,2,YES,601,75,France,Credit Card,German,92,4.5,NO,Cancelled,373,Smart TV,45-54,Morning
+4901,Rebecca,01-12-2023,18-12-2024,7.99,115,Documentary,2,3,NO,843,153,France,PayPal,Mandarin,6,3.3,YES,Expired,3425,Tablet,25-34,Morning
+9575,John,25-02-2023,13-12-2024,11.99,483,Horror,2,6,NO,386,192,Australia,PayPal,French,95,4.6,YES,Active,4422,Desktop,55+,Late Night
+4471,Jordan,31-03-2024,12-11-2024,11.99,129,Drama,5,3,NO,291,37,India,Credit Card,Mandarin,51,3.8,NO,Paused,4980,Tablet,25-34,Morning
+1385,Norman,10-03-2024,12-10-2024,11.99,292,Drama,4,3,NO,198,195,Canada,Credit Card,English,55,4.9,YES,Active,1367,Tablet,35-44,Late Night
+4302,Lori,16-02-2023,12-10-2024,11.99,307,Horror,3,1,NO,919,175,India,Debit Card,English,22,4,YES,Expired,2728,Desktop,35-44,Late Night
+4738,Katrina,11-05-2023,12-04-2024,15.99,306,Drama,5,6,YES,483,5,UK,Debit Card,Hindi,56,4.7,NO,Active,1556,Tablet,35-44,Evening
+2441,Dawn,28-05-2023,14-12-2024,11.99,71,Sci-Fi,3,2,YES,645,5,Australia,PayPal,Mandarin,66,3.9,NO,Cancelled,4566,Tablet,25-34,Late Night
+6546,Shannon,26-12-2023,12-08-2024,15.99,253,Sci-Fi,1,2,YES,653,53,USA,PayPal,Hindi,43,4.1,YES,Paused,2969,Laptop,35-44,Evening
+5459,Eric,13-04-2024,13-12-2024,15.99,68,Horror,5,2,NO,727,5,Germany,Cryptocurrency,French,8,4.6,NO,Expired,3421,Smart TV,45-54,Late Night
+7051,Amber,14-05-2023,16-12-2024,7.99,366,Drama,1,1,YES,257,46,Germany,Debit Card,French,7,4.5,YES,Active,2535,Tablet,25-34,Evening
+6671,Robert,21-02-2024,12-11-2024,15.99,166,Romance,4,1,NO,208,39,Germany,PayPal,Spanish,53,5,YES,Expired,290,Smartphone,35-44,Evening
+6013,Destiny,23-08-2024,12-03-2024,15.99,136,Comedy,2,4,YES,471,91,Canada,Debit Card,Mandarin,70,4.4,NO,Active,756,Tablet,25-34,Afternoon
+9996,Pamela,21-07-2024,12-09-2024,7.99,358,Comedy,3,2,YES,512,153,UK,Credit Card,Hindi,70,3.3,YES,Paused,947,Smart TV,18-24,Late Night
+4851,Nicole,03-10-2023,16-12-2024,15.99,399,Drama,1,2,NO,355,181,USA,Credit Card,Hindi,79,3.4,YES,Paused,2138,Desktop,45-54,Late Night
+2498,Timothy,10-12-2023,12-07-2024,11.99,285,Romance,1,5,NO,634,168,USA,Cryptocurrency,German,76,3.3,YES,Expired,3151,Desktop,45-54,Afternoon
+6208,Alexandra,19-07-2023,17-12-2024,7.99,424,Horror,2,3,NO,942,127,Germany,PayPal,English,95,4.8,YES,Paused,670,Smart TV,45-54,Afternoon
+7171,Patricia,30-01-2024,26-11-2024,11.99,467,Action,1,3,YES,350,134,Germany,Debit Card,English,1,3.9,NO,Paused,3037,Smartphone,25-34,Afternoon
+7667,Katrina,01-05-2023,17-12-2024,15.99,443,Romance,1,3,NO,326,59,Germany,PayPal,Hindi,57,3.9,NO,Active,3712,Desktop,35-44,Late Night
+4912,Andrea,10-04-2023,12-01-2024,15.99,214,Sci-Fi,1,3,NO,61,148,UK,Cryptocurrency,German,95,4.1,YES,Expired,2029,Smartphone,45-54,Late Night
+7975,Suzanne,10-03-2023,22-11-2024,15.99,437,Horror,2,2,YES,328,170,France,Debit Card,English,25,3.6,NO,Active,2406,Smart TV,25-34,Late Night
+6804,Benjamin,02-11-2023,12-10-2024,15.99,419,Drama,2,1,NO,591,166,Australia,PayPal,German,26,3.5,YES,Cancelled,3264,Desktop,55+,Late Night
+3877,Shannon,15-07-2024,24-11-2024,11.99,129,Action,2,5,NO,527,153,Australia,PayPal,German,0,4.6,NO,Expired,1135,Tablet,25-34,Late Night
+8768,Stephen,11-09-2024,12-01-2024,15.99,75,Sci-Fi,5,1,YES,115,122,Australia,Debit Card,Hindi,86,3.5,NO,Paused,3761,Tablet,25-34,Evening
+1420,Courtney,10-03-2024,12-05-2024,7.99,346,Documentary,5,5,YES,732,144,France,PayPal,French,73,4.9,NO,Expired,3633,Tablet,55+,Late Night
+2306,Daniel,05-11-2023,12-01-2024,11.99,480,Horror,4,6,YES,509,12,Canada,Credit Card,English,43,3.1,NO,Expired,3308,Smartphone,25-34,Evening
+2079,Janet,25-06-2024,12-02-2024,11.99,188,Horror,2,2,YES,655,16,USA,PayPal,English,50,3.3,YES,Expired,1311,Laptop,35-44,Late Night
+3554,Phyllis,28-02-2024,12-04-2024,7.99,420,Drama,4,1,NO,399,45,USA,Debit Card,French,52,4,NO,Active,4333,Desktop,25-34,Morning
+7616,Amanda,06-10-2023,12-11-2024,15.99,204,Horror,3,5,NO,597,118,Germany,Debit Card,English,60,3.1,YES,Expired,4575,Smartphone,35-44,Evening
+5650,Timothy,24-08-2023,12-08-2024,15.99,355,Horror,1,1,YES,358,173,Canada,Cryptocurrency,Hindi,60,4.8,NO,Cancelled,2448,Desktop,18-24,Afternoon
+9385,Lynn,20-08-2024,12-03-2024,7.99,200,Drama,3,2,NO,453,172,Canada,PayPal,English,1,4.4,YES,Expired,1072,Tablet,55+,Morning
+2482,Courtney,26-03-2023,29-11-2024,7.99,178,Action,2,2,YES,378,117,India,Credit Card,Hindi,63,4.8,YES,Paused,1784,Desktop,45-54,Evening
+9017,Reginald,14-07-2024,12-11-2024,11.99,337,Documentary,2,2,YES,750,146,India,Credit Card,English,100,4.1,YES,Paused,3787,Desktop,35-44,Late Night
+7001,Lori,08-08-2023,30-11-2024,11.99,24,Drama,4,4,NO,30,20,UK,Cryptocurrency,Hindi,98,3.9,NO,Expired,4477,Laptop,18-24,Afternoon
+2942,Jaclyn,02-09-2023,30-11-2024,11.99,167,Sci-Fi,5,5,NO,127,138,UK,Credit Card,Mandarin,66,4.7,YES,Active,711,Smart TV,35-44,Evening
+8833,Cheryl,06-07-2024,12-11-2024,7.99,289,Drama,5,2,NO,216,162,France,PayPal,Hindi,99,3.7,YES,Expired,3711,Smart TV,55+,Late Night
+8079,Jennifer,07-07-2023,13-12-2024,7.99,450,Action,1,2,YES,12,133,Canada,Debit Card,Hindi,100,3.4,NO,Active,2534,Tablet,35-44,Afternoon
+3797,Jennifer,06-04-2024,17-12-2024,11.99,165,Sci-Fi,5,5,NO,421,3,USA,Cryptocurrency,English,96,4.5,YES,Expired,2624,Desktop,55+,Evening
+7268,Deborah,05-08-2023,17-12-2024,15.99,391,Action,2,2,NO,988,82,USA,PayPal,German,73,3,YES,Expired,3617,Smart TV,18-24,Morning
+9803,Tina,14-07-2024,23-11-2024,11.99,318,Drama,2,1,NO,376,44,USA,Cryptocurrency,Mandarin,42,3.9,NO,Expired,3078,Tablet,25-34,Morning
+2165,Allison,22-06-2024,29-11-2024,15.99,157,Documentary,2,2,NO,542,80,Australia,PayPal,English,53,4.2,NO,Active,164,Smart TV,35-44,Evening
+1528,Sara,01-10-2023,19-11-2024,11.99,25,Drama,3,5,YES,232,196,UK,Debit Card,Spanish,48,3.2,NO,Paused,2805,Smart TV,18-24,Morning
+5978,Joel,04-12-2023,12-09-2024,11.99,112,Drama,3,4,YES,505,118,UK,PayPal,English,81,3.9,NO,Active,3848,Desktop,25-34,Afternoon
+5967,Diana,05-12-2023,14-12-2024,11.99,479,Action,2,5,NO,394,35,Australia,Cryptocurrency,Mandarin,93,3.7,NO,Active,836,Desktop,25-34,Late Night
+4254,James,31-07-2023,18-12-2024,11.99,233,Romance,1,2,YES,769,132,India,PayPal,Hindi,82,4.3,YES,Paused,2761,Laptop,18-24,Morning
+2186,Jeffrey,27-11-2024,18-12-2024,7.99,44,Drama,4,4,NO,89,90,India,Debit Card,French,48,5,YES,Active,4633,Tablet,35-44,Late Night
+7644,Christian,12-08-2024,15-12-2024,15.99,456,Action,2,3,YES,240,83,Canada,Credit Card,Hindi,76,4,NO,Active,4260,Smart TV,18-24,Late Night
+5897,Hunter,09-12-2023,12-06-2024,7.99,486,Drama,3,2,NO,181,15,Germany,Credit Card,German,0,4.2,NO,Expired,447,Tablet,18-24,Morning
+7465,Shane,11-11-2024,12-01-2024,11.99,308,Action,4,3,YES,284,81,Australia,Credit Card,Spanish,92,3.7,YES,Expired,1298,Tablet,18-24,Afternoon
+3724,Brittany,28-06-2024,12-02-2024,7.99,161,Romance,3,5,NO,698,77,Canada,PayPal,Spanish,32,3.7,NO,Active,3445,Laptop,45-54,Afternoon
+2914,Erica,07-07-2023,14-12-2024,15.99,316,Comedy,3,1,NO,734,21,Canada,Credit Card,Hindi,65,4.6,NO,Expired,3039,Smart TV,55+,Late Night
+4110,Justin,27-01-2024,26-11-2024,11.99,133,Drama,5,4,NO,951,86,UK,PayPal,German,88,4.4,NO,Paused,3815,Smart TV,45-54,Evening
+6944,Sarah,28-05-2024,30-11-2024,15.99,270,Comedy,3,6,NO,271,5,UK,Credit Card,Spanish,41,3.5,NO,Cancelled,1135,Laptop,18-24,Late Night
+3639,Lindsay,21-07-2023,22-11-2024,11.99,85,Horror,3,1,YES,851,48,USA,Cryptocurrency,French,45,4.6,NO,Expired,2706,Tablet,35-44,Evening
+8416,Rachel,28-04-2023,29-11-2024,11.99,65,Drama,2,3,YES,302,6,UK,PayPal,Hindi,81,3.5,YES,Active,3828,Tablet,18-24,Evening
+7753,David,12-09-2024,13-12-2024,7.99,393,Drama,3,3,NO,829,117,USA,Credit Card,Hindi,65,4.9,YES,Cancelled,4409,Smart TV,35-44,Afternoon
+9528,Breanna,16-02-2023,12-12-2024,11.99,181,Action,5,5,NO,860,148,USA,Debit Card,Mandarin,3,4.3,YES,Paused,433,Tablet,18-24,Afternoon
+2960,James,12-03-2023,12-09-2024,11.99,416,Sci-Fi,5,4,YES,964,187,USA,Cryptocurrency,French,6,3.2,NO,Cancelled,2554,Smart TV,35-44,Late Night
+1090,Hector,17-05-2024,29-11-2024,15.99,243,Sci-Fi,3,2,NO,40,52,Canada,Cryptocurrency,English,4,4,YES,Cancelled,1348,Desktop,25-34,Morning
+2410,Jennifer,12-11-2024,12-08-2024,11.99,381,Romance,2,3,YES,568,62,Germany,Debit Card,Mandarin,50,4.8,NO,Cancelled,1375,Laptop,25-34,Late Night
+1575,James,10-04-2023,12-11-2024,11.99,71,Comedy,5,4,YES,666,100,Australia,Credit Card,Mandarin,97,3.1,NO,Expired,3630,Desktop,45-54,Late Night
+9259,Dale,14-08-2024,12-07-2024,11.99,219,Horror,4,1,YES,318,37,France,Cryptocurrency,Spanish,69,3.9,YES,Active,1457,Laptop,45-54,Late Night
+2170,Lisa,11-07-2023,15-12-2024,15.99,335,Action,2,4,NO,609,181,Canada,PayPal,Hindi,81,4.7,YES,Expired,3332,Laptop,18-24,Late Night
+2237,Anthony,06-08-2023,18-12-2024,7.99,435,Comedy,2,1,NO,163,69,India,PayPal,German,24,4.8,YES,Paused,3815,Laptop,35-44,Afternoon
+2697,Christine,05-10-2024,12-09-2024,15.99,423,Drama,4,3,NO,648,46,USA,Debit Card,Spanish,0,4.5,NO,Expired,3859,Smartphone,55+,Late Night
+4488,Stephen,28-05-2023,12-05-2024,7.99,304,Romance,1,3,NO,975,10,Canada,PayPal,English,48,3.2,NO,Expired,3923,Smart TV,25-34,Late Night
+5291,Marvin,24-02-2024,17-12-2024,11.99,455,Drama,3,6,YES,15,36,Germany,Debit Card,English,37,4.2,NO,Cancelled,4486,Tablet,18-24,Afternoon
+6287,Jasmine,29-04-2023,30-11-2024,11.99,449,Documentary,1,2,YES,268,11,Canada,Debit Card,English,62,5,NO,Expired,993,Desktop,25-34,Evening
+1953,Shannon,11-09-2023,23-11-2024,15.99,39,Drama,3,1,YES,791,3,Germany,Credit Card,Spanish,33,3.1,YES,Cancelled,631,Smart TV,25-34,Morning
+3457,Kenneth,25-10-2024,19-11-2024,15.99,139,Comedy,2,1,NO,257,173,Australia,Debit Card,English,16,3.7,YES,Expired,214,Smart TV,25-34,Late Night
+6504,Michelle,19-11-2023,18-12-2024,7.99,345,Sci-Fi,1,4,NO,767,66,Canada,Debit Card,Mandarin,70,3.8,NO,Expired,2327,Desktop,18-24,Late Night
+7463,Ethan,15-09-2023,12-06-2024,11.99,500,Documentary,3,5,YES,362,38,France,Debit Card,Hindi,100,4,NO,Paused,3679,Smart TV,55+,Evening
+3898,Charles,03-07-2024,28-11-2024,11.99,365,Comedy,5,5,YES,779,113,UK,PayPal,German,65,4.2,NO,Expired,2238,Smartphone,55+,Afternoon
+8481,Stephanie,16-10-2024,12-08-2024,7.99,479,Romance,4,5,NO,159,136,Canada,Cryptocurrency,German,7,4.2,YES,Expired,3655,Smart TV,18-24,Evening
+7810,Robert,24-09-2023,12-07-2024,7.99,63,Horror,4,2,YES,104,72,France,Cryptocurrency,Mandarin,17,4.9,YES,Cancelled,1587,Laptop,18-24,Afternoon
+6534,Larry,04-05-2023,12-11-2024,11.99,104,Documentary,2,6,NO,570,29,UK,PayPal,German,56,3.9,YES,Active,4501,Desktop,35-44,Late Night
+6025,Andrew,15-12-2023,25-11-2024,15.99,380,Horror,5,5,YES,112,149,Australia,Cryptocurrency,Mandarin,74,3.4,YES,Active,1910,Tablet,45-54,Morning
+5825,Michele,02-12-2024,13-12-2024,7.99,500,Drama,5,4,YES,568,151,Germany,Cryptocurrency,French,11,3.6,NO,Active,2731,Smartphone,45-54,Late Night
+1185,Victor,30-01-2023,15-12-2024,15.99,247,Romance,2,2,NO,943,42,UK,PayPal,Spanish,85,3.5,YES,Expired,4517,Smartphone,35-44,Evening
+4392,Craig,19-02-2023,12-05-2024,11.99,486,Sci-Fi,2,6,NO,887,128,USA,Credit Card,German,59,4.4,NO,Active,1238,Laptop,35-44,Morning
+5785,William,03-10-2024,19-11-2024,7.99,220,Action,2,1,NO,998,187,India,Debit Card,English,17,4.4,NO,Expired,1786,Smart TV,55+,Morning
+4718,Stephanie,21-09-2023,25-11-2024,15.99,21,Drama,5,1,YES,484,112,India,Credit Card,Hindi,88,3.5,YES,Cancelled,1683,Tablet,55+,Morning
+3992,John,25-08-2024,25-11-2024,11.99,417,Action,2,5,YES,458,145,Germany,Debit Card,Spanish,91,3.3,YES,Active,996,Laptop,25-34,Evening
+6100,Desiree,24-06-2024,20-11-2024,11.99,191,Comedy,1,4,NO,925,124,Germany,Cryptocurrency,Hindi,37,4.1,NO,Expired,608,Smartphone,18-24,Evening
+8495,Edward,01-09-2024,26-11-2024,7.99,460,Comedy,5,2,NO,559,136,France,Credit Card,German,58,3.6,NO,Active,4650,Desktop,55+,Morning
+3083,Jason,09-05-2023,13-12-2024,7.99,413,Documentary,5,5,YES,895,3,USA,Credit Card,German,87,3.2,YES,Paused,1340,Laptop,35-44,Late Night
+9936,Elizabeth,05-11-2023,17-12-2024,7.99,484,Action,1,6,YES,570,18,Germany,Credit Card,Hindi,5,4.6,YES,Expired,1821,Smartphone,25-34,Morning
+2418,Nicole,09-04-2024,19-11-2024,15.99,227,Romance,1,4,YES,187,48,USA,Credit Card,French,6,3.4,YES,Paused,3020,Laptop,45-54,Evening
+4089,Amy,12-08-2024,17-12-2024,11.99,313,Sci-Fi,5,6,YES,900,135,Canada,Debit Card,French,87,4.8,NO,Cancelled,1243,Smartphone,55+,Afternoon
+8876,Leslie,17-04-2023,23-11-2024,11.99,491,Horror,2,3,YES,194,187,India,PayPal,French,44,4.4,YES,Expired,540,Smartphone,25-34,Afternoon
+3959,Alicia,26-12-2023,16-12-2024,15.99,50,Sci-Fi,4,2,YES,155,115,USA,Debit Card,German,92,4.3,NO,Paused,2583,Desktop,45-54,Afternoon
+2011,Donald,14-05-2023,12-04-2024,7.99,73,Romance,2,1,YES,184,172,India,Cryptocurrency,English,41,4.8,NO,Cancelled,3463,Smartphone,35-44,Morning
+7896,Michael,19-06-2024,29-11-2024,11.99,139,Sci-Fi,4,5,YES,539,152,Canada,Debit Card,German,48,3.8,YES,Cancelled,4130,Desktop,35-44,Afternoon
+5495,Grant,17-01-2024,29-11-2024,11.99,327,Documentary,2,6,YES,182,14,USA,Debit Card,French,90,3.4,NO,Paused,3918,Laptop,18-24,Late Night
+6219,Michelle,22-07-2024,16-12-2024,11.99,206,Drama,4,1,NO,981,60,UK,PayPal,English,41,4.4,YES,Cancelled,4264,Desktop,25-34,Late Night
+4458,Sydney,26-10-2023,20-11-2024,15.99,23,Sci-Fi,3,3,YES,489,7,India,Debit Card,Mandarin,54,4.5,YES,Expired,1485,Tablet,18-24,Evening
+4115,Shawna,24-11-2024,24-11-2024,15.99,158,Comedy,1,5,YES,603,72,India,Credit Card,Hindi,88,3.3,NO,Active,3508,Smart TV,55+,Afternoon
+6586,Allison,26-01-2023,15-12-2024,15.99,459,Comedy,2,1,NO,445,153,France,PayPal,Hindi,13,4.2,NO,Cancelled,3433,Desktop,45-54,Evening
+3985,Andrew,06-12-2024,12-12-2024,15.99,30,Documentary,4,6,NO,233,10,Germany,Cryptocurrency,Spanish,71,4.6,NO,Active,3610,Smartphone,45-54,Late Night
+8501,Mark,04-08-2024,19-11-2024,11.99,42,Documentary,5,2,YES,464,171,USA,Cryptocurrency,English,88,4.6,YES,Paused,3307,Smart TV,18-24,Morning
+4048,Nicole,06-02-2024,17-12-2024,11.99,242,Horror,3,1,NO,273,96,Germany,Credit Card,French,34,4.9,YES,Expired,868,Smart TV,18-24,Morning
+4466,Matthew,10-06-2024,27-11-2024,11.99,25,Drama,5,2,NO,162,147,Germany,Debit Card,English,82,4.3,NO,Expired,4358,Smart TV,25-34,Late Night
+5479,David,03-04-2023,12-08-2024,7.99,140,Romance,4,4,NO,218,5,India,PayPal,French,86,3.6,NO,Cancelled,4552,Desktop,55+,Late Night
+2480,Shane,26-08-2023,17-12-2024,15.99,192,Comedy,5,3,NO,39,18,UK,Cryptocurrency,German,75,3.3,YES,Paused,3003,Desktop,18-24,Morning
+6288,Kathryn,04-02-2024,12-11-2024,15.99,267,Romance,1,2,NO,107,140,Australia,PayPal,French,7,4.8,NO,Expired,783,Smart TV,25-34,Evening
+9973,John,14-04-2023,15-12-2024,11.99,410,Romance,4,4,NO,513,52,Canada,Debit Card,French,19,4.7,NO,Active,3578,Smart TV,25-34,Late Night
+6078,Kara,23-09-2024,15-12-2024,7.99,281,Comedy,4,5,NO,905,128,Germany,Cryptocurrency,German,70,4.3,NO,Cancelled,1952,Laptop,18-24,Evening
+5362,Julie,03-07-2024,27-11-2024,15.99,478,Comedy,4,3,YES,551,96,UK,Cryptocurrency,Spanish,65,4.6,YES,Expired,860,Laptop,55+,Morning
+1687,Joshua,19-04-2024,24-11-2024,7.99,44,Action,4,5,YES,190,193,France,PayPal,Hindi,13,3.1,NO,Paused,3,Laptop,18-24,Late Night
+8986,Gary,12-01-2024,16-12-2024,15.99,250,Action,1,2,YES,69,35,Canada,Credit Card,German,13,3.3,YES,Active,1836,Smart TV,25-34,Evening
+5994,Chelsea,21-10-2023,12-04-2024,7.99,225,Drama,5,5,NO,274,83,UK,Credit Card,German,45,3.9,NO,Paused,808,Smartphone,35-44,Afternoon
+6293,John,16-09-2024,21-11-2024,15.99,473,Sci-Fi,4,4,NO,605,93,Germany,Debit Card,Mandarin,13,4.8,NO,Paused,2141,Desktop,35-44,Late Night
+7558,Sandra,13-11-2024,12-08-2024,11.99,236,Sci-Fi,1,5,YES,225,94,Germany,Debit Card,English,61,3.7,NO,Expired,1254,Laptop,35-44,Evening
+1805,Jennifer,02-04-2023,30-11-2024,11.99,349,Comedy,4,4,YES,386,195,USA,Cryptocurrency,German,59,4.6,NO,Expired,2864,Laptop,35-44,Late Night
+1661,Margaret,16-04-2023,12-08-2024,15.99,139,Comedy,4,5,YES,442,110,Canada,Credit Card,Hindi,91,4.7,YES,Paused,4589,Smartphone,55+,Evening
+8960,Jason,16-01-2024,12-02-2024,15.99,278,Romance,3,2,YES,382,25,UK,PayPal,French,72,4.4,NO,Paused,2932,Smartphone,55+,Afternoon
+6131,Nichole,30-07-2024,17-12-2024,7.99,242,Horror,5,2,YES,156,166,France,Cryptocurrency,Hindi,53,5,NO,Expired,1697,Tablet,18-24,Late Night
+4114,Eric,30-11-2023,14-12-2024,11.99,251,Horror,5,6,YES,687,160,India,Debit Card,English,88,4.5,NO,Cancelled,1411,Tablet,18-24,Evening
+4833,Nathan,13-04-2024,12-10-2024,7.99,268,Drama,4,4,YES,778,122,Canada,Credit Card,Hindi,12,3.8,YES,Active,3437,Laptop,25-34,Evening
+2401,Rachel,10-06-2024,12-02-2024,7.99,322,Comedy,4,6,NO,616,45,Germany,PayPal,Spanish,22,4.9,YES,Active,4509,Smart TV,35-44,Evening
+1037,Natalie,25-06-2023,30-11-2024,7.99,356,Documentary,3,3,YES,314,50,Canada,Credit Card,Mandarin,7,4.9,YES,Paused,3165,Smart TV,25-34,Morning
+2675,Chad,18-02-2023,12-04-2024,15.99,28,Documentary,2,1,YES,666,65,France,PayPal,German,21,4.3,NO,Paused,2538,Desktop,18-24,Late Night
+1665,Megan,28-02-2024,17-12-2024,11.99,43,Comedy,5,2,NO,767,83,Australia,Cryptocurrency,German,58,3,YES,Cancelled,245,Desktop,35-44,Afternoon
+5671,Martin,27-05-2023,29-11-2024,11.99,391,Drama,3,3,YES,811,3,USA,PayPal,French,17,4.2,NO,Cancelled,1364,Smart TV,35-44,Morning
+5153,Ryan,26-06-2024,18-12-2024,7.99,300,Sci-Fi,1,4,YES,413,154,Canada,PayPal,French,64,4.1,NO,Active,732,Desktop,55+,Evening
+1114,Angela,01-02-2023,15-12-2024,11.99,75,Horror,3,3,NO,324,175,USA,Debit Card,German,18,3.3,NO,Paused,4976,Tablet,45-54,Evening
+6180,Chad,08-09-2024,12-02-2024,11.99,154,Romance,1,5,YES,52,108,Germany,Credit Card,German,94,4.1,NO,Cancelled,4176,Tablet,18-24,Late Night
+8237,Mary,19-05-2023,12-07-2024,7.99,179,Comedy,2,6,NO,680,50,USA,Credit Card,English,52,3.4,NO,Active,2919,Smartphone,25-34,Late Night
+9500,Marissa,13-09-2023,12-10-2024,11.99,147,Documentary,1,1,YES,780,76,USA,Credit Card,Mandarin,21,4.4,YES,Cancelled,3081,Tablet,25-34,Late Night
+7476,Patrick,16-06-2023,27-11-2024,11.99,235,Horror,3,1,YES,569,176,France,Debit Card,French,18,3.8,YES,Active,3138,Desktop,35-44,Afternoon
+9908,Kelly,01-03-2023,12-04-2024,11.99,390,Romance,3,1,NO,256,183,Germany,Credit Card,German,89,3.2,YES,Expired,1180,Smart TV,45-54,Evening
+1534,Mary,22-07-2024,18-12-2024,7.99,116,Action,1,4,NO,799,137,USA,Credit Card,Mandarin,78,4.6,YES,Expired,4518,Desktop,55+,Evening
+4613,Cynthia,03-03-2023,12-04-2024,15.99,492,Action,1,2,NO,237,55,Australia,Cryptocurrency,Mandarin,15,4.9,YES,Active,3843,Smartphone,35-44,Evening
+5063,Jasmine,06-04-2024,22-11-2024,7.99,159,Action,4,5,YES,138,3,Germany,Debit Card,Hindi,12,3.9,YES,Cancelled,3604,Laptop,25-34,Morning
+4548,Sarah,06-08-2023,20-11-2024,7.99,279,Romance,4,6,NO,636,176,France,Cryptocurrency,French,32,3.7,YES,Paused,4445,Smartphone,25-34,Afternoon
+7556,Adam,17-07-2024,26-11-2024,15.99,386,Action,2,6,YES,461,178,USA,Cryptocurrency,Hindi,79,3.7,NO,Paused,1587,Tablet,35-44,Afternoon
+1846,Mason,21-06-2024,12-07-2024,15.99,332,Sci-Fi,1,6,NO,20,128,Australia,Credit Card,English,50,5,NO,Expired,4400,Smart TV,45-54,Late Night
+7088,Amy,01-01-2024,21-11-2024,11.99,176,Documentary,5,5,YES,276,138,Australia,PayPal,Spanish,56,4.7,NO,Cancelled,2891,Smartphone,18-24,Morning
+1179,Craig,06-07-2024,18-12-2024,11.99,221,Romance,4,1,YES,603,141,Germany,Cryptocurrency,Hindi,44,3.3,YES,Expired,1363,Smartphone,35-44,Afternoon
+2190,Lindsay,31-12-2023,12-05-2024,7.99,263,Horror,4,1,YES,799,14,USA,Credit Card,Mandarin,32,3.3,NO,Active,2323,Smart TV,55+,Evening
+2847,Charles,23-09-2023,27-11-2024,15.99,222,Documentary,1,3,NO,785,147,France,Credit Card,Mandarin,21,4.8,YES,Active,4291,Smart TV,45-54,Morning
+6570,Joseph,12-08-2024,12-12-2024,11.99,39,Romance,5,3,YES,28,189,Canada,Credit Card,French,26,4.6,YES,Paused,4938,Smartphone,55+,Evening
+1149,Michael,29-05-2023,28-11-2024,11.99,445,Action,3,2,YES,637,14,USA,Debit Card,French,50,3.2,YES,Cancelled,913,Desktop,45-54,Late Night
+1336,James,25-04-2024,12-10-2024,11.99,164,Sci-Fi,3,3,YES,79,130,Canada,PayPal,French,47,3.9,NO,Paused,3925,Laptop,55+,Morning
+6956,Brandon,21-02-2024,24-11-2024,15.99,101,Sci-Fi,5,1,YES,175,125,India,Debit Card,Mandarin,44,3.6,YES,Active,2517,Laptop,55+,Evening
+7015,Jaclyn,10-02-2024,12-09-2024,11.99,424,Drama,1,3,YES,684,127,Germany,Cryptocurrency,Mandarin,97,4.6,NO,Paused,2070,Laptop,25-34,Late Night
+4104,Alvin,22-07-2023,20-11-2024,15.99,182,Sci-Fi,4,5,NO,247,197,USA,Cryptocurrency,French,90,4.7,NO,Expired,4726,Laptop,35-44,Evening
+9413,Megan,27-08-2023,12-03-2024,15.99,115,Sci-Fi,2,3,YES,741,68,USA,Cryptocurrency,Hindi,30,5,YES,Active,1536,Smartphone,35-44,Morning
+8300,Carolyn,24-04-2024,13-12-2024,15.99,33,Documentary,1,4,NO,623,53,Canada,Credit Card,English,17,3.5,NO,Active,2113,Desktop,55+,Afternoon
+5126,Christopher,05-06-2024,12-03-2024,7.99,259,Drama,1,1,YES,327,76,UK,PayPal,French,9,4.3,YES,Active,428,Tablet,25-34,Afternoon
+1754,Patricia,13-06-2024,20-11-2024,15.99,309,Romance,5,6,NO,760,72,France,Credit Card,French,91,4.8,YES,Active,2336,Smart TV,45-54,Afternoon
+7089,Richard,03-03-2023,12-11-2024,7.99,367,Romance,1,3,NO,522,10,USA,PayPal,Mandarin,70,3.8,NO,Active,2344,Desktop,25-34,Morning
+1697,Tiffany,21-09-2023,27-11-2024,7.99,472,Action,5,2,YES,76,157,USA,Debit Card,French,6,3.1,YES,Paused,1351,Laptop,55+,Afternoon
+4768,Thomas,12-04-2023,23-11-2024,15.99,449,Documentary,5,4,NO,61,61,Germany,Debit Card,French,88,3.7,YES,Paused,165,Tablet,45-54,Afternoon
+4205,Daniel,14-12-2023,12-06-2024,15.99,302,Comedy,4,4,YES,800,101,USA,Cryptocurrency,English,89,4.3,NO,Paused,3411,Desktop,55+,Evening
+8844,Ashley,24-09-2024,18-12-2024,7.99,70,Sci-Fi,3,6,YES,226,104,USA,Debit Card,German,59,3.3,YES,Expired,615,Laptop,45-54,Late Night
+1103,Lindsey,05-08-2023,12-02-2024,7.99,157,Sci-Fi,2,1,NO,792,141,Canada,Credit Card,Spanish,18,4.2,NO,Expired,1538,Smartphone,55+,Afternoon
+2180,Yvonne,16-04-2023,24-11-2024,7.99,17,Horror,5,5,NO,498,67,UK,PayPal,Mandarin,67,3,YES,Paused,1835,Smart TV,35-44,Late Night
+6607,Gene,13-01-2023,12-02-2024,15.99,173,Drama,1,3,YES,950,163,France,Debit Card,French,96,4.9,YES,Active,3515,Smart TV,35-44,Late Night
+7949,Phyllis,01-11-2023,21-11-2024,11.99,301,Comedy,5,4,NO,906,141,Australia,Credit Card,Hindi,56,4.5,YES,Cancelled,1657,Desktop,35-44,Afternoon
+5337,Travis,16-08-2024,28-11-2024,7.99,357,Horror,2,4,YES,245,116,France,Cryptocurrency,Mandarin,71,4.2,YES,Active,2209,Smartphone,18-24,Late Night
+8477,Aaron,18-07-2023,12-02-2024,7.99,48,Drama,4,2,NO,33,7,USA,PayPal,German,13,4.8,YES,Paused,1327,Smart TV,45-54,Morning
+7673,Nina,18-08-2023,22-11-2024,7.99,351,Action,4,2,NO,70,41,Germany,Cryptocurrency,Spanish,78,3.7,NO,Expired,4337,Smartphone,55+,Evening
+6113,Stacy,11-06-2023,14-12-2024,11.99,491,Comedy,3,4,YES,779,86,UK,Cryptocurrency,Hindi,85,4.7,YES,Active,398,Laptop,55+,Evening
+7457,Madison,04-12-2023,29-11-2024,11.99,164,Sci-Fi,2,1,YES,536,150,UK,Debit Card,Mandarin,7,3.2,YES,Expired,1508,Smartphone,45-54,Morning
+6639,Victoria,18-12-2023,18-12-2024,7.99,304,Action,1,6,YES,902,20,Germany,PayPal,Mandarin,62,3.9,YES,Cancelled,249,Desktop,35-44,Evening
+5220,Justin,13-08-2023,12-08-2024,7.99,166,Horror,2,3,YES,493,168,USA,PayPal,English,55,3.4,YES,Cancelled,954,Laptop,18-24,Evening
+6970,Tammy,17-12-2024,12-05-2024,7.99,225,Romance,3,3,YES,589,103,Canada,Credit Card,Hindi,93,3.2,YES,Cancelled,3313,Smart TV,35-44,Morning
+6705,Joshua,28-09-2024,12-09-2024,7.99,163,Romance,2,6,YES,206,132,Germany,Debit Card,Hindi,63,3.5,YES,Cancelled,1790,Desktop,35-44,Evening
+2477,Sara,13-03-2023,26-11-2024,15.99,419,Sci-Fi,2,6,YES,752,21,USA,Debit Card,Hindi,94,3.9,NO,Paused,2864,Desktop,35-44,Afternoon
+6236,Benjamin,26-02-2023,22-11-2024,11.99,293,Action,2,3,NO,514,68,India,Credit Card,Mandarin,4,4.7,NO,Paused,1872,Tablet,25-34,Late Night
+4079,Kristen,16-01-2023,15-12-2024,7.99,171,Horror,3,6,YES,858,58,Germany,Debit Card,German,21,4.5,YES,Paused,2521,Smartphone,45-54,Afternoon
+7927,Erika,01-11-2023,20-11-2024,7.99,438,Documentary,4,3,NO,970,59,Germany,Credit Card,Spanish,78,4.6,YES,Expired,4426,Tablet,55+,Late Night
+5059,Robert,09-03-2024,27-11-2024,11.99,247,Comedy,4,4,NO,510,87,Australia,Debit Card,Mandarin,99,3.5,NO,Paused,3100,Smart TV,45-54,Afternoon
+4210,Paul,29-11-2023,26-11-2024,11.99,85,Horror,1,2,NO,770,132,UK,Debit Card,Spanish,99,4.4,NO,Cancelled,4273,Tablet,35-44,Morning
+5054,Robert,01-11-2023,30-11-2024,11.99,203,Documentary,5,2,NO,903,19,Canada,Credit Card,Hindi,76,4.6,NO,Cancelled,1254,Laptop,45-54,Morning
+5836,Bianca,08-08-2024,21-11-2024,15.99,219,Sci-Fi,1,5,YES,347,55,France,Cryptocurrency,Mandarin,64,4.6,YES,Active,4817,Smart TV,35-44,Evening
+8612,Joseph,22-02-2024,18-12-2024,7.99,285,Comedy,5,5,NO,600,109,Germany,Cryptocurrency,Mandarin,76,4,NO,Cancelled,2330,Smartphone,25-34,Morning
+7445,Lauren,19-11-2023,23-11-2024,15.99,115,Horror,2,6,YES,583,127,USA,Credit Card,English,0,3.6,NO,Expired,244,Desktop,35-44,Late Night
+6135,Carol,10-10-2024,21-11-2024,7.99,322,Drama,1,5,YES,446,114,Australia,Credit Card,English,84,4.5,YES,Active,1539,Tablet,25-34,Late Night
+3168,Alicia,04-07-2024,21-11-2024,7.99,348,Action,2,2,YES,797,81,Australia,PayPal,Spanish,12,5,YES,Expired,2657,Smart TV,45-54,Morning
+2981,Laura,05-07-2024,12-03-2024,11.99,482,Sci-Fi,5,2,YES,665,96,France,Debit Card,Spanish,24,4.7,YES,Expired,4851,Smartphone,18-24,Afternoon
+7739,Ryan,03-12-2023,12-11-2024,7.99,384,Sci-Fi,4,3,YES,188,140,France,Cryptocurrency,French,78,3.9,NO,Active,2341,Smartphone,25-34,Afternoon
+5905,Brian,03-06-2024,12-09-2024,15.99,178,Comedy,5,5,NO,489,6,India,PayPal,Spanish,72,4.5,NO,Active,3356,Tablet,55+,Late Night
+1443,Sandra,21-06-2023,17-12-2024,11.99,91,Drama,1,2,NO,377,14,USA,Credit Card,German,53,4.6,NO,Cancelled,228,Tablet,55+,Late Night
+6181,Krista,12-01-2024,12-05-2024,11.99,175,Horror,4,3,YES,424,125,UK,Credit Card,French,13,4.7,YES,Active,2821,Smart TV,35-44,Evening
+8406,Jeremiah,19-11-2023,14-12-2024,11.99,187,Action,5,5,YES,491,197,UK,PayPal,French,54,3.3,YES,Expired,4380,Smartphone,35-44,Late Night
+5389,Leon,27-05-2024,29-11-2024,11.99,352,Drama,4,1,NO,521,128,Germany,Cryptocurrency,English,59,4.6,YES,Active,2131,Desktop,45-54,Afternoon
+4586,Tracey,22-10-2023,12-01-2024,7.99,448,Action,3,4,YES,506,193,Germany,Debit Card,Spanish,79,4.3,NO,Paused,3589,Smart TV,25-34,Late Night
+4020,Edward,20-03-2024,12-02-2024,15.99,81,Sci-Fi,1,6,NO,390,43,UK,Debit Card,Mandarin,33,4,NO,Paused,4162,Desktop,45-54,Afternoon
+1635,Larry,22-12-2023,12-05-2024,15.99,321,Sci-Fi,1,5,YES,276,182,Australia,Cryptocurrency,Mandarin,52,4.9,YES,Expired,1013,Smart TV,35-44,Afternoon
+9257,Jonathan,06-05-2024,29-11-2024,7.99,114,Horror,1,1,YES,896,9,Australia,Debit Card,Mandarin,60,3.2,NO,Expired,2731,Desktop,18-24,Morning
+6380,Jennifer,04-04-2023,14-12-2024,7.99,493,Drama,5,2,YES,29,82,India,Cryptocurrency,Hindi,64,3.4,NO,Paused,833,Smartphone,18-24,Evening
+6385,Travis,19-07-2023,28-11-2024,11.99,475,Documentary,1,5,NO,523,30,Germany,Cryptocurrency,German,2,4.8,NO,Expired,2428,Smartphone,18-24,Late Night
+6858,Michelle,23-12-2023,12-12-2024,11.99,287,Documentary,1,2,NO,918,82,India,Debit Card,German,81,3.2,NO,Active,4555,Smart TV,55+,Afternoon
+8875,Larry,28-03-2023,17-12-2024,15.99,138,Action,5,2,NO,40,166,UK,Cryptocurrency,French,83,4.2,NO,Active,4777,Tablet,25-34,Morning
+3334,Kenneth,04-07-2024,12-05-2024,15.99,198,Action,3,1,YES,614,69,France,PayPal,Spanish,27,3.6,YES,Paused,459,Smartphone,25-34,Late Night
+5850,Joshua,08-07-2023,12-11-2024,15.99,164,Action,2,1,NO,833,89,France,Cryptocurrency,Spanish,32,4.9,NO,Paused,2644,Smart TV,18-24,Evening
+8593,James,23-07-2024,12-10-2024,15.99,65,Horror,4,3,NO,238,39,France,Cryptocurrency,German,23,4.7,NO,Cancelled,2678,Smart TV,45-54,Evening
+6278,Richard,18-06-2023,25-11-2024,7.99,388,Drama,1,6,YES,861,59,USA,Debit Card,Hindi,42,4.4,NO,Active,1129,Laptop,45-54,Morning
+1388,Michael,19-01-2024,12-10-2024,15.99,412,Romance,3,3,YES,999,127,USA,Cryptocurrency,Hindi,4,4,NO,Active,1258,Desktop,18-24,Late Night
+2521,Jessica,30-04-2024,27-11-2024,15.99,267,Action,4,4,NO,118,6,USA,Cryptocurrency,English,57,5,NO,Active,3213,Smartphone,55+,Evening
+1269,Helen,01-09-2023,29-11-2024,15.99,29,Action,3,2,NO,404,177,USA,Cryptocurrency,Spanish,81,4.4,NO,Cancelled,4127,Tablet,18-24,Evening
+9959,Dustin,09-11-2024,12-10-2024,15.99,454,Action,5,6,YES,938,75,Germany,Debit Card,German,51,3.1,NO,Expired,1961,Smart TV,25-34,Afternoon
+7549,Jeremiah,30-05-2024,28-11-2024,15.99,119,Romance,1,5,YES,112,181,France,Credit Card,German,47,3.2,YES,Cancelled,1708,Desktop,18-24,Afternoon
+4747,John,02-10-2024,12-09-2024,11.99,311,Action,5,1,YES,430,188,UK,Credit Card,French,78,4.4,YES,Paused,2288,Smart TV,55+,Morning
+8320,Heather,01-02-2024,12-09-2024,15.99,122,Comedy,2,2,NO,626,69,USA,PayPal,Mandarin,17,4.2,YES,Cancelled,4570,Laptop,35-44,Morning
+1333,Mark,16-04-2024,19-11-2024,15.99,300,Sci-Fi,5,4,YES,819,143,Canada,Credit Card,German,23,5,NO,Cancelled,2547,Desktop,45-54,Evening
+5254,Thomas,09-11-2024,30-11-2024,15.99,59,Romance,4,3,NO,718,3,Canada,Debit Card,German,43,4.2,YES,Cancelled,4655,Desktop,18-24,Late Night
+6842,Cody,22-06-2023,12-08-2024,15.99,34,Drama,1,4,YES,109,174,Canada,Debit Card,Hindi,74,4.4,YES,Expired,1656,Tablet,55+,Late Night
+9333,Jonathon,17-12-2023,17-12-2024,11.99,23,Comedy,2,1,NO,544,25,India,Cryptocurrency,German,47,3.6,NO,Active,2761,Laptop,25-34,Evening
+9122,Kyle,08-03-2024,12-11-2024,15.99,168,Action,3,2,YES,25,171,France,PayPal,Hindi,79,4,NO,Active,773,Desktop,25-34,Evening
+6221,Jessica,16-11-2024,25-11-2024,11.99,306,Action,5,1,YES,513,70,USA,Credit Card,Spanish,86,3.7,NO,Cancelled,1652,Desktop,18-24,Late Night
+9957,Richard,11-08-2023,13-12-2024,15.99,433,Documentary,2,6,YES,1000,48,France,Debit Card,Spanish,92,3.7,NO,Expired,1037,Tablet,55+,Late Night
+4680,Alexandria,16-12-2024,12-11-2024,11.99,221,Romance,5,5,YES,749,66,USA,Cryptocurrency,German,37,3.3,YES,Cancelled,4505,Smart TV,35-44,Afternoon
+5974,Spencer,20-10-2024,23-11-2024,15.99,236,Documentary,3,5,YES,600,199,UK,Cryptocurrency,German,56,3.7,NO,Paused,3648,Tablet,18-24,Evening
+6938,Diana,05-05-2024,12-12-2024,11.99,75,Action,4,6,NO,897,59,Germany,Credit Card,Hindi,11,3.4,NO,Active,4015,Desktop,18-24,Afternoon
+1175,Todd,03-12-2024,21-11-2024,15.99,325,Comedy,3,6,YES,412,117,Germany,Credit Card,Hindi,48,4,YES,Paused,2050,Tablet,25-34,Afternoon
+1260,Harold,03-12-2024,12-03-2024,7.99,217,Documentary,5,2,NO,669,155,Germany,Debit Card,Mandarin,40,4.8,YES,Paused,2390,Tablet,35-44,Late Night
+4645,Stephanie,30-05-2023,14-12-2024,7.99,178,Action,4,5,YES,323,130,Germany,Cryptocurrency,French,29,3,YES,Cancelled,3079,Desktop,35-44,Afternoon
+1637,Kimberly,04-05-2024,19-11-2024,15.99,74,Sci-Fi,4,3,YES,646,38,UK,Cryptocurrency,Hindi,37,4.1,NO,Expired,4111,Tablet,45-54,Late Night
+7960,Pamela,01-09-2023,22-11-2024,15.99,373,Comedy,1,3,NO,507,130,Canada,Credit Card,English,41,3.3,YES,Paused,3221,Smartphone,18-24,Morning
+9693,Gregg,28-03-2024,30-11-2024,15.99,64,Comedy,5,1,NO,881,15,UK,PayPal,Mandarin,22,3.6,NO,Cancelled,2461,Tablet,18-24,Afternoon
+8743,Katherine,30-01-2024,25-11-2024,11.99,129,Action,3,5,YES,594,127,India,PayPal,German,79,3.9,NO,Active,2858,Smartphone,45-54,Morning
+3379,Grant,09-08-2023,12-12-2024,15.99,297,Sci-Fi,3,1,YES,667,75,India,PayPal,German,89,4.5,NO,Expired,4076,Tablet,55+,Afternoon
+7696,John,11-07-2023,30-11-2024,15.99,235,Action,2,5,NO,709,151,UK,Debit Card,German,72,3.7,NO,Active,2163,Laptop,45-54,Afternoon
+8552,Amber,22-11-2023,27-11-2024,15.99,390,Action,2,4,NO,537,101,UK,Debit Card,Spanish,64,3,YES,Active,3726,Desktop,55+,Morning
+5065,Daniel,24-02-2023,30-11-2024,11.99,362,Romance,2,6,YES,490,22,UK,Cryptocurrency,German,62,4.7,YES,Paused,47,Desktop,55+,Afternoon
+6878,Mary,26-04-2024,27-11-2024,7.99,136,Sci-Fi,5,5,YES,20,18,Canada,Debit Card,Hindi,7,4.4,YES,Cancelled,4742,Tablet,35-44,Late Night
+5681,Ryan,05-08-2024,12-08-2024,11.99,159,Romance,4,6,YES,824,31,India,Cryptocurrency,English,13,3.3,NO,Cancelled,2910,Desktop,18-24,Morning
+4448,David,23-03-2024,16-12-2024,11.99,99,Sci-Fi,4,2,NO,319,187,Australia,Credit Card,English,58,3.6,NO,Cancelled,1180,Tablet,35-44,Morning
+5795,John,25-11-2023,13-12-2024,11.99,157,Action,4,2,NO,754,23,Germany,Debit Card,Spanish,43,4.4,NO,Active,1965,Laptop,25-34,Morning
+5320,Katherine,28-09-2023,12-09-2024,11.99,123,Documentary,1,6,NO,718,25,USA,PayPal,German,73,4.4,NO,Expired,3179,Smart TV,25-34,Morning
