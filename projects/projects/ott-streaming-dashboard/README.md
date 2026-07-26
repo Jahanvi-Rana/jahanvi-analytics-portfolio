@@ -1,18 +1,8 @@
-# 🎬 Enterprise OTT Streaming Analytics & Business Intelligence Platform
+# 🎬 Enterprise OTT Streaming Business Intelligence & Customer Analytics Platform
 
-<div align="center">
+### End-to-End Data Analytics | Business Intelligence | Power BI | Python | Excel
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-Data_Preprocessing-217346?style=for-the-badge&logo=microsoftexcel)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Visualization-4C72B0?style=for-the-badge)
-
-### 📊 End-to-End Business Intelligence Solution for OTT Streaming Platform Analytics
-
-Transforming raw streaming platform data into strategic business insights through **Excel**, **Python**, and **Power BI**.
+*A complete Business Intelligence case study demonstrating data preprocessing, exploratory data analysis (EDA), KPI engineering, interactive dashboard development, and business recommendations for an OTT streaming platform.*
 
 ---
 
@@ -203,13 +193,16 @@ The project combines multiple analytics tools, each serving a specific role in t
 ---
 # 📂 Repository Structure
 
-```text
 ott-streaming-dashboard/
 │
-├── 📁 notebooks/
-│   ├── Streaming_Platform_Project.xlsx
-│   ├── ott-streaming-platform.ipynb
+├── ├── 📁 dashboard/
+│   └── Streaming_Platform_Dashboard.pbix
+│
+── 📁 data/
 │   └── streaming_service_data.csv
+│
+├── 📁 notebooks/
+│   └── ott-streaming-platform.ipynb
 │
 ├── 📁 screenshots/
 │   ├── 1_project_overview.png
@@ -220,22 +213,21 @@ ott-streaming-dashboard/
 │   ├── 6_subscriber_demographics.png
 │   └── 7_advanced_monetization.png
 │
-├── README.md
-└── LICENSE
-│
-└── 📄 .gitkeep
-```
+└── README.md
 
-### Repository Contents
+---
+
+## 📂 Repository Contents
 
 | Folder/File | Description |
 |-------------|-------------|
-| **notebooks/** | Contains the complete analytics workflow, including the Excel workbook, Python notebook, and source dataset. |
-| **Streaming_Platform_Project.xlsx** | Excel workbook used for initial data validation, formatting, preprocessing, and exploratory preparation. |
-| **ott-streaming-platform.ipynb** | Jupyter Notebook containing data preprocessing, exploratory data analysis (EDA), statistical analysis, KPI engineering, business insights, and visualization. |
-| **streaming_service_data.csv** | Primary dataset used throughout the analysis. |
-| **screenshots/** | High-resolution images of the Power BI dashboard pages used in the README and portfolio. |
-| **README.md** | Comprehensive project documentation explaining the complete Business Intelligence workflow. |
+| **dashboard/** | Contains the interactive Power BI Business Intelligence dashboard. |
+| **Streaming_Platform_Dashboard.pbix** | Power BI Desktop file containing DAX measures, KPIs, interactive reports, slicers, and dashboard pages. |
+| **data/** | Contains the structured OTT streaming platform dataset used throughout the project. |
+| **streaming_service_data.csv** | Source dataset containing customer, subscription, revenue, engagement, and demographic information. |
+| **notebooks/** | Contains the complete Python-based analytical workflow. |
+| **ott-streaming-platform.ipynb** | Jupyter Notebook including data preprocessing, EDA, statistical analysis, KPI engineering, business insights, and visualizations. |
+| **screenshots/** | Dashboard screenshots used throughout the README documentation. |
 
 ---
 
@@ -810,13 +802,15 @@ By combining analytical insights with intuitive visual storytelling, the dashboa
 
 ---
 
-# 🎥 Project Deliverables & Live Demonstration
+# 📦 Project Deliverables
 
-The following deliverables represent the complete analytical workflow developed throughout this project.
-
-They provide recruiters, hiring managers, and fellow data professionals with direct access to the project artifacts, allowing them to review the implementation from raw data preparation to interactive Business Intelligence reporting.
-
-Whether you want to inspect the source code, explore the dataset, understand the dashboard design, or watch the final Business Intelligence solution in action, every major project asset is available below.
+| Deliverable | Description |
+|-------------|-------------|
+| 📒 **Python Notebook** | Complete end-to-end analytics workflow including data preprocessing, exploratory data analysis (EDA), statistical analysis, KPI engineering, business insights, and visualizations. |
+| 📊 **Dataset (CSV)** | Structured OTT streaming platform dataset used for customer, subscription, revenue, engagement, and demographic analysis. |
+| 📈 **Power BI Dashboard (.pbix)** | Interactive Business Intelligence dashboard featuring executive KPIs, DAX measures, customer analytics, revenue analysis, subscriber trends, demographic segmentation, and monetization insights. |
+| 📄 **Project Documentation** | Comprehensive GitHub case study documenting the business problem, analytical workflow, dashboard development, insights, and strategic recommendations. |
+| 🎥 **Dashboard Walkthrough** | Video demonstration showcasing the interactive Power BI dashboard, navigation, slicers, filters, and reporting capabilities. |
 
 ---
 
@@ -833,15 +827,15 @@ Whether you want to inspect the source code, explore the dataset, understand the
 
 ---
 
-# 🔗 Access Project Assets
+## 🔗 Access Project Assets
 
 | Resource | Link |
 |----------|------|
 | 📒 Python Notebook | [`ott-streaming-platform.ipynb`](notebooks/ott-streaming-platform.ipynb) |
-| 📊 Dataset | [`streaming_service_data.csv`](notebooks/streaming_service_data.csv) |
+| 📊 Dataset | [`streaming_service_data.csv`](data/streaming_service_data.csv) |
+| 📈 Power BI Dashboard | [`Streaming_Platform_Dashboard.pbix`](dashboard/Streaming_Platform_Dashboard.pbix) |
 | 🎥 Dashboard Walkthrough | **[▶ Watch Power BI Dashboard Demo](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)** |
 
----
 
 > ## 📌 Recruiter Note
 >
@@ -1160,15 +1154,18 @@ If you'd like to explore, reproduce, or learn from this project, follow the step
 
 ---
 
-## 📂 Project Structure
+## ## 📂 Project Structure
 
 ```text
 ott-streaming-dashboard/
+│── 📁 dashboard/
+│   └── Streaming_Platform_Dashboard.pbix
+│
+├── 📁 data/
+│   └── streaming_service_data.csv
 │
 ├── 📁 notebooks/
-│   ├── Streaming_Platform_Project.xlsx
-│   ├── ott-streaming-platform.ipynb
-│   └── streaming_service_data.csv
+│   └── ott-streaming-platform.ipynb
 │
 ├── 📁 screenshots/
 │   ├── 1_project_overview.png
@@ -1179,8 +1176,7 @@ ott-streaming-dashboard/
 │   ├── 6_subscriber_demographics.png
 │   └── 7_advanced_monetization.png
 │
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
@@ -1259,7 +1255,7 @@ Run all notebook cells sequentially to reproduce the complete analytical workflo
 Open the Power BI Dashboard.
 
 ```text
-Streaming_Platform_Dashboard.pbix
+dashboard/Streaming_Platform_Dashboard.pbix
 ```
 
 (If Power BI Desktop is installed.)
