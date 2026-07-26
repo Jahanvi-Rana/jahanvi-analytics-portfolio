@@ -212,13 +212,16 @@ ott-streaming-dashboard/
 │   └── streaming_service_data.csv
 │
 ├── 📁 screenshots/
-│   ├── 1_cards_and_KPI.png
-│   ├── 2_revenue_trends.png
-│   ├── 3_User_Engagement_&_Retention.png
-│   ├── 4_Subscriber_trends.png
-│   └── 5_Subscriber_Demographics.png
+│   ├── 1_project_overview.png
+│   ├── 2_cards_and_kpi.png
+│   ├── 3_revenue_trends.png
+│   ├── 4_user_engagement_retention.png
+│   ├── 5_subscriber_trends.png
+│   ├── 6_subscriber_demographics.png
+│   └── 7_advanced_monetization.png
 │
-├── 📄 README.md
+├── README.md
+└── LICENSE
 │
 └── 📄 .gitkeep
 ```
@@ -971,25 +974,408 @@ The following section presents the key business insights discovered during the a
 
 ---
 
-# TEMPORARY 
-# TEMPORARY 
+---
 
-## 📊 Project Artifacts & Live Demos
+# ⚠️ Challenges Faced & How I Solved Them
 
-* `ott-streaming-platform.ipynb` — Interactive notebook containing all clean data cells, text processing pipelines, KPI outputs, and visualizations (accessible directly in the repository folder above).
-* `streaming_service_data.csv` — The raw structured database containing the observations and features.
-* **Dashboard Video Walkthrough:** [Watch Power BI Dashboard Demo on Google Drive 🎥](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)
+This project was my first end-to-end Data Analytics and Business Intelligence project.
+
+Although I had completed certifications in Microsoft Excel, Python, and Power BI before starting this project, applying those skills to a real business problem was a completely different experience.
+
+Throughout the project, I faced several practical challenges that helped me strengthen both my technical knowledge and analytical thinking.
+
+---
+
+## 🧹 1. Preparing a Realistic Dataset
+
+### Challenge
+
+The dataset used in this project was inspired by a public Kaggle dataset.
+
+However, I wanted to understand how real business datasets are structured instead of relying entirely on publicly available data.
+
+This required reviewing the dataset carefully and making my own modifications to improve its analytical quality.
+
+### How I Solved It
+
+I independently refined approximately **40% of the dataset** while retaining the remaining structure from the original source.
+
+During this process I:
+
+- Validated the dataset structure.
+- Corrected date formats using **Format Cells** and **Text to Columns** in Excel.
+- Organized inconsistent values.
+- Performed preprocessing before importing the data into Python.
+
+This process helped me better understand how raw business data is prepared before analysis begins.
+
+---
+
+## 🔗 2. Understanding Relationships Between Columns
+
+### Challenge
+
+One of the biggest challenges was understanding how different columns were related to one another.
+
+Initially, connecting customer information, subscription details, engagement metrics, revenue, and demographic attributes into one meaningful analytical workflow was confusing.
+
+I realized that if these relationships were not understood correctly, the final analysis and business insights would also be inaccurate.
+
+### How I Solved It
+
+Instead of immediately creating visualizations, I spent time understanding what every column represented and how different variables interacted with each other.
+
+Once those relationships became clear, it became much easier to answer business questions and build meaningful dashboards.
+
+This experience improved my analytical thinking much more than simply learning new tools.
+
+---
+
+## 🤖 3. Developing Meaningful Recommendation Logic
+
+### Challenge
+
+The most technically challenging part of this project was designing the recommendation logic and ensuring that the analytical results could realistically support business decisions.
+
+I wanted the recommendations to reflect how an actual OTT streaming platform might analyze customer behavior instead of generating generic observations.
+
+### How I Solved It
+
+I focused on validating correlations, reviewing engagement patterns, analyzing subscription behavior, and connecting multiple analytical findings before writing any business recommendations.
+
+This taught me that effective analytics is not only about creating charts—it is about interpreting data correctly and providing recommendations that businesses can confidently use.
+
+---
+
+## 📊 4. Building an Interactive Dashboard
+
+### Challenge
+
+Creating charts was relatively straightforward compared to designing an interactive dashboard that users could easily explore.
+
+I wanted the dashboard to feel intuitive, organized, and useful for business users rather than simply displaying multiple visualizations on a page.
+
+### How I Solved It
+
+I divided the dashboard into multiple analytical pages, each focusing on a specific business area such as:
+
+- Executive KPIs
+- Revenue Analysis
+- User Engagement
+- Subscriber Trends
+- Customer Demographics
+- Monetization Analysis
+
+I also implemented interactive slicers and cross-filtering so users could explore the data from different perspectives.
+
+This became my favorite part of the project because it transformed the analysis into a practical Business Intelligence solution.
+
+---
+
+# 📚 Key Learnings
+
+Working on this project helped me understand that successful Data Analytics involves much more than writing code or creating dashboards.
+
+Throughout this project I learned how to:
+
+- Prepare and clean real-world datasets.
+- Apply Excel, Python, and Power BI together within a single workflow.
+- Perform Exploratory Data Analysis (EDA).
+- Interpret customer behavior through data.
+- Engineer meaningful business KPIs.
+- Build interactive Business Intelligence dashboards.
+- Convert analytical findings into business recommendations.
+- Present insights through clear data storytelling.
+
+More importantly, I learned that dashboards are valuable only when they help decision-makers answer business questions and take informed actions.
+
+---
+
+# 🚀 Continuous Learning & Future Direction
+
+This project marks the beginning of my practical journey in Data Analytics and Business Intelligence.
+
+Rather than revisiting this project immediately, my current focus is on building new projects that challenge me to learn additional tools, explore more advanced analytical techniques, and solve increasingly complex business problems.
+
+Each project in my portfolio is designed to build upon the previous one, allowing me to continuously strengthen my skills in data preparation, statistical analysis, Business Intelligence, and data storytelling.
+
+Although I do not currently plan to develop a Version 2 of this project, the knowledge and experience gained from it continue to influence how I approach every new analytics project.
+
+My objective is to create a portfolio that clearly demonstrates continuous learning, technical growth, and the ability to solve real-world business problems through data.
 
 
-### 💡 Interactive Dashboard Walkthrough Guide
-*Since this video demonstration is a silent walkthrough, the following navigation index outlines the exact Business Intelligence configurations, user experiences (UX), and dynamic operations being demonstrated:*
+---
 
-* **🌐 UI/UX & Navigation Bar Validation (0:00 - Begin):** Demonstrating the seamless execution of the interactive navigation menu. This highlights custom page-routing architecture, confirming that end-users can transition flawlessly across separate reporting layers without breaks or calculation delays.
+# 💼 Skills Strengthened Through This Project
 
-* **📊 Complete Dashboard Architecture Overview:** A systematic structural review of all reporting canvases. This showcases the comprehensive visual layout, strategic placement of high-level KPI blocks, typography consistency, and overall dashboard aesthetic tailored for C-suite review.
+### Technical Skills
 
-* **🎛️ Dynamic Cross-Filtering & Slicer Evaluation:** A live stress-test of interactive visual slicers. This demonstrates how a single selection trigger instantly updates, recalibrates, and redraws global visualizations simultaneously—proving responsive DAX modeling and clean backend data relationships.
+- Microsoft Excel
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- DAX
+- Git & GitHub
 
-* **🔄 Multi-Page Synchronized Slicer Testing:** Replicating data-slicing operations across multiple distinct sheets. This validates synchronized slicer connections, ensuring that granular filtering states persist seamlessly across separate analytical views for unified data exploration.
+### Analytical Skills
 
-* **🔍 Final Visual Quality Audit:** A closing comprehensive sweep of all dashboard sheets to verify rendering stability, accurate data alignment, and production-ready interface aesthetics.
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- KPI Engineering
+- Business Intelligence
+- Dashboard Development
+- Data Storytelling
+- Business Recommendation Development
+
+### Professional Skills
+
+- Analytical Thinking
+- Problem Solving
+- Attention to Detail
+- Business Communication
+- Documentation
+- Continuous Learning
+
+---
+
+> **📌 Portfolio Philosophy**
+>
+> I believe a strong portfolio should demonstrate continuous growth rather than repeated variations of the same project.
+>
+> For that reason, instead of creating multiple versions of a single project, I aim to build diverse analytics case studies across different business domains, with each project introducing new tools, techniques, and business challenges.
+>
+> My goal is to create a portfolio that reflects both technical progression and a deeper understanding of how data can support real-world business decision-making.
+
+---
+
+---
+
+# 🚀 Getting Started
+
+If you'd like to explore, reproduce, or learn from this project, follow the steps below.
+
+---
+
+## 📂 Project Structure
+
+```text
+ott-streaming-dashboard/
+│
+├── 📁 notebooks/
+│   ├── Streaming_Platform_Project.xlsx
+│   ├── ott-streaming-platform.ipynb
+│   └── streaming_service_data.csv
+│
+├── 📁 screenshots/
+│   ├── 1_project_overview.png
+│   ├── 2_cards_and_kpi.png
+│   ├── 3_revenue_trends.png
+│   ├── 4_user_engagement_retention.png
+│   ├── 5_subscriber_trends.png
+│   ├── 6_subscriber_demographics.png
+│   └── 7_advanced_monetization.png
+│
+├── README.md
+└── LICENSE
+```
+
+---
+
+# 💻 Software Requirements
+
+To explore this project, the following software is recommended:
+
+| Software | Purpose |
+|----------|---------|
+| Microsoft Excel | Initial data validation & preprocessing |
+| Python 3.x | Data preprocessing & analysis |
+| Jupyter Notebook | Running the analytical workflow |
+| Power BI Desktop | Viewing and interacting with the dashboard |
+| Git | Version control |
+| GitHub | Repository hosting |
+
+---
+
+# 📦 Python Libraries
+
+Install the required libraries before running the notebook.
+
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+---
+
+# ▶️ Running the Project
+
+### Step 1
+
+Clone the repository.
+
+```bash
+git clone https://github.com/Jahanvi-Rana/jahanvi-analytics-portfolio.git
+```
+
+---
+
+### Step 2
+
+Navigate to the project folder.
+
+```bash
+cd projects/projects/ott-streaming-dashboard
+```
+
+---
+
+### Step 3
+
+Open the Jupyter Notebook.
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```text
+ott-streaming-platform.ipynb
+```
+
+---
+
+### Step 4
+
+Run all notebook cells sequentially to reproduce the complete analytical workflow.
+
+---
+
+### Step 5
+
+Open the Power BI Dashboard.
+
+```text
+Streaming_Platform_Dashboard.pbix
+```
+
+(If Power BI Desktop is installed.)
+
+---
+
+# 📊 Project Outputs
+
+After successfully running the project, you will be able to explore:
+
+- 📈 Exploratory Data Analysis (EDA)
+- 📊 Statistical Analysis
+- 📌 KPI Engineering
+- 📉 Business Insights
+- 📊 Power BI Dashboard
+- 🚀 Strategic Business Recommendations
+
+---
+
+# 📁 Dataset Information
+
+**Dataset Inspiration**
+
+Public Kaggle Dataset (modified and enhanced for this project).
+
+**Dataset Type**
+
+OTT Streaming Platform Analytics
+
+**Business Domain**
+
+Entertainment & Media Analytics
+
+**Data Processing**
+
+- Data Validation
+- Date Formatting
+- Data Cleaning
+- Data Preparation
+- Exploratory Data Analysis
+- KPI Engineering
+
+---
+
+# 🤝 Let's Connect
+
+Thank you for taking the time to explore this project.
+
+This project represents an important milestone in my Data Analytics journey and reflects my continuous effort to improve both my technical and analytical skills.
+
+I always welcome constructive feedback, project discussions, collaboration opportunities, and conversations related to Data Analytics, Business Intelligence, and Data Visualization.
+
+If you'd like to connect, discuss ideas, or simply say hello, feel free to reach out through any of the platforms below.
+
+---
+
+# 👩‍💻 About the Author
+
+**Jahanvi Rana**
+
+Data Analytics | Business Intelligence | Power BI Developer
+
+🎯 Passionate about transforming raw data into meaningful business insights through analytics, visualization, and storytelling.
+
+Currently focused on building practical, business-oriented Data Analytics projects while continuously expanding my skills in Business Intelligence, Python, SQL, and data-driven decision-making.
+
+---
+
+# 📬 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | https://www.linkedin.com/in/jahanvirana/ |
+| 💻 GitHub | https://github.com/Jahanvi-Rana |
+| 📊 Kaggle | https://www.kaggle.com/ranajahanvi |
+| 🌐 Portfolio | https://github.com/Jahanvi-Rana/jahanvi-analytics-portfolio |
+| 📧 Email | your-email@example.com |
+
+> **Note:** Replace the email address above with your preferred professional contact email.
+
+---
+
+# 💬 Feedback & Suggestions
+
+Every project is an opportunity to learn and improve.
+
+If you have suggestions for improving the analysis, dashboard design, documentation, or Business Intelligence approach, I'd genuinely appreciate your feedback.
+
+Constructive feedback helps me continue growing as a Data Analyst.
+
+---
+
+# ⭐ Support This Project
+
+If you found this project useful, insightful, or inspiring, please consider giving it a ⭐ on GitHub.
+
+Your support motivates me to continue building high-quality Data Analytics and Business Intelligence projects.
+
+---
+
+# 📄 License
+
+This project is intended for educational, learning, and portfolio purposes.
+
+Please provide appropriate credit if you reference or adapt any part of this work.
+
+---
+
+# 🙏 Thank You
+
+Thank you for taking the time to explore this project.
+
+I hope this repository demonstrates not only my technical skills but also my approach to solving business problems through data.
+
+This project marks the beginning of my journey in Data Analytics, and I look forward to continuing that journey by building increasingly impactful analytics solutions.
+
+**Happy Exploring! 🚀**
+
+---
