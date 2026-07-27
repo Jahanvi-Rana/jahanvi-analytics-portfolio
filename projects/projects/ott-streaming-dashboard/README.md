@@ -143,31 +143,32 @@ The project was developed over approximately **five weeks** alongside academic c
 The project follows a complete end-to-end Business Intelligence workflow, transforming raw streaming platform data into executive-level insights through multiple analytical stages.
 
 ```text
-                          RAW DATASET (CSV)
-                                 │
-                                 ▼
-                 Microsoft Excel (Initial Validation)
-                                 │
-                                 ▼
-              Data Cleaning & Preprocessing (Python)
-                                 │
-                                 ▼
-            Exploratory Data Analysis (EDA)
-                                 │
-                                 ▼
-             Feature Engineering & KPI Creation
-                                 │
-                                 ▼
-          Statistical Analysis & Correlation Study
-                                 │
-                                 ▼
-         Business Insights & Recommendation Engine
-                                 │
-                                 ▼
-            Power BI Dashboard Development
-                                 │
-                                 ▼
-         Executive Business Intelligence Reporting
+RAW DATASET (CSV)
+        │
+        ▼
+Data Validation & Preparation
+        │
+        ▼
+Data Cleaning & Preprocessing
+        │
+        ▼
+Exploratory Data Analysis (EDA)
+        │
+        ▼
+Statistical Analysis & Correlation
+        │
+        ▼
+KPI Engineering & Business Metrics
+        │
+        ▼
+Business Insights & Recommendations
+        │
+        ▼
+Power BI Dashboard Development
+        │
+        ▼
+Executive Business Intelligence Reporting
+
 ```
 
 The workflow was designed to simulate a real-world analytics pipeline, where raw operational data is progressively transformed into strategic business intelligence that supports executive decision-making.
@@ -195,7 +196,7 @@ The project combines multiple analytics tools, each serving a specific role in t
 
 ott-streaming-dashboard/
 │
-├── ├── 📁 dashboard/
+├── 📁 dashboard/
 │   └── Streaming_Platform_Dashboard.pbix
 │
 ── 📁 data/
@@ -814,18 +815,6 @@ By combining analytical insights with intuitive visual storytelling, the dashboa
 
 ---
 
-# 📦 Project Deliverables
-
-| Deliverable | Description |
-|-------------|-------------|
-| 📒 **Python Notebook** | Complete end-to-end analytics workflow including data preprocessing, exploratory data analysis (EDA), statistical analysis, KPI engineering, business insights, and visualizations. |
-| 📊 **Dataset (CSV)** | Structured OTT streaming platform dataset used for customer, subscription, revenue, engagement, and demographic analysis. |
-| 📈 **Power BI Dashboard (.pbix)** | Interactive Business Intelligence dashboard featuring executive KPIs, DAX measures, customer analytics, revenue analysis, subscriber trends, demographic segmentation, and monetization insights. |
-| 📄 **Project Documentation** | Comprehensive GitHub case study documenting the business problem, analytical workflow, dashboard development, insights, and strategic recommendations. |
-| 🎥 **Dashboard Walkthrough** | Video demonstration showcasing the interactive Power BI dashboard, navigation, slicers, filters, and reporting capabilities. |
-
----
-
 ## 🔗 Access Project Assets
 
 | Resource | Link |
@@ -845,7 +834,7 @@ By combining analytical insights with intuitive visual storytelling, the dashboa
 >
 > **3. Dashboard Walkthrough** → Experience the interactive Business Intelligence solution.
 >
-> **4. Dataset & Excel Workbook** → Review the underlying data and preprocessing steps.
+> **4. Dataset** → Review the underlying data and preprocessing steps.
 >
 > Following this sequence demonstrates how raw business data was transformed into actionable insights and executive-level reporting.
 
@@ -1152,7 +1141,7 @@ If you'd like to explore, reproduce, or learn from this project, follow the step
 
 ---
 
-## ## 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 ott-streaming-dashboard/
@@ -1330,7 +1319,7 @@ Currently focused on building practical, business-oriented Data Analytics projec
 | 💻 GitHub | https://github.com/Jahanvi-Rana |
 | 📊 Kaggle | https://www.kaggle.com/ranajahanvi |
 | 🌐 Portfolio | https://portfolio-website-kappa-murex-96.vercel.app/ |
-| 📧 Email | ranajahanvi63@example.com |
+| 📧 Email | ranajahanvi63@gamil.com |
 
 > **Note:** Replace the email address above with your preferred professional contact email.
 
@@ -1351,14 +1340,6 @@ Constructive feedback helps me continue growing as a Data Analyst.
 If you found this project useful, insightful, or inspiring, please consider giving it a ⭐ on GitHub.
 
 Your support motivates me to continue building high-quality Data Analytics and Business Intelligence projects.
-
----
-
-# 📄 License
-
-This project is intended for educational, learning, and portfolio purposes.
-
-Please provide appropriate credit if you reference or adapt any part of this work.
 
 ---
 
