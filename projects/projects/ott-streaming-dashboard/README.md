@@ -819,11 +819,10 @@ By combining analytical insights with intuitive visual storytelling, the dashboa
 | Deliverable | Description |
 |-------------|-------------|
 | 📒 **Python Notebook** | Complete end-to-end analytics workflow including data preprocessing, exploratory data analysis (EDA), statistical analysis, KPI engineering, business insights, and visualizations. |
-| 📊 **Dataset (CSV)** | Structured OTT streaming platform dataset used throughout the project for customer, subscription, revenue, and engagement analysis. |
-| 📗 **Excel Workbook** | Initial data validation, formatting, preprocessing, and data preparation before Python analysis. |
-| 📈 **Power BI Dashboard** | Interactive Business Intelligence dashboard containing executive KPIs, revenue analysis, customer analytics, subscriber trends, demographic segmentation, and monetization insights. |
-| 📄 **Project Documentation** | Complete GitHub case study explaining the business problem, analytical workflow, dashboard development, insights, and recommendations. |
-| 🎥 **Dashboard Walkthrough** | Silent demonstration showcasing the interactive Power BI dashboard, navigation, slicers, filters, and Business Intelligence reporting experience. |
+| 📊 **Dataset (CSV)** | Structured OTT streaming platform dataset used for customer, subscription, revenue, engagement, and demographic analysis. |
+| 📈 **Power BI Dashboard (.pbix)** | Interactive Business Intelligence dashboard featuring executive KPIs, DAX measures, customer analytics, revenue analysis, subscriber trends, demographic segmentation, and monetization insights. |
+| 📄 **Project Documentation** | Comprehensive GitHub case study documenting the business problem, analytical workflow, dashboard development, insights, and strategic recommendations. |
+| 🎥 **Dashboard Walkthrough** | Video demonstration showcasing the interactive Power BI dashboard, navigation, slicers, filters, and reporting capabilities. |
 
 ---
 
@@ -833,7 +832,6 @@ By combining analytical insights with intuitive visual storytelling, the dashboa
 |----------|------|
 | 📒 Python Notebook | [`ott-streaming-platform.ipynb`](notebooks/ott-streaming-platform.ipynb) |
 | 📊 Dataset | [`streaming_service_data.csv`](data/streaming_service_data.csv) |
-| 📈 Power BI Dashboard | [`Streaming_Platform_Dashboard.pbix`](dashboard/Streaming_Platform_Dashboard.pbix) |
 | 🎥 Dashboard Walkthrough | **[▶ Watch Power BI Dashboard Demo](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)** |
 
 
@@ -1331,8 +1329,8 @@ Currently focused on building practical, business-oriented Data Analytics projec
 | 💼 LinkedIn | https://www.linkedin.com/in/jahanvirana/ |
 | 💻 GitHub | https://github.com/Jahanvi-Rana |
 | 📊 Kaggle | https://www.kaggle.com/ranajahanvi |
-| 🌐 Portfolio | https://github.com/Jahanvi-Rana/jahanvi-analytics-portfolio |
-| 📧 Email | your-email@example.com |
+| 🌐 Portfolio | https://portfolio-website-kappa-murex-96.vercel.app/ |
+| 📧 Email | ranajahanvi63@example.com |
 
 > **Note:** Replace the email address above with your preferred professional contact email.
 
