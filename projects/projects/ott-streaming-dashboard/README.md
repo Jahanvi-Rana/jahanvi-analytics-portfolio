@@ -491,7 +491,7 @@ The Executive KPI Dashboard provides a consolidated overview of platform perform
 It enables stakeholders to monitor the overall health of the OTT platform without navigating through multiple reports.
 
 <p align="center">
-<img src="screenshots/2_cards_and_kpi.png" width="50%">
+<img src="screenshots/2_cards_kpi.png" width="50%">
 </p>
 
 <p align="center">
